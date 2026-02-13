@@ -1,0 +1,76 @@
+# Python environments
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# Python bytecode and caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+**/.pytest_cache/
+.mypy_cache/
+**/.mypy_cache/
+.ruff_cache/
+**/.ruff_cache/
+.hypothesis/
+**/.hypothesis/
+.pyre/
+
+# Python tooling artifacts
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+**/htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Databases and local runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Node / Next.js
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+out/
+**/out/
+.turbo/
+**/.turbo/
+
+# JS coverage / caches
+coverage/
+**/coverage/
+.npm/
+.pnpm-store/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local verification outputs
+tmp/
