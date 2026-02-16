@@ -1,0 +1,185 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 1450 - 789 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": null
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 1450 - 789 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": null
+    }
+  },
+  "category": "",
+  "cik": "0001853599",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-11T19:32:56.000Z",
+        "2025-07-09T13:15:56.000Z",
+        "2023-11-22T12:17:10.000Z",
+        "2022-08-31T14:00:31.000Z",
+        "2022-01-27T20:10:24.000Z",
+        "2021-03-29T10:03:07.000Z"
+      ],
+      "accessionNumber": [
+        "0001853599-25-000004",
+        "0001853599-25-000003",
+        "0001085037-23-000121",
+        "0001085037-22-000062",
+        "0001085037-22-000001",
+        "0001085037-21-000017"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-554352",
+        "021-551118",
+        "021-497961",
+        "021-457600",
+        "021-431198",
+        "021-393820"
+      ],
+      "filingDate": [
+        "2025-08-12",
+        "2025-07-09",
+        "2023-11-22",
+        "2022-08-31",
+        "2022-01-28",
+        "2021-03-29"
+      ],
+      "filmNumber": [
+        "251203511",
+        "251112948",
+        "231431912",
+        "221217564",
+        "22564931",
+        "21779832"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11058,
+        11056,
+        11925,
+        11643,
+        12012,
+        9972
+      ]
+    }
+  },
+  "fiscalYearEnd": "0930",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2021-03-29T00:00:00.000Z",
+      "name": "CORE ASSETS CORP.",
+      "to": "2023-11-22T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "CORE SILVER CORP.",
+  "ownerOrg": "",
+  "phone": "604-681-1568",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "CCOOF"
+  ],
+  "website": ""
+}

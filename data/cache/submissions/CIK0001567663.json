@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "501 - 543 GRANVILLE STREET",
+      "street2": null,
+      "zipCode": "V6C 1X8"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "501 - 543 GRANVILLE STREET",
+      "street2": null,
+      "zipCode": "V6C 1X8"
+    }
+  },
+  "category": "",
+  "cik": "0001567663",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-15T16:44:42.000Z",
+        "2013-09-20T17:08:30.000Z",
+        "2013-01-25T14:46:28.000Z"
+      ],
+      "accessionNumber": [
+        "0001683168-25-006251",
+        "0001534122-13-000021",
+        "0001534122-13-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-555000",
+        "021-203327",
+        "021-190804"
+      ],
+      "filingDate": [
+        "2025-08-15",
+        "2013-09-20",
+        "2013-01-25"
+      ],
+      "filmNumber": [
+        "251225275",
+        "131108538",
+        "13548421"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        12111,
+        16988,
+        12934
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "ATICO MINING Corp",
+  "ownerOrg": "",
+  "phone": "604-633-9022",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "ATCMF"
+  ],
+  "website": ""
+}

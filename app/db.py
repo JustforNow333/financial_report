@@ -3,6 +3,8 @@ from __future__ import annotations
 from sqlalchemy import Engine, create_engine
 from sqlalchemy.orm import Session, scoped_session, sessionmaker
 
+from app.models import Base
+
 _engine: Engine | None = None
 SessionLocal = scoped_session(
     sessionmaker(autocommit=False, autoflush=False, expire_on_commit=False)

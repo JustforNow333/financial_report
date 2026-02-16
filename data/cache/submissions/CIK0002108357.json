@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CAMANA BAY",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": "GRAND CAYMAN",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE2206, CASSIA COURT,72 MARKET STREET",
+      "street2": "CAMANA BAY, P.O. BOX 32303",
+      "zipCode": "KY1-1209"
+    },
+    "mailing": {
+      "city": "CAMANA BAY",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": "GRAND CAYMAN",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE2206, CASSIA COURT,72 MARKET STREET",
+      "street2": "CAMANA BAY, P.O. BOX 32303",
+      "zipCode": "KY1-1209"
+    }
+  },
+  "category": "",
+  "cik": "0002108357",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-10T14:00:10.000Z",
+        "2026-02-02T13:20:38.000Z"
+      ],
+      "accessionNumber": [
+        "9999999997-26-000236",
+        "0002108357-26-000001"
+      ],
+      "act": [
+        "",
+        "33"
+      ],
+      "core_type": [
+        "SERIOUS DEFICIENCIES",
+        "F-1"
+      ],
+      "fileNumber": [
+        "",
+        "333-293115"
+      ],
+      "filingDate": [
+        "2026-02-10",
+        "2026-02-02"
+      ],
+      "filmNumber": [
+        "",
+        "26585872"
+      ],
+      "form": [
+        "SEC STAFF LETTER",
+        "F-1"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        1
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "filename1.pdf",
+        "p130261f1.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        39523,
+        692558
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "SYNO Capital Group, Inc.",
+  "ownerOrg": "07 Trade & Services",
+  "phone": "85246653295",
+  "sic": "7380",
+  "sicDescription": "Services-Miscellaneous Business Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "SYNO"
+  ],
+  "website": ""
+}

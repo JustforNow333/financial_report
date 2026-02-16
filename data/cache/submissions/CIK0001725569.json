@@ -1,0 +1,215 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "488 - 1090 WEST GEORGIA ST.",
+      "street2": null,
+      "zipCode": "V6E 3V7"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "488 - 1090 WEST GEORGIA ST.",
+      "street2": null,
+      "zipCode": "V6E 3V7"
+    }
+  },
+  "category": "",
+  "cik": "0001725569",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-30T13:50:10.000Z",
+        "2025-10-07T13:47:27.000Z",
+        "2025-02-10T19:22:01.000Z",
+        "2025-01-07T19:49:27.000Z",
+        "2025-01-07T19:41:51.000Z",
+        "2024-09-12T15:06:58.000Z",
+        "2018-01-03T14:47:04.000Z",
+        "2017-12-15T16:15:40.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-016394",
+        "0002060755-25-000048",
+        "0001183740-25-000022",
+        "0001183740-25-000010",
+        "0001183740-25-000009",
+        "0001183740-24-000074",
+        "0001183740-18-000001",
+        "0001183740-17-000247"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-562586",
+        "021-560028",
+        "021-537852",
+        "021-534522",
+        "021-534521",
+        "021-523890",
+        "021-302239",
+        "021-300928"
+      ],
+      "filingDate": [
+        "2025-10-30",
+        "2025-10-07",
+        "2025-02-11",
+        "2025-01-08",
+        "2025-01-08",
+        "2024-09-12",
+        "2018-01-03",
+        "2017-12-15"
+      ],
+      "filmNumber": [
+        "251433872",
+        "251379183",
+        "25607236",
+        "25516242",
+        "25516236",
+        "241294735",
+        "18504691",
+        "171259134"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10139,
+        11602,
+        12212,
+        12213,
+        13437,
+        10219,
+        7699,
+        7700
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2017-12-15T00:00:00.000Z",
+      "name": "GAR Ltd",
+      "to": "2018-01-03T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Axcap Ventures Inc.",
+  "ownerOrg": "",
+  "phone": "604-687-7130",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "GARLF"
+  ],
+  "website": ""
+}

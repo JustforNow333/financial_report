@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CALGARY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A0",
+      "stateOrCountryDescription": "Alberta, Canada",
+      "street1": "2440 KENSINGTON ROAD NW",
+      "street2": null,
+      "zipCode": "T2N3S1"
+    },
+    "mailing": {
+      "city": "CALGARY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A0",
+      "stateOrCountryDescription": "Alberta, Canada",
+      "street1": "2440 KENSINGTON ROAD NW",
+      "street2": null,
+      "zipCode": "T2N3S1"
+    }
+  },
+  "category": "",
+  "cik": "0001889352",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-17T17:07:03.000Z",
+        "2021-11-10T09:47:40.000Z"
+      ],
+      "accessionNumber": [
+        "0001727689-25-000026",
+        "0000899797-21-000025"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-543998",
+        "021-420614"
+      ],
+      "filingDate": [
+        "2025-04-17",
+        "2021-11-10"
+      ],
+      "filmNumber": [
+        "25848223",
+        "211394818"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        8209,
+        10867
+      ]
+    }
+  },
+  "fiscalYearEnd": "0131",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "COMPREHENSIVE HEALTHCARE SYSTEMS INC. (CANADA)",
+  "ownerOrg": "",
+  "phone": "403 613-7310",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "tickers": [
+    "CMHSF"
+  ],
+  "website": ""
+}

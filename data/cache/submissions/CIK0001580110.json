@@ -1,0 +1,175 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1111 WEST HASTINGS STREET, SUITE 905",
+      "street2": null,
+      "zipCode": "V6E 2J3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1111 WEST HASTINGS STREET, SUITE 905",
+      "street2": null,
+      "zipCode": "V6E 2J3"
+    }
+  },
+  "category": "",
+  "cik": "0001580110",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-12-20T16:58:07.000Z",
+        "2021-03-09T17:24:34.000Z",
+        "2016-03-15T16:22:29.000Z",
+        "2016-03-15T15:24:55.000Z",
+        "2013-06-26T14:11:03.000Z"
+      ],
+      "accessionNumber": [
+        "0001727689-24-000155",
+        "0001580110-21-000002",
+        "0001580110-16-000004",
+        "0001580110-16-000003",
+        "0001580110-13-000002"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-532986",
+        "021-391695",
+        "021-259318",
+        "021-259318",
+        "021-198623"
+      ],
+      "filingDate": [
+        "2024-12-20",
+        "2021-03-09",
+        "2016-03-15",
+        "2016-03-15",
+        "2013-06-26"
+      ],
+      "filmNumber": [
+        "241568711",
+        "21726997",
+        "161507189",
+        "161506712",
+        "13934101"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9706,
+        11778,
+        10792,
+        9891,
+        11377
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2016-03-15T00:00:00.000Z",
+      "name": "Libero Mining Corp",
+      "to": "2016-03-15T00:00:00.000Z"
+    },
+    {
+      "from": "2013-06-26T00:00:00.000Z",
+      "name": "Slater Mining Corp",
+      "to": "2013-06-26T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Libero Copper & Gold Corp",
+  "ownerOrg": "",
+  "phone": "778-372-2553",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "LBCMF"
+  ],
+  "website": ""
+}

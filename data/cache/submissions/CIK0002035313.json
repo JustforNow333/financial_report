@@ -1,0 +1,209 @@
+{
+  "addresses": {
+    "business": {
+      "city": "KOWLOON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "4/F, UNION PARK CENTRE",
+      "street2": "771-775 NATHAN ROAD, PRINCE EDWARD",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "KOWLOON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "4/F, UNION PARK CENTRE",
+      "street2": "771-775 NATHAN ROAD, PRINCE EDWARD",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002035313",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-20T02:08:22.000Z",
+        "2025-09-26T21:57:34.000Z",
+        "2025-08-08T20:05:50.000Z",
+        "2025-05-22T22:29:20.000Z",
+        "2025-02-14T20:34:43.000Z",
+        "2025-01-27T19:42:27.000Z",
+        "2024-12-31T20:27:18.000Z",
+        "2024-11-01T20:03:35.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-25-112807",
+        "0001213900-25-092499",
+        "0001213900-25-073646",
+        "0001213900-25-046955",
+        "0001213900-25-014190",
+        "0001213900-25-006939",
+        "0001213900-24-113924",
+        "0001213900-24-093484"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287532",
+        "333-287532",
+        "333-287532",
+        "333-287532",
+        "377-07532",
+        "377-07532",
+        "377-07532",
+        "377-07532"
+      ],
+      "filingDate": [
+        "2025-11-20",
+        "2025-09-29",
+        "2025-08-08",
+        "2025-05-23",
+        "2025-02-14",
+        "2025-01-27",
+        "2024-12-31",
+        "2024-11-01"
+      ],
+      "filmNumber": [
+        "251500831",
+        "251351676",
+        "251198378",
+        "25978638",
+        "25627570",
+        "25558091",
+        "241592714",
+        "241419018"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "AMENDMENT NO. 3 TO FORM F-1",
+        "AMENDMENT NO 2 TO FORM F-1",
+        "AMENDMENT NO. 1 TO FORM F-1",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0266385-f1a3_living.htm",
+        "ea0258896-f1a2_living.htm",
+        "ea0250752-f1a1_living.htm",
+        "ea0242777-f1_living.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2964230,
+        2885279,
+        2887776,
+        5419108,
+        3020047,
+        2542566,
+        2537271,
+        2465032
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Living Homeopathy International Ltd.",
+  "ownerOrg": "08 Industrial Applications and Services",
+  "phone": "85223856025",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "LHI"
+  ],
+  "website": ""
+}

@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001494191",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-13T13:37:50.000Z",
+        "2010-06-15T15:38:32.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000076",
+        "0001019155-10-000220"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-167522",
+        "333-167522"
+      ],
+      "filingDate": [
+        "2025-03-13",
+        "2010-06-15"
+      ],
+      "filmNumber": [
+        "25734964",
+        "10897392"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "FORM F-6EF"
+      ],
+      "primaryDocument": [
+        "karoonenergyltdf6pos.htm",
+        "unsponsoredformf6forkaroonga.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        99540,
+        79744
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Karoon Gas Australia Ltd /ADR/",
+  "ownerOrg": "",
+  "phone": "212 238-3010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "KRNGY",
+    "KRNGF"
+  ],
+  "website": ""
+}

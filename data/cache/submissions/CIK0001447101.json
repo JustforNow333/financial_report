@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "60 WALL STREET",
+      "street2": null,
+      "zipCode": "10005"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "60 WALL STREET",
+      "street2": null,
+      "zipCode": "10005"
+    }
+  },
+  "category": "",
+  "cik": "0001447101",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-29T10:51:46.000Z",
+        "2017-09-29T14:31:07.000Z",
+        "2008-10-09T18:34:34.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001117",
+        "0001193805-17-003054",
+        "0001104659-08-063404"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-289025",
+        "333-154038",
+        "333-154038"
+      ],
+      "filingDate": [
+        "2025-07-29",
+        "2017-09-29",
+        "2008-10-10"
+      ],
+      "filmNumber": [
+        "251158835",
+        "171111040",
+        "081116834"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e664742_f6ef-tt.htm",
+        "e617102_f6pos-ttcl.htm",
+        "a08-24918_73f6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        111648,
+        126879,
+        174620
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Tokyo Tatemono Co Ltd",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-319-7600",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "TYTMF"
+  ],
+  "website": ""
+}

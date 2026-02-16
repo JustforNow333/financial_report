@@ -74,7 +74,7 @@ def label_industries(
 
                 symbol.industry_label = prediction.label
                 symbol.industry_confidence = prediction.confidence
-                symbol.industry_source = "ai"
+                symbol.industry_source = prediction.source
                 symbol.industry_updated_at = now_utc
 
                 if prediction.label is None:

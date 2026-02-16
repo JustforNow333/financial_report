@@ -1,0 +1,239 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HONG KONG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "ROOM 721, 7/F CYBERPORT ONE",
+      "street2": "100 CYBERPORT ROAD, POKFULAM",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "HONG KONG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "ROOM 721, 7/F CYBERPORT ONE",
+      "street2": "100 CYBERPORT ROAD, POKFULAM",
+      "zipCode": "00000"
+    }
+  },
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "cik": "0002045440",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-01T00:15:08.000Z",
+        "2025-11-12T07:27:47.000Z",
+        "2025-11-12T06:33:39.000Z",
+        "2025-10-01T00:15:25.000Z",
+        "2025-09-08T19:36:37.000Z",
+        "2025-08-21T18:23:44.000Z",
+        "2025-08-08T14:40:05.000Z",
+        "2025-07-09T16:30:17.000Z",
+        "2025-06-06T16:30:29.000Z",
+        "2025-03-31T21:04:05.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-25-003416",
+        "0001213900-25-108683",
+        "0001213900-25-108578",
+        "9999999995-25-003198",
+        "0001213900-25-085734",
+        "0001213900-25-079461",
+        "0001213900-25-073558",
+        "0001213900-25-062374",
+        "0001213900-25-052144",
+        "0001213900-25-026573"
+      ],
+      "act": [
+        "33",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "XBRL",
+        "XBRL",
+        "EFFECT",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-289411",
+        "333-289411",
+        "333-289411",
+        "333-289411",
+        "333-289411",
+        "333-289411",
+        "333-289411",
+        "377-07849",
+        "377-07849",
+        "377-07849"
+      ],
+      "filingDate": [
+        "2025-11-28",
+        "2025-11-12",
+        "2025-11-12",
+        "2025-09-30",
+        "2025-09-09",
+        "2025-08-22",
+        "2025-08-08",
+        "2025-07-09",
+        "2025-06-06",
+        "2025-04-01"
+      ],
+      "filmNumber": [
+        "251536995",
+        "251468838",
+        "251468503",
+        "251362377",
+        "251301341",
+        "251241886",
+        "251197887",
+        "251113914",
+        "251031169",
+        "25796095"
+      ],
+      "form": [
+        "EFFECT",
+        "20-F",
+        "POS AM",
+        "EFFECT",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        "",
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "ANNUAL REPORT",
+        "POST-EFFECTIVE AMENDMENT",
+        "",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "ea0263381-20f_ideatech.htm",
+        "ea0234702-11.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "ea0234702-10.htm",
+        "ea0234702-08.htm",
+        "ea0234702-05.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "2025-06-30",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        1768,
+        4315705,
+        23394487,
+        1755,
+        10718641,
+        9926314,
+        11550019,
+        9999342,
+        8709286,
+        7817966
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Idea Tech Holding Ltd",
+  "ownerOrg": "07 Trade & Services",
+  "phone": "852 2503 3018",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "IDTL"
+  ],
+  "website": ""
+}

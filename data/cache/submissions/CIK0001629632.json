@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": null,
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": null,
+      "street2": null,
+      "zipCode": null
+    },
+    "mailing": {
+      "city": "CALGARY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A0",
+      "stateOrCountryDescription": "Alberta, Canada",
+      "street1": "6143-143 4TH ST.",
+      "street2": null,
+      "zipCode": "T2H 2H9"
+    }
+  },
+  "category": "",
+  "cik": "0001629632",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-01-02T13:21:30.000Z",
+        "2015-01-08T15:58:01.000Z"
+      ],
+      "accessionNumber": [
+        "0001629632-25-000001",
+        "0001144204-15-001381"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-533994",
+        "021-231783"
+      ],
+      "filingDate": [
+        "2025-01-02",
+        "2015-01-08"
+      ],
+      "filmNumber": [
+        "25501313",
+        "15516425"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        10514,
+        7351
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Eguana Technologies Inc.",
+  "ownerOrg": "",
+  "phone": "4036309544",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "tickers": [
+    "EGTYF"
+  ],
+  "website": ""
+}

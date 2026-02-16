@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "200 BURRARD STREET, SUITE 1680",
+      "street2": null,
+      "zipCode": "V6C 3L6"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "200 BURRARD STREET, SUITE 1680",
+      "street2": null,
+      "zipCode": "V6C 3L6"
+    }
+  },
+  "category": "",
+  "cik": "0001829809",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-15T13:19:10.000Z",
+        "2020-10-27T18:23:19.000Z"
+      ],
+      "accessionNumber": [
+        "0001829809-25-000001",
+        "0001829809-20-000001"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-546250",
+        "021-379002"
+      ],
+      "filingDate": [
+        "2025-05-15",
+        "2020-10-28"
+      ],
+      "filmNumber": [
+        "25950991",
+        "201265446"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        9500,
+        10054
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Huntsman Exploration Inc.",
+  "ownerOrg": "",
+  "phone": "855-584-0160",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "BBBMF"
+  ],
+  "website": ""
+}

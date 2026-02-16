@@ -1,0 +1,130 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "C/O SUITE 1400 - 1050 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6E 3S7"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "C/O SUITE 1400 - 1050 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6E 3S7"
+    }
+  },
+  "category": "",
+  "cik": "0002103596",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-21T22:08:33.000Z",
+        "2026-01-07T21:24:03.000Z",
+        "2026-01-06T17:04:00.000Z"
+      ],
+      "accessionNumber": [
+        "0002064835-26-000012",
+        "0002064835-26-000004",
+        "0002064835-26-000003"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-570668",
+        "021-569028",
+        "021-569028"
+      ],
+      "filingDate": [
+        "2026-01-21",
+        "2026-01-07",
+        "2026-01-06"
+      ],
+      "filmNumber": [
+        "26548799",
+        "26515962",
+        "26510085"
+      ],
+      "form": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9267,
+        9364,
+        10061
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": "984500EE60D71C668A26",
+  "name": "Grafton Resources Inc.",
+  "ownerOrg": "",
+  "phone": "61 893221689",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [],
+  "website": ""
+}

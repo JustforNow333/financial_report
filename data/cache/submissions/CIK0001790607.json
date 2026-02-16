@@ -1,0 +1,260 @@
+{
+  "addresses": {
+    "business": {
+      "city": "BURNABY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "3849 THURSTON STREET",
+      "street2": null,
+      "zipCode": "V5H 1H9"
+    },
+    "mailing": {
+      "city": "BURNABY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "3849 THURSTON STREET",
+      "street2": null,
+      "zipCode": "V5H 1H9"
+    }
+  },
+  "category": "",
+  "cik": "0001790607",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-15T13:52:47.000Z",
+        "2025-04-28T15:09:02.000Z",
+        "2024-10-24T20:45:59.000Z",
+        "2024-04-29T17:58:10.000Z",
+        "2023-10-12T20:08:19.000Z",
+        "2022-09-20T17:59:28.000Z",
+        "2022-07-25T15:30:34.000Z",
+        "2022-02-28T13:40:19.000Z",
+        "2021-06-17T16:09:49.000Z",
+        "2020-11-10T17:47:32.000Z",
+        "2019-10-10T15:42:02.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-009501",
+        "0001062993-25-008117",
+        "0001062993-24-017935",
+        "0001062993-24-008999",
+        "0001062993-23-019314",
+        "0001062993-22-019779",
+        "0001062993-22-016687",
+        "0001183740-22-000043",
+        "0001183740-21-000128",
+        "0001183740-20-000242",
+        "0001085037-19-000097"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-546254",
+        "021-544617",
+        "021-527793",
+        "021-511888",
+        "021-494637",
+        "021-459386",
+        "021-453587",
+        "021-435208",
+        "021-403378",
+        "021-380242",
+        "021-350798"
+      ],
+      "filingDate": [
+        "2025-05-15",
+        "2025-04-28",
+        "2024-10-25",
+        "2024-04-30",
+        "2023-10-13",
+        "2022-09-21",
+        "2022-07-25",
+        "2022-02-28",
+        "2021-06-17",
+        "2020-11-12",
+        "2019-10-10"
+      ],
+      "filmNumber": [
+        "25951238",
+        "25879556",
+        "241393857",
+        "24893194",
+        "231323662",
+        "221254652",
+        "221103137",
+        "22687003",
+        "211024812",
+        "201302363",
+        "191146183"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9501,
+        9885,
+        10144,
+        8959,
+        9326,
+        9245,
+        9300,
+        9003,
+        9013,
+        8420,
+        8403
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2019-10-10T00:00:00.000Z",
+      "name": "Navy Resources Corp.",
+      "to": "2020-11-12T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Eminent Gold Corp.",
+  "ownerOrg": "",
+  "phone": "604-288-8956",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "EMGDF"
+  ],
+  "website": ""
+}

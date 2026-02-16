@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "1540 BROADWAY, SUITE 1010",
+      "street2": null,
+      "zipCode": "10036"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "1540 BROADWAY, SUITE 1010",
+      "street2": null,
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0002070542",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T05:15:18.000Z",
+        "2026-01-30T12:43:32.000Z",
+        "2026-01-22T00:37:43.000Z",
+        "2026-01-21T15:52:55.000Z",
+        "2025-12-23T21:50:21.000Z",
+        "2025-12-01T12:58:22.000Z",
+        "2025-09-24T21:28:36.000Z",
+        "2025-08-28T20:13:41.000Z",
+        "2025-07-08T17:52:28.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-26-000390",
+        "0001213900-26-009858",
+        "0001213900-26-006393",
+        "0001213900-26-005984",
+        "0001213900-25-125415",
+        "0001213900-25-116271",
+        "0001213900-25-091225",
+        "0001213900-25-081741",
+        "0001213900-25-062019"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-291856",
+        "333-291856",
+        "333-291856",
+        "333-291856",
+        "333-291856",
+        "333-291856",
+        "377-08187",
+        "377-08187",
+        "377-08187"
+      ],
+      "filingDate": [
+        "2026-01-30",
+        "2026-01-30",
+        "2026-01-22",
+        "2026-01-21",
+        "2025-12-23",
+        "2025-12-01",
+        "2025-09-24",
+        "2025-08-28",
+        "2025-07-08"
+      ],
+      "filmNumber": [
+        "26585507",
+        "26580547",
+        "26549412",
+        "26545342",
+        "251601381",
+        "251537165",
+        "251339725",
+        "251273583",
+        "251110550"
+      ],
+      "form": [
+        "EFFECT",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "AMENDMENT NO. 4 TO FORM S-4",
+        "AMENDMENT NO. 3 TO FORM S-4",
+        "AMENDMENT NO. 2 TO FORM S-4",
+        "AMENDMENT NO. 1 TO FORM S-4",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "ea0274713-s4a4_block.htm",
+        "ea0273588-s4a3_blockchain.htm",
+        "ea0273276-s4a2_block.htm",
+        "ea0270475-s4a1_block.htm",
+        "ea0266866-s4_block.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        1724,
+        5756678,
+        90458,
+        8523005,
+        7309895,
+        31028586,
+        30273791,
+        30283575,
+        34221066
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "BlockchAIn Digital Infrastructure, Inc.",
+  "ownerOrg": "09 Crypto Assets",
+  "phone": "917-558-3563",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "AIB"
+  ],
+  "website": ""
+}

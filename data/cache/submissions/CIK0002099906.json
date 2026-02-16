@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "AUSTIN",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "1700 S. LAMAR BLVD.",
+      "street2": "SUITE #338",
+      "zipCode": "78704"
+    },
+    "mailing": {
+      "city": "AUSTIN",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "1700 S. LAMAR BLVD.",
+      "street2": "SUITE #338",
+      "zipCode": "78704"
+    }
+  },
+  "category": "",
+  "cik": "0002099906",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-09T22:50:45.000Z",
+        "2026-02-09T22:50:16.000Z",
+        "2026-02-04T02:43:50.000Z",
+        "2026-02-02T05:15:31.000Z",
+        "2026-01-30T23:25:18.000Z",
+        "2026-01-30T23:23:44.000Z",
+        "2026-01-30T23:22:08.000Z",
+        "2026-01-29T02:55:38.000Z",
+        "2025-12-29T22:02:32.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-013781",
+        "0001213900-26-013780",
+        "0001213900-26-011764",
+        "9999999995-26-000400",
+        "0001213900-26-010405",
+        "0001213900-26-010404",
+        "0001213900-26-010402",
+        "0001213900-26-009076",
+        "0001213900-25-126116"
+      ],
+      "act": [
+        "",
+        "",
+        "",
+        "33",
+        "",
+        "",
+        "",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "3",
+        "3",
+        "3",
+        "EFFECT",
+        "3",
+        "3",
+        "3",
+        "XBRL",
+        "XBRL"
+      ],
+      "fileNumber": [
+        "",
+        "",
+        "",
+        "333-292465",
+        "",
+        "",
+        "",
+        "333-292465",
+        "333-292465"
+      ],
+      "filingDate": [
+        "2026-02-09",
+        "2026-02-09",
+        "2026-02-03",
+        "2026-01-30",
+        "2026-01-30",
+        "2026-01-30",
+        "2026-01-30",
+        "2026-01-29",
+        "2025-12-29"
+      ],
+      "filmNumber": [
+        "",
+        "",
+        "",
+        "26585538",
+        "",
+        "",
+        "",
+        "26574457",
+        "251609960"
+      ],
+      "form": [
+        "3",
+        "3",
+        "3",
+        "EFFECT",
+        "3",
+        "3",
+        "3",
+        "S-1/A",
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "xslF345X02/ownership.xml",
+        "xslF345X02/ownership.xml",
+        "xslF345X02/ownership.xml",
+        "xslEFFECTX01/primary_doc.xml",
+        "xslF345X02/ownership.xml",
+        "xslF345X02/ownership.xml",
+        "xslF345X02/ownership.xml",
+        "ea0270949-02.htm",
+        "ea0270949-01.htm"
+      ],
+      "reportDate": [
+        "2026-01-30",
+        "2026-01-30",
+        "2026-01-30",
+        "",
+        "2026-01-30",
+        "2025-01-30",
+        "2026-01-30",
+        "",
+        ""
+      ],
+      "size": [
+        2964,
+        2941,
+        5959,
+        1753,
+        5727,
+        2924,
+        2916,
+        9190897,
+        8274701
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 1,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Abony Acquisition Corp. I",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "215.817.0090",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "AACO"
+  ],
+  "website": ""
+}

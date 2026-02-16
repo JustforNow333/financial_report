@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "217 CENTRE ST., STE 122",
+      "street2": null,
+      "zipCode": "10013"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "217 CENTRE ST., STE 122",
+      "street2": null,
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002073545",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-05T18:53:45.000Z",
+        "2025-11-26T21:46:03.000Z",
+        "2025-11-13T02:53:05.000Z",
+        "2025-09-06T00:43:55.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-012920",
+        "0001213900-25-115736",
+        "0001213900-25-109503",
+        "0001213900-25-085224"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "XBRL",
+        "XBRL",
+        "XBRL",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-291488",
+        "333-291488",
+        "333-291488",
+        "377-08428"
+      ],
+      "filingDate": [
+        "2026-02-06",
+        "2025-11-28",
+        "2025-11-13",
+        "2025-09-08"
+      ],
+      "filmNumber": [
+        "26604518",
+        "251532182",
+        "251475151",
+        "251298365"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "isXBRL": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0254428-06.htm",
+        "ea0254428-04.htm",
+        "ea0254428-02.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        8456769,
+        6687202,
+        11018420,
+        2899180
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Subversive Bitcoin Acquisition Corp.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "877-291-4040",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "SBAQ"
+  ],
+  "website": ""
+}

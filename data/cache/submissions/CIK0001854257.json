@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1 DUNDAS STREET WEST, SUITE 2500",
+      "street2": null,
+      "zipCode": "M5G 1Z3"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1 DUNDAS STREET WEST, SUITE 2500",
+      "street2": null,
+      "zipCode": "M5G 1Z3"
+    }
+  },
+  "category": "",
+  "cik": "0001854257",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-21T12:19:19.000Z",
+        "2025-07-16T14:45:53.000Z",
+        "2022-01-07T15:17:21.000Z",
+        "2021-04-07T12:48:36.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-012998",
+        "0001062993-25-012907",
+        "0001062993-22-000781",
+        "0001062993-21-003468"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-552332",
+        "021-551996",
+        "021-428420",
+        "021-394911"
+      ],
+      "filingDate": [
+        "2025-07-21",
+        "2025-07-16",
+        "2022-01-07",
+        "2021-04-07"
+      ],
+      "filmNumber": [
+        "251136468",
+        "251127117",
+        "22517901",
+        "21811481"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9742,
+        9812,
+        10654,
+        10484
+      ]
+    }
+  },
+  "fiscalYearEnd": "1031",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Tombill Mines Ltd",
+  "ownerOrg": "",
+  "phone": "604-684-2181",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "TBLLF"
+  ],
+  "website": ""
+}

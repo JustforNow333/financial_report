@@ -1,0 +1,239 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "3002 - 130 ADELAIDE STREET WEST",
+      "street2": null,
+      "zipCode": "M5H 3P5"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "3002 - 130 ADELAIDE STREET WEST",
+      "street2": null,
+      "zipCode": "M5H 3P5"
+    }
+  },
+  "category": "",
+  "cik": "0001803800",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-18T16:14:34.000Z",
+        "2025-11-04T11:58:15.000Z",
+        "2025-06-12T16:51:52.000Z",
+        "2025-05-08T09:43:21.000Z",
+        "2024-08-19T12:26:27.000Z",
+        "2023-11-20T12:18:32.000Z",
+        "2022-08-17T12:12:17.000Z",
+        "2022-03-08T15:55:00.000Z",
+        "2020-08-24T19:09:15.000Z",
+        "2020-02-19T16:55:28.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-016929",
+        "0001062993-25-016440",
+        "0001062993-25-011577",
+        "0001062993-25-008831",
+        "0001062993-24-015344",
+        "0001062993-23-021184",
+        "0001062993-22-018163",
+        "0001062993-22-007056",
+        "0001062993-20-004153",
+        "0001062993-20-001082"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-564335",
+        "021-562956",
+        "021-548850",
+        "021-545501",
+        "021-521874",
+        "021-497688",
+        "021-456139",
+        "021-436364",
+        "021-373999",
+        "021-360933"
+      ],
+      "filingDate": [
+        "2025-11-18",
+        "2025-11-04",
+        "2025-06-12",
+        "2025-05-08",
+        "2024-08-19",
+        "2023-11-20",
+        "2022-08-17",
+        "2022-03-08",
+        "2020-08-25",
+        "2020-02-19"
+      ],
+      "filmNumber": [
+        "251494804",
+        "251447348",
+        "251043608",
+        "25924281",
+        "241219392",
+        "231421759",
+        "221172735",
+        "22721592",
+        "201129109",
+        "20630724"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        14629,
+        14593,
+        13604,
+        13627,
+        14473,
+        15958,
+        13887,
+        14600,
+        13624,
+        12134
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Talisker Resources Ltd.",
+  "ownerOrg": "",
+  "phone": "416-364-0141",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "TSKFF"
+  ],
+  "website": ""
+}

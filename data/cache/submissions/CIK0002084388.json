@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ORLANDO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "151 E ROBINSON ST UNIT 1936",
+      "street2": null,
+      "zipCode": "32801"
+    },
+    "mailing": {
+      "city": "ORLANDO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "151 E ROBINSON ST UNIT 1936",
+      "street2": null,
+      "zipCode": "32801"
+    }
+  },
+  "category": "",
+  "cik": "0002084388",
+  "description": "",
+  "ein": "392287539",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-20T17:42:13.000Z",
+        "2025-11-14T20:49:56.000Z"
+      ],
+      "accessionNumber": [
+        "0001477932-25-008513",
+        "0001477932-25-008300"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1"
+      ],
+      "fileNumber": [
+        "333-291537",
+        "333-291537"
+      ],
+      "filingDate": [
+        "2025-11-20",
+        "2025-11-14"
+      ],
+      "filmNumber": [
+        "251502054",
+        "251485306"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1"
+      ],
+      "isInlineXBRL": [
+        0,
+        1
+      ],
+      "isXBRL": [
+        0,
+        1
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM F-1/A",
+        "FORM F-1"
+      ],
+      "primaryDocument": [
+        "xyz_f1a.htm",
+        "xyz_f1.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        917648,
+        1036562
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "XYJ TECHNOLOGY Corp",
+  "ownerOrg": "06 Technology",
+  "phone": "001 407 372 9910",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "tickers": [],
+  "website": ""
+}

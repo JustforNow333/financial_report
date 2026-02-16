@@ -1,0 +1,125 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001547870",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-16T12:15:38.000Z",
+        "2012-04-24T13:45:58.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000510",
+        "0001019155-12-000246"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286568",
+        "333-180901"
+      ],
+      "filingDate": [
+        "2025-04-16",
+        "2012-04-24"
+      ],
+      "filmNumber": [
+        "25841835",
+        "12775547"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "e664398_f6ef-bumrungrad.htm",
+        "bumrunf6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        141489,
+        79623
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Bumrungrad Hospital Public Co Limited/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3128",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "BUHPY",
+    "BUGDF",
+    "BUHHF",
+    "BUHPF"
+  ],
+  "website": ""
+}

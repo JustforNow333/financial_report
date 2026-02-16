@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAP C/O J. LANZA",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAP C/O J. LANZA",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0001450159",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-22T14:30:58.000Z",
+        "2016-03-01T14:22:05.000Z",
+        "2009-06-19T15:29:19.000Z",
+        "2008-11-19T16:33:34.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001322",
+        "0001019155-16-000515",
+        "0001193805-09-001308",
+        "0001193805-08-003156"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-290444",
+        "333-209853",
+        "333-155485",
+        "333-155485"
+      ],
+      "filingDate": [
+        "2025-09-22",
+        "2016-03-01",
+        "2009-06-19",
+        "2008-11-19"
+      ],
+      "filmNumber": [
+        "251329671",
+        "161472643",
+        "09901313",
+        "081201371"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e664847_f6ef-srd.htm",
+        "sumitomof6.htm",
+        "e605587_f6pos-sumitomorealty.txt",
+        "e604682_f6ef-sumitomorealty.txt"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        111668,
+        101602,
+        7905,
+        55864
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Sumitomo Realty & Development Co., Ltd./ADR",
+  "ownerOrg": "",
+  "phone": "212 336 2022",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "SURDF"
+  ],
+  "website": ""
+}

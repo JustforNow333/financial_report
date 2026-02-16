@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "LONGUEUIL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A8",
+      "stateOrCountryDescription": "Quebec, Canada",
+      "street1": "1111 ST CHARLES STREET WEST",
+      "street2": "WEST TOWER, SUITE 101",
+      "zipCode": "J4K 5G4"
+    },
+    "mailing": {
+      "city": "LONGUEUIL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A8",
+      "stateOrCountryDescription": "Quebec, Canada",
+      "street1": "1111 ST CHARLES STREET WEST",
+      "street2": "WEST TOWER, SUITE 101",
+      "zipCode": "J4K 5G4"
+    }
+  },
+  "category": "",
+  "cik": "0002045434",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-12-02T15:49:55.000Z"
+      ],
+      "accessionNumber": [
+        "0001183740-24-000094"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-530862"
+      ],
+      "filingDate": [
+        "2024-12-02"
+      ],
+      "filmNumber": [
+        "241518812"
+      ],
+      "form": [
+        "D"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        "06b"
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        14163
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Greenheart Gold Inc.",
+  "ownerOrg": "",
+  "phone": "14508002882",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "GHRTF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002093654",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-20T21:00:39.000Z",
+        "2025-11-10T22:30:50.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001632",
+        "0001019155-25-000453"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-291666",
+        "333-291436"
+      ],
+      "filingDate": [
+        "2025-11-20",
+        "2025-11-10"
+      ],
+      "filmNumber": [
+        "251502948",
+        "251467546"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e664996_f6ef-zgicl.htm",
+        "f6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        110371,
+        108877
+      ]
+    }
+  },
+  "fiscalYearEnd": "1225",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Zijin Gold International Co Limited/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3221",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "K3",
+  "stateOfIncorporationDescription": "Hong Kong",
+  "tickers": [],
+  "website": ""
+}

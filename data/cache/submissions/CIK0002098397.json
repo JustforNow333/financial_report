@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "XIAMEN",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": "FUJIAN",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "NO. 2508, XINYANG ROAD",
+      "street2": null,
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002098397",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-01T20:46:17.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001687"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-291863"
+      ],
+      "filingDate": [
+        "2025-12-01"
+      ],
+      "filmNumber": [
+        "251539428"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e665026_f6ef-anjoy.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        110628
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Anjoy Foods Group Co., Ltd./ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "tickers": [],
+  "website": ""
+}

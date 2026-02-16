@@ -1,0 +1,140 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SHERIDAN",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "WY",
+      "stateOrCountryDescription": "WY",
+      "street1": "30 N GOULD ST",
+      "street2": "STE 5835",
+      "zipCode": "89014"
+    },
+    "mailing": {
+      "city": "SHERIDAN",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "WY",
+      "stateOrCountryDescription": "WY",
+      "street1": "30 N GOULD ST",
+      "street2": "STE 5835",
+      "zipCode": "89014"
+    }
+  },
+  "category": "",
+  "cik": "0001292490",
+  "description": "",
+  "ein": "043588066",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-04T14:00:03.000Z",
+        "2024-10-23T09:35:41.000Z",
+        "2004-06-03T10:01:09.000Z"
+      ],
+      "accessionNumber": [
+        "9999999997-25-003444",
+        "0001393905-24-000357",
+        "9999999997-04-024550"
+      ],
+      "act": [
+        "",
+        "33",
+        ""
+      ],
+      "core_type": [
+        "ORDER",
+        "S-1",
+        "REGDEX"
+      ],
+      "fileNumber": [
+        "",
+        "333-282783",
+        "021-66041"
+      ],
+      "filingDate": [
+        "2025-09-04",
+        "2024-10-22",
+        "2004-06-01"
+      ],
+      "filmNumber": [
+        "",
+        "241387959",
+        "04031736"
+      ],
+      "form": [
+        "SEC STAFF ACTION",
+        "S-1",
+        "REGDEX"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "04"
+      ],
+      "primaryDocDescription": [
+        "",
+        "REGISTRATION STATEMENT",
+        "AUTO-GENERATED PAPER DOCUMENT"
+      ],
+      "primaryDocument": [
+        "filename1.pdf",
+        "synb_s1.htm",
+        "9999999997-04-024550.paper"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        4026,
+        2621828,
+        1585
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2004-06-01T00:00:00.000Z",
+      "name": "Natural Harmony Foods Inc",
+      "to": "2004-06-01T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Synbio International, Inc.",
+  "ownerOrg": "06 Technology",
+  "phone": "646-359-4854",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "tickers": [
+    "SYIN"
+  ],
+  "website": ""
+}

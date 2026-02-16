@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002063675",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-22T16:47:24.000Z",
+        "2025-04-09T11:18:22.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000537",
+        "0001019155-25-000125"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286680",
+        "333-286448"
+      ],
+      "filingDate": [
+        "2025-04-22",
+        "2025-04-09"
+      ],
+      "filmNumber": [
+        "25858270",
+        "25824284"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6EF"
+      ],
+      "primaryDocument": [
+        "e664425_f6ef-lhg.htm",
+        "hachettef6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        143211,
+        106842
+      ]
+    }
+  },
+  "fiscalYearEnd": "1225",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Louis Hachette Group/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3221",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "LSHGY",
+    "LSHGF"
+  ],
+  "website": ""
+}

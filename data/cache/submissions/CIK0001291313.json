@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SINGAPORE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "1 PICKERING ST #16-01",
+      "street2": "GREAT EASTERN CENTRE",
+      "zipCode": "048659"
+    },
+    "mailing": {
+      "city": "SINGAPORE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "1 PICKERING ST #16-01",
+      "street2": "GREAT EASTERN CENTRE",
+      "zipCode": "048659"
+    }
+  },
+  "category": "",
+  "cik": "0001291313",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-09-24T15:20:20.000Z",
+        "2017-09-29T14:15:30.000Z",
+        "2009-03-16T16:58:38.000Z",
+        "2008-11-06T14:03:05.000Z",
+        "2004-06-21T09:35:41.000Z",
+        "2004-06-08T15:59:05.000Z",
+        "2004-05-26T10:32:57.000Z",
+        "2004-05-21T10:58:35.000Z",
+        "2004-05-21T10:56:43.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-24-000270",
+        "0001193805-17-003009",
+        "0001144204-09-014303",
+        "0001019155-08-000806",
+        "9999999997-04-026441",
+        "9999999997-04-025044",
+        "9999999997-04-023837",
+        "9999999997-04-023314",
+        "9999999997-04-023313"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "CB/A",
+        "CB/A",
+        "CB/A",
+        "F-X",
+        "CB"
+      ],
+      "fileNumber": [
+        "333-155133",
+        "333-158003",
+        "333-158003",
+        "333-155133",
+        "005-79862",
+        "005-79862",
+        "005-79862",
+        "005-79862",
+        "005-79862"
+      ],
+      "filingDate": [
+        "2024-09-24",
+        "2017-09-29",
+        "2009-03-16",
+        "2008-11-06",
+        "2004-06-18",
+        "2004-06-07",
+        "2004-05-25",
+        "2004-05-18",
+        "2004-05-18"
+      ],
+      "filmNumber": [
+        "241319817",
+        "171110920",
+        "09685126",
+        "081166471",
+        "04031322",
+        "04031312",
+        "04031302",
+        "04026782",
+        "04026781"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "CB/A",
+        "CB/A",
+        "CB/A",
+        "F-X",
+        "CB"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "",
+        "",
+        "FORM F-6",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT"
+      ],
+      "primaryDocument": [
+        "geaternf6pos.htm",
+        "e617221_f6pos-gehl.htm",
+        "v143051_f-6ef.htm",
+        "greateasternunsponsoredformf.htm",
+        "9999999997-04-026441.paper",
+        "9999999997-04-025044.paper",
+        "9999999997-04-023837.paper",
+        "9999999997-04-023314.paper",
+        "9999999997-04-023313.paper"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        34416,
+        125685,
+        181760,
+        78226,
+        1545,
+        1545,
+        1545,
+        1572,
+        1539
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Great Eastern Holdings Ltd",
+  "ownerOrg": "",
+  "phone": null,
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "GEHDF"
+  ],
+  "website": ""
+}

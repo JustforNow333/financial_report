@@ -1,11 +1,11 @@
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import date
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session, sessionmaker
 
-from app.models import Base, Snapshot, Symbol
+from app.models import Base, Company, DailyBar, Symbol
 from app.routes import get_latest_movers
 
 
@@ -16,71 +16,47 @@ def _make_session() -> Session:
     return SessionLocal()
 
 
-def _seed_snapshot_data(session: Session) -> datetime:
-    latest_ts = datetime(2026, 2, 13, 15, 30, tzinfo=timezone.utc)
+def _seed_daily_data(session: Session) -> date:
+    latest_date = date(2026, 2, 13)
 
-    rows = [
-        Symbol(ticker="AAA", name="AAA Software", exchange="NYSE", industry_label="Software", active=True),
-        Symbol(ticker="BBB", name="BBB Bank", exchange="NYSE", industry_label="Banks", active=True),
-        Symbol(ticker="CCC", name="CCC Devices", exchange="NASDAQ", industry_label=None, active=True),
-        Symbol(ticker="DDD", name="DDD Penny", exchange="NASDAQ", industry_label="Software", active=True),
-        Symbol(ticker="EEE", name="EEE Illiquid", exchange="NASDAQ", industry_label="Software", active=True),
-    ]
-    session.add_all(rows)
-    session.flush()
+    session.add_all(
+        [
+            Symbol(ticker="AAA", name="AAA Software", exchange="NYSE", industry_label="Software", active=True),
+            Symbol(ticker="BBB", name="BBB Bank", exchange="NYSE", industry_label="Banks", active=True),
+            Symbol(ticker="CCC", name="CCC Devices", exchange="NASDAQ", industry_label=None, active=True),
+            Symbol(ticker="DDD", name="DDD Penny", exchange="NASDAQ", industry_label="Software", active=True),
+            Symbol(ticker="EEE", name="EEE Illiquid", exchange="NASDAQ", industry_label="Software", active=True),
+        ]
+    )
+    session.add_all(
+        [
+            Company(symbol="AAA", name="AAA Software", industry="Software", exchange="NYSE"),
+            Company(symbol="BBB", name="BBB Bank", industry="Banks", exchange="NYSE"),
+            Company(symbol="CCC", name="CCC Devices", industry=None, exchange="NASDAQ"),
+            Company(symbol="DDD", name="DDD Penny", industry="Software", exchange="NASDAQ"),
+            Company(symbol="EEE", name="EEE Illiquid", industry="Software", exchange="NASDAQ"),
+        ]
+    )
 
-    snapshots = [
-        Snapshot(
-            asof_ts=latest_ts,
-            symbol_id=rows[0].id,
-            last_price=10,
-            prev_close=8,
-            pct_change=25,
-            day_volume=500_000,
-        ),
-        Snapshot(
-            asof_ts=latest_ts,
-            symbol_id=rows[1].id,
-            last_price=9,
-            prev_close=10,
-            pct_change=-10,
-            day_volume=600_000,
-        ),
-        Snapshot(
-            asof_ts=latest_ts,
-            symbol_id=rows[2].id,
-            last_price=15,
-            prev_close=10,
-            pct_change=50,
-            day_volume=900_000,
-        ),
-        Snapshot(
-            asof_ts=latest_ts,
-            symbol_id=rows[3].id,
-            last_price=0.50,
-            prev_close=1,
-            pct_change=-50,
-            day_volume=2_000_000,
-        ),
-        Snapshot(
-            asof_ts=latest_ts,
-            symbol_id=rows[4].id,
-            last_price=20,
-            prev_close=10,
-            pct_change=100,
-            day_volume=50_000,
-        ),
-    ]
-    session.add_all(snapshots)
+    session.add_all(
+        [
+            DailyBar(date=latest_date, ticker="AAA", close=10.0, pct_change=0.25, volume=500_000),
+            DailyBar(date=latest_date, ticker="BBB", close=9.0, pct_change=-0.10, volume=600_000),
+            DailyBar(date=latest_date, ticker="CCC", close=15.0, pct_change=0.50, volume=900_000),
+            DailyBar(date=latest_date, ticker="DDD", close=0.5, pct_change=-0.50, volume=2_000_000),
+            DailyBar(date=latest_date, ticker="EEE", close=20.0, pct_change=1.0, volume=50_000),
+        ]
+    )
+
     session.commit()
-    return latest_ts
+    return latest_date
 
 
 def test_latest_movers_apply_min_price_and_volume_filters() -> None:
     session = _make_session()
-    latest_ts = _seed_snapshot_data(session)
+    latest_date = _seed_daily_data(session)
 
-    asof_ts, industry, gainers, losers = get_latest_movers(
+    asof_date, industry, gainers, losers, considered, outliers_excluded, provider = get_latest_movers(
         session,
         limit=10,
         industry=None,
@@ -89,12 +65,11 @@ def test_latest_movers_apply_min_price_and_volume_filters() -> None:
         min_day_volume=100_000,
     )
 
-    assert asof_ts is not None
-    if asof_ts.tzinfo is None:
-        asof_ts = asof_ts.replace(tzinfo=timezone.utc)
-
-    assert asof_ts == latest_ts
+    assert asof_date == latest_date
     assert industry == "All"
+    assert provider == "polygon_grouped_daily_bars"
+    assert considered == 3
+    assert outliers_excluded == 1
     gainers_tickers = [row["ticker"] for row in gainers]
     losers_tickers = [row["ticker"] for row in losers]
     assert gainers_tickers[:2] == ["CCC", "AAA"]
@@ -105,9 +80,9 @@ def test_latest_movers_apply_min_price_and_volume_filters() -> None:
 
 def test_latest_movers_filter_by_industry_and_unlabeled() -> None:
     session = _make_session()
-    _seed_snapshot_data(session)
+    _seed_daily_data(session)
 
-    _, software_industry, software_gainers, software_losers = get_latest_movers(
+    _, software_industry, software_gainers, software_losers, *_ = get_latest_movers(
         session,
         limit=10,
         industry="Software",
@@ -119,7 +94,7 @@ def test_latest_movers_filter_by_industry_and_unlabeled() -> None:
     assert [row["ticker"] for row in software_gainers] == ["AAA"]
     assert [row["ticker"] for row in software_losers] == ["AAA"]
 
-    _, unlabeled_industry, unlabeled_gainers, unlabeled_losers = get_latest_movers(
+    _, unlabeled_industry, unlabeled_gainers, unlabeled_losers, *_ = get_latest_movers(
         session,
         limit=10,
         industry="Unlabeled",

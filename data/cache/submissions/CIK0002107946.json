@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HIMEJI",
+      "country": "Japan",
+      "countryCode": "M0",
+      "foreignStateTerritory": "HYOGO",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "380 KIBI, OTSU-KU",
+      "street2": null,
+      "zipCode": "671-1192"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002107946",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-29T15:00:48.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-26-000090"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-293036"
+      ],
+      "filingDate": [
+        "2026-01-29"
+      ],
+      "filmNumber": [
+        "26575307"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e665126_f6ef-yamato.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        150126
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Yamato Kogyo Co. Ltd/ADR",
+  "ownerOrg": "",
+  "phone": "81-79-273-1010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [],
+  "website": ""
+}

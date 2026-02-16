@@ -1,0 +1,142 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001455632",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-02T15:45:17.000Z",
+        "2016-07-18T14:58:07.000Z",
+        "2009-02-06T15:27:43.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000278",
+        "0001193805-16-003604",
+        "0001019155-09-000203"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-157152",
+        "333-212572",
+        "333-157152"
+      ],
+      "filingDate": [
+        "2025-07-02",
+        "2016-07-18",
+        "2009-02-06"
+      ],
+      "filmNumber": [
+        "251100616",
+        "161771463",
+        "09576994"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "mobicof6pos.htm",
+        "e615218_f6ef-neg.htm",
+        "nationalexpressformf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        98313,
+        346851,
+        78316
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2009-02-06T00:00:00.000Z",
+      "name": "National Express Group PLC / ADR",
+      "to": "2016-07-18T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Mobico Group PLC/ADR",
+  "ownerOrg": "",
+  "phone": "212-238-3010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "NXPGY",
+    "NXPGF"
+  ],
+  "website": ""
+}

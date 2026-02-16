@@ -1,0 +1,155 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "4 KING STREET WEST, SUITE 401",
+      "street2": null,
+      "zipCode": "M5H 1B6"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "4 KING STREET WEST, SUITE 401",
+      "street2": null,
+      "zipCode": "M5H 1B6"
+    }
+  },
+  "category": "",
+  "cik": "0001877778",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-07T21:13:14.000Z",
+        "2023-12-20T15:18:37.000Z",
+        "2022-11-25T09:11:34.000Z",
+        "2021-08-11T09:29:00.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-013902",
+        "0001062993-23-022931",
+        "0001062993-22-022769",
+        "0001062993-21-007309"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-554081",
+        "021-500297",
+        "021-465814",
+        "021-409526"
+      ],
+      "filingDate": [
+        "2025-08-08",
+        "2023-12-20",
+        "2022-11-25",
+        "2021-08-11"
+      ],
+      "filmNumber": [
+        "251195978",
+        "231501204",
+        "221418030",
+        "211162218"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9188,
+        9175,
+        9139,
+        8144
+      ]
+    }
+  },
+  "fiscalYearEnd": "0228",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2021-08-11T00:00:00.000Z",
+      "name": "Rozdil Capital Corp",
+      "to": "2021-08-11T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Thiogenesis Therapeutics, Corp.",
+  "ownerOrg": "",
+  "phone": "6478467766",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "TTIPF"
+  ],
+  "website": ""
+}

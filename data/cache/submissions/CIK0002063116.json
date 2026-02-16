@@ -1,0 +1,106 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TOKYO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "M0",
+      "stateOrCountryDescription": "Japan",
+      "street1": "TOYOSU FRONT, 3-2-20, TOYOSU,",
+      "street2": "KOTO-KU",
+      "zipCode": "135-8110"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002063116",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-26T17:06:49.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000388"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286131"
+      ],
+      "filingDate": [
+        "2025-03-26"
+      ],
+      "filmNumber": [
+        "25774204"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e664331_f6ef-scsk.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        112123
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "SCSK Corporation/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "SCSXY",
+    "SCSKF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,130 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001848826",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-09T16:42:42.000Z",
+        "2021-03-08T15:37:02.000Z",
+        "2021-03-05T18:37:46.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-002370",
+        "0001019155-21-000076",
+        "0001193805-21-000339"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-292630",
+        "333-253975",
+        "333-253914"
+      ],
+      "filingDate": [
+        "2026-01-09",
+        "2021-03-08",
+        "2021-03-05"
+      ],
+      "filmNumber": [
+        "26521857",
+        "21720932",
+        "21717752"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "F-6EF",
+        ""
+      ],
+      "primaryDocument": [
+        "tm262688d1_f6ef.htm",
+        "inpostf6ef.htm",
+        "e620362_f6ef-inpost.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        141389,
+        103260,
+        133506
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "InPost S.A./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "2122383128",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [],
+  "website": ""
+}

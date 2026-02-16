@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "WEIFANG CITY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "NO. 5999, MIZHOUDONGLU ZHUCHENG",
+      "street2": null,
+      "zipCode": "262500"
+    },
+    "mailing": {
+      "city": "WEIFANG CITY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "NO. 5999, MIZHOUDONGLU ZHUCHENG",
+      "street2": null,
+      "zipCode": "262500"
+    }
+  },
+  "category": "",
+  "cik": "0002033315",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-12T16:07:08.000Z",
+        "2025-07-11T14:46:01.000Z",
+        "2025-03-14T14:50:27.000Z",
+        "2025-01-27T16:54:28.000Z",
+        "2024-11-15T13:01:59.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-25-087210",
+        "0001213900-25-063179",
+        "0001213900-25-024060",
+        "0001213900-25-007048",
+        "0001213900-24-098921"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288635",
+        "333-288635",
+        "377-07561",
+        "377-07561",
+        "377-07561"
+      ],
+      "filingDate": [
+        "2025-09-12",
+        "2025-07-11",
+        "2025-03-14",
+        "2025-01-27",
+        "2024-11-15"
+      ],
+      "filmNumber": [
+        "251311543",
+        "251118715",
+        "25739454",
+        "25559866",
+        "241466813"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "AMENDMENT NO. 1 TO FORM F-1",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0256699-f1a1_kbat.htm",
+        "ea0245811-f1_kbat.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        4572583,
+        5454778,
+        3307105,
+        2626832,
+        2601310
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "KBAT Group Inc.",
+  "ownerOrg": "06 Technology",
+  "phone": "86 536 6083899",
+  "sic": "3560",
+  "sicDescription": "General Industrial Machinery & Equipment",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "KBAT"
+  ],
+  "website": ""
+}

@@ -1,0 +1,106 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TOKYO",
+      "country": "Japan",
+      "countryCode": "M0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "6-8-1, NISHI-SHINJUKU, SHINJUKU-KU",
+      "street2": "SUMITOMO FUDOSAN SHINJUKU OAK TOWER 29F",
+      "zipCode": "163-6029"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002088339",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-26T10:41:25.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001370"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-290533"
+      ],
+      "filingDate": [
+        "2025-09-26"
+      ],
+      "filmNumber": [
+        "251346728"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e664862_f6ef-obic.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        111507
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "OBIC Business Consultants Co., Ltd./ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "OBBCY",
+    "OBIBF"
+  ],
+  "website": ""
+}

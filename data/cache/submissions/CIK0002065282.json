@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1518-800 PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 2V6"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1518-800 PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 2V6"
+    }
+  },
+  "category": "",
+  "cik": "0002065282",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-25T10:15:04.000Z",
+        "2025-04-25T10:09:39.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-007966",
+        "0001062993-25-007965"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-544489",
+        "021-544488"
+      ],
+      "filingDate": [
+        "2025-04-25",
+        "2025-04-25"
+      ],
+      "filmNumber": [
+        "25870770",
+        "25870736"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        9351,
+        9357
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Allied Critical Metals Corp.",
+  "ownerOrg": "",
+  "phone": "(604) 720-2703",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "ACMIF"
+  ],
+  "website": ""
+}

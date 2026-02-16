@@ -1,0 +1,170 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "211 YONGE STREET, SUITE 502",
+      "street2": null,
+      "zipCode": "M5B 1M4"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "211 YONGE STREET, SUITE 502",
+      "street2": null,
+      "zipCode": "M5B 1M4"
+    }
+  },
+  "category": "",
+  "cik": "0001727370",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-01T11:21:14.000Z",
+        "2023-04-19T09:59:30.000Z",
+        "2022-05-18T11:41:03.000Z",
+        "2020-12-22T17:34:04.000Z",
+        "2018-01-10T09:55:47.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-013424",
+        "0001062993-23-009320",
+        "0001062993-22-012864",
+        "0001062993-20-006536",
+        "0001727428-18-000002"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-553449",
+        "021-479356",
+        "021-446059",
+        "021-384114",
+        "021-302814"
+      ],
+      "filingDate": [
+        "2025-08-01",
+        "2023-04-19",
+        "2022-05-18",
+        "2020-12-23",
+        "2018-01-10"
+      ],
+      "filmNumber": [
+        "251174677",
+        "23828723",
+        "22937604",
+        "201409089",
+        "18520506"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9671,
+        10703,
+        9585,
+        9601,
+        10518
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2018-01-10T00:00:00.000Z",
+      "name": "Latin American Minerals Inc.",
+      "to": "2018-01-10T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Sterling Metals Corp.",
+  "ownerOrg": "",
+  "phone": "(416) 643-7630",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "SAGGF"
+  ],
+  "website": ""
+}

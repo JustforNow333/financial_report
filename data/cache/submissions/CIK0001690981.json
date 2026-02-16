@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "THE HAGUE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "P7",
+      "stateOrCountryDescription": "Netherlands",
+      "street1": "SCHENKKADE 65",
+      "street2": null,
+      "zipCode": "2595 AS"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O HERMAN RASPE,ESQ. PATTERSON BELKNAP",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0001690981",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-04-02T16:00:31.000Z",
+        "2019-11-25T15:36:32.000Z",
+        "2018-06-29T11:32:59.000Z",
+        "2017-05-12T17:14:10.000Z",
+        "2016-11-29T16:04:30.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-24-042479",
+        "0001193805-19-001885",
+        "0001019155-18-000164",
+        "0001193805-17-000848",
+        "0001193805-16-004324"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-278464",
+        "333-235250",
+        "333-225986",
+        "333-217972",
+        "333-214829"
+      ],
+      "filingDate": [
+        "2024-04-02",
+        "2019-11-25",
+        "2018-06-29",
+        "2017-05-12",
+        "2016-11-29"
+      ],
+      "filmNumber": [
+        "24814029",
+        "191245974",
+        "18927930",
+        "17839854",
+        "162022795"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        "FORM F-6",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2410211d3_f6ef.htm",
+        "e619212_f6ef-nn.htm",
+        "nngroupf6.htm",
+        "e616145_f6ef-nngroup.htm",
+        "e615606_f6ef-nngroup.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        127308,
+        134895,
+        106705,
+        128587,
+        391481
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "NN Group NV/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-336-2301",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "tickers": [
+    "NNGPF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,160 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 700, 838 W HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6C 0A6"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 700, 838 W HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6C 0A6"
+    }
+  },
+  "category": "",
+  "cik": "0001729653",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-04T16:46:18.000Z",
+        "2023-02-24T12:10:50.000Z",
+        "2020-10-14T15:02:49.000Z",
+        "2018-01-30T13:02:47.000Z"
+      ],
+      "accessionNumber": [
+        "0002060755-25-000034",
+        "0001183740-23-000030",
+        "0001183740-20-000219",
+        "0001183740-18-000017"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-556697",
+        "021-474211",
+        "021-377854",
+        "021-304362"
+      ],
+      "filingDate": [
+        "2025-09-04",
+        "2023-02-24",
+        "2020-10-14",
+        "2018-01-30"
+      ],
+      "filmNumber": [
+        "251294018",
+        "23664843",
+        "201238905",
+        "18558158"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11813,
+        11146,
+        8293,
+        8817
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2023-02-24T00:00:00.000Z",
+      "name": "Stallion Discoveries Corp.",
+      "to": "2023-02-24T00:00:00.000Z"
+    },
+    {
+      "from": "2018-01-30T00:00:00.000Z",
+      "name": "Hybrid Minerals Inc.",
+      "to": "2020-10-14T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Stallion Uranium Corp.",
+  "ownerOrg": "",
+  "phone": "778-686-0973",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "STLNF"
+  ],
+  "website": ""
+}

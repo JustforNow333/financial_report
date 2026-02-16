@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "177 MANNING AVENUE",
+      "street2": null,
+      "zipCode": "M6J2K6"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "177 MANNING AVENUE",
+      "street2": null,
+      "zipCode": "M6J2K6"
+    }
+  },
+  "category": "",
+  "cik": "0002105838",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-20T22:00:49.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-005720"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-292831"
+      ],
+      "filingDate": [
+        "2026-01-20"
+      ],
+      "filmNumber": [
+        "26543688"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "ea0272886-01.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        9048635
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "SUMA Acquisition Corp",
+  "ownerOrg": "",
+  "phone": "(647) 622-9173",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001796026",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-04T15:18:17.000Z",
+        "2019-12-09T16:49:38.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000316",
+        "0001019155-19-000350"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-235425",
+        "333-235425"
+      ],
+      "filingDate": [
+        "2025-08-04",
+        "2019-12-09"
+      ],
+      "filmNumber": [
+        "251179752",
+        "191275738"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "FORM F-6EF"
+      ],
+      "primaryDocument": [
+        "dinopolf6pos.htm",
+        "dinof6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        101117,
+        101723
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Dino Polska S.A./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3128",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "DNOPF"
+  ],
+  "website": ""
+}

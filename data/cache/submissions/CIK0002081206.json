@@ -1,0 +1,245 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CAMPINAS",
+      "country": "Brazil",
+      "countryCode": "D5",
+      "foreignStateTerritory": "SAO PAULO",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "RUA SERGIO FERNANDES BORGES SOARES,1000",
+      "street2": "PREDIO E1",
+      "zipCode": "13054-709"
+    },
+    "mailing": {
+      "city": "CAMPINAS",
+      "country": "Brazil",
+      "countryCode": "D5",
+      "foreignStateTerritory": "SAO PAULO",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "RUA SERGIO FERNANDES BORGES SOARES,1000",
+      "street2": "PREDIO E1",
+      "zipCode": "13054-709"
+    }
+  },
+  "category": "",
+  "cik": "0002081206",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-11T21:31:57.000Z",
+        "2026-02-11T05:15:26.000Z",
+        "2026-02-10T16:55:25.000Z",
+        "2026-02-10T16:02:02.000Z",
+        "2026-02-10T11:07:06.000Z",
+        "2026-02-02T05:15:09.000Z",
+        "2026-01-29T20:09:12.000Z",
+        "2026-01-14T16:11:05.000Z",
+        "2025-11-28T22:11:58.000Z",
+        "2025-09-05T20:11:43.000Z"
+      ],
+      "accessionNumber": [
+        "0001753926-26-000308",
+        "9999999995-26-000514",
+        "0000876661-26-000116",
+        "0001753926-26-000296",
+        "0001753926-26-000290",
+        "9999999995-26-000412",
+        "0001753926-26-000217",
+        "0001753926-26-000110",
+        "0000950103-25-015473",
+        "0000950103-25-011337"
+      ],
+      "act": [
+        "33",
+        "33",
+        "34",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B1",
+        "EFFECT",
+        "CERT",
+        "8-A12B",
+        "POS AM",
+        "EFFECT",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292720",
+        "333-292720",
+        "001-43114",
+        "001-43114",
+        "333-292720",
+        "333-292720",
+        "333-292720",
+        "333-292720",
+        "377-08424",
+        "377-08424"
+      ],
+      "filingDate": [
+        "2026-02-11",
+        "2026-02-10",
+        "2026-02-10",
+        "2026-02-10",
+        "2026-02-10",
+        "2026-01-30",
+        "2026-01-29",
+        "2026-01-14",
+        "2025-11-28",
+        "2025-09-05"
+      ],
+      "filmNumber": [
+        "26621302",
+        "26618204",
+        "26614498",
+        "26614131",
+        "26613368",
+        "26585483",
+        "26577367",
+        "26532060",
+        "251536456",
+        "251296883"
+      ],
+      "form": [
+        "424B1",
+        "EFFECT",
+        "CERT",
+        "8-A12B",
+        "POS AM",
+        "EFFECT",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "424B1",
+        "",
+        "NYSE CERTIFICATION",
+        "8-A12B",
+        "POS AM",
+        "",
+        "F-1/A",
+        "F-1",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "g085129_424b1.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "AGBK021026.pdf",
+        "g085115_8a.htm",
+        "g085125_posam.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "g085083_f1a.htm",
+        "g085053_f1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        15359253,
+        2035,
+        187968,
+        19613,
+        15675899,
+        2022,
+        16010715,
+        16119561,
+        9879613,
+        5983546
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2025-09-05T04:00:00.000Z",
+      "name": "Agi, Inc.",
+      "to": "2025-09-05T04:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "AGI Inc",
+  "ownerOrg": "02 Finance",
+  "phone": "55 (19) 3031-4000",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "AGBK"
+  ],
+  "website": ""
+}

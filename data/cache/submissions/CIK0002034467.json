@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "JAKARTA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K8",
+      "stateOrCountryDescription": "Indonesia",
+      "street1": "WISMA BARITO PACIFIC II, 23RD FLOOR",
+      "street2": "JL. LET. JEND. S. PARMAN KAV. 60",
+      "zipCode": "11410"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002034467",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-08-20T15:36:28.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-001054"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-281659"
+      ],
+      "filingDate": [
+        "2024-08-20"
+      ],
+      "filmNumber": [
+        "241224861"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e663848_f6ef-bre.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        140973
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PT Barito Renewables Energy Tbk/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "K8",
+  "stateOfIncorporationDescription": "Indonesia",
+  "tickers": [
+    "PBRRY"
+  ],
+  "website": ""
+}

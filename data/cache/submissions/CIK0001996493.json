@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CORAL GABLES",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "2020 PONCE DE LEON BLVD., SUITE 1204",
+      "street2": null,
+      "zipCode": "33134"
+    },
+    "mailing": {
+      "city": "CORAL GABLES",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "2020 PONCE DE LEON BLVD., SUITE 1204",
+      "street2": null,
+      "zipCode": "33134"
+    }
+  },
+  "category": "",
+  "cik": "0001996493",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-02T16:41:49.000Z",
+        "2024-12-27T09:36:12.000Z",
+        "2024-01-03T11:09:21.000Z",
+        "2023-11-06T12:03:55.000Z",
+        "2023-10-18T14:49:12.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-015898",
+        "0001062993-24-021224",
+        "0001062993-24-000123",
+        "0001062993-23-020136",
+        "0001062993-23-019527"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-559665",
+        "021-533424",
+        "021-501399",
+        "021-496543",
+        "021-495122"
+      ],
+      "filingDate": [
+        "2025-10-02",
+        "2024-12-27",
+        "2024-01-03",
+        "2023-11-06",
+        "2023-10-18"
+      ],
+      "filmNumber": [
+        "251369961",
+        "241582788",
+        "24504846",
+        "231379100",
+        "231332008"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10687,
+        10721,
+        10681,
+        11482,
+        10728
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Sucro Ltd",
+  "ownerOrg": "",
+  "phone": "(305) 901-1322",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "SUGRF"
+  ],
+  "website": ""
+}

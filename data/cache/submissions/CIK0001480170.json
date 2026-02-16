@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HEPPNER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "OR",
+      "stateOrCountryDescription": "OR",
+      "street1": "250 NW GALE",
+      "street2": "PO BOX 39",
+      "zipCode": "97836"
+    },
+    "mailing": {
+      "city": "HEPPNER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "OR",
+      "stateOrCountryDescription": "OR",
+      "street1": "250 NW GALE",
+      "street2": "PO BOX 39",
+      "zipCode": "97836"
+    }
+  },
+  "category": "",
+  "cik": "0001480170",
+  "description": "",
+  "ein": "931235019",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-09-17T16:35:39.000Z",
+        "2021-11-18T17:27:28.000Z",
+        "2019-08-15T17:55:35.000Z",
+        "2010-01-11T12:49:49.000Z"
+      ],
+      "accessionNumber": [
+        "0001480170-24-000001",
+        "0001480170-21-000001",
+        "0001480170-19-000001",
+        "0001480170-10-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-524288",
+        "021-421754",
+        "021-346703",
+        "021-137652"
+      ],
+      "filingDate": [
+        "2024-09-17",
+        "2021-11-18",
+        "2019-08-16",
+        "2010-01-11"
+      ],
+      "filmNumber": [
+        "241304928",
+        "211425603",
+        "191031224",
+        "10519591"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        13640,
+        12010,
+        11208,
+        12160
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "BEO BANCORP",
+  "ownerOrg": "",
+  "phone": "541-676-0201",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "OR",
+  "stateOfIncorporationDescription": "OR",
+  "tickers": [
+    "BEOB"
+  ],
+  "website": ""
+}

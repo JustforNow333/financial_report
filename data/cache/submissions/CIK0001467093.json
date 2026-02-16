@@ -1,0 +1,130 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "475 HOWE STREET, SUITE 511",
+      "street2": null,
+      "zipCode": "V6C2B3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "475 HOWE STREET, SUITE 511",
+      "street2": null,
+      "zipCode": "V6C2B3"
+    }
+  },
+  "category": "",
+  "cik": "0001467093",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-10T19:22:37.000Z",
+        "2010-03-24T16:48:58.000Z",
+        "2009-06-26T21:15:58.000Z"
+      ],
+      "accessionNumber": [
+        "0001467093-25-000004",
+        "0000912282-10-000408",
+        "0000912282-09-000962"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-566386",
+        "021-132295",
+        "021-132295"
+      ],
+      "filingDate": [
+        "2025-12-10",
+        "2010-03-24",
+        "2009-06-26"
+      ],
+      "filmNumber": [
+        "251561615",
+        "10701167",
+        "09913783"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06c",
+        "06",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10490,
+        12349,
+        10106
+      ]
+    }
+  },
+  "fiscalYearEnd": "0228",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Scorpio Gold Corp",
+  "ownerOrg": "",
+  "phone": "(604) 678-9639",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [],
+  "website": ""
+}

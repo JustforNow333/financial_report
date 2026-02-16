@@ -1,0 +1,160 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HONG KONG",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1477 KAM TIN ROAD",
+      "street2": "YUEN LONG, NEW TERRITORIES",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "HONG KONG",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "RM G12 BLK G 4/F EAST SUN INDUSTRIAL CTR",
+      "street2": "16 SHING YIP STREET KWUN TONG, KOWLOON",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002084038",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-16T18:27:02.000Z",
+        "2025-12-08T16:46:17.000Z",
+        "2025-11-12T16:21:54.000Z",
+        "2025-10-23T21:50:28.000Z",
+        "2025-08-29T18:41:34.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-005036",
+        "0001213900-25-119052",
+        "0001213900-25-108973",
+        "0001213900-25-101764",
+        "0001213900-25-082452"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292777",
+        "377-08393",
+        "377-08393",
+        "377-08393",
+        "377-08393"
+      ],
+      "filingDate": [
+        "2026-01-16",
+        "2025-12-08",
+        "2025-11-12",
+        "2025-10-24",
+        "2025-08-29"
+      ],
+      "filmNumber": [
+        "26538626",
+        "251555168",
+        "251470726",
+        "251413911",
+        "251279942"
+      ],
+      "form": [
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0254251-08.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10705389,
+        8767555,
+        8773406,
+        8780375,
+        8556469
+      ]
+    }
+  },
+  "fiscalYearEnd": "0630",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Yi Feng Holdings Ltd.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "852-23688939",
+  "sic": "1540",
+  "sicDescription": "General Bldg Contractors - Nonresidential Bldgs",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    }
+  },
+  "category": "",
+  "cik": "0002061911",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-16T11:08:32.000Z",
+        "2025-03-20T15:31:26.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000494",
+        "0001193805-25-000333"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286565",
+        "333-285953"
+      ],
+      "filingDate": [
+        "2025-04-15",
+        "2025-03-20"
+      ],
+      "filmNumber": [
+        "25841644",
+        "25756205"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e664394_f6ef-mixue.htm",
+        "e664298_f6ef-mixue.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        111401,
+        143823
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Mixue Bingcheng Co Ltd/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "2123197600",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "tickers": [
+    "MXUBY",
+    "MXUGF"
+  ],
+  "website": ""
+}

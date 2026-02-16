@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "122 EAST 42ND STREET, 18TH FLOOR",
+      "street2": null,
+      "zipCode": "10168"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "122 EAST 42ND STREET, 18TH FLOOR",
+      "street2": null,
+      "zipCode": "10168"
+    }
+  },
+  "category": "",
+  "cik": "0002080003",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-11T00:15:06.000Z",
+        "2025-08-05T16:46:58.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-25-002545",
+        "0001104659-25-074245"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-289264",
+        "333-289264"
+      ],
+      "filingDate": [
+        "2025-08-08",
+        "2025-08-05"
+      ],
+      "filmNumber": [
+        "251199940",
+        "251185717"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "tm2519647d1_f6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        1645,
+        594253
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "MELIUZ S.A.",
+  "ownerOrg": "International Corp Fin",
+  "phone": "(212) 947-7200",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "tickers": [
+    "MLIZY"
+  ],
+  "website": ""
+}

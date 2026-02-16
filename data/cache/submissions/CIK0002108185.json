@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TOKYO",
+      "country": "Japan",
+      "countryCode": "M0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "2-7-3, MARUNOUCHI TOKYO BUILDING",
+      "street2": null,
+      "zipCode": "100-0005"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002108185",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-29T19:00:52.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-26-000096"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-293046"
+      ],
+      "filingDate": [
+        "2026-01-29"
+      ],
+      "filmNumber": [
+        "26576858"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e665131_f6ef-azbil.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        111037
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Azbil Corporation/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [],
+  "website": ""
+}

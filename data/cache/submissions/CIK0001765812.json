@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "JAKARTA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K8",
+      "stateOrCountryDescription": "Indonesia",
+      "street1": "GEDUNG KAWAN LAMA, 5TH FL, JALAN PURI",
+      "street2": "KENCANA NO. 1, MERUYA KEMBANGAN",
+      "zipCode": "11610"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAP C/O H. RASPE",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0001765812",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-07-25T11:25:55.000Z",
+        "2019-01-24T16:02:17.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-000962",
+        "0001193805-19-000081"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B3",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-229342",
+        "333-229342"
+      ],
+      "filingDate": [
+        "2024-07-25",
+        "2019-01-24"
+      ],
+      "filmNumber": [
+        "241140572",
+        "19540031"
+      ],
+      "form": [
+        "424B3",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e663794_424b3-ptahi.htm",
+        "e618161_f6ef-ptace.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        57839,
+        112877
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PT Ace Hardware Indonesia, Tbk./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-336-2301",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "K8",
+  "stateOfIncorporationDescription": "Indonesia",
+  "tickers": [
+    "PHDWY"
+  ],
+  "website": ""
+}

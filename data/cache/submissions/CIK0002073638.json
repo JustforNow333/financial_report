@@ -1,0 +1,106 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002073638",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-06-25T12:13:46.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000245"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-288309"
+      ],
+      "filingDate": [
+        "2025-06-25"
+      ],
+      "filmNumber": [
+        "251072127"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "finningf6ef.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        113139
+      ]
+    }
+  },
+  "fiscalYearEnd": "1225",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Finning International Inc./ADR",
+  "ownerOrg": "",
+  "phone": "2122383221",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "FNIGY",
+    "FINGF"
+  ],
+  "website": ""
+}

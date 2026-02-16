@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002059986",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-22T00:15:17.000Z",
+        "2025-04-09T10:55:33.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-25-001166",
+        "0001019155-25-000123"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-286447",
+        "333-286447"
+      ],
+      "filingDate": [
+        "2025-04-21",
+        "2025-04-09"
+      ],
+      "filmNumber": [
+        "25854850",
+        "25824233"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "onwardf6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        1617,
+        334261
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Onward Medical N.V./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3128",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "ONWRY",
+    "ONWRF"
+  ],
+  "website": ""
+}

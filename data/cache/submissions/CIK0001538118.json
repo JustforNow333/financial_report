@@ -1,0 +1,151 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001538118",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-03-19T17:07:25.000Z",
+        "2024-03-18T15:08:59.000Z",
+        "2013-08-29T17:01:09.000Z",
+        "2011-12-30T11:26:28.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-000401",
+        "0001193805-24-000382",
+        "0001193805-13-001553",
+        "0001019155-11-000735"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6/A",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-278024",
+        "333-278024",
+        "333-190894",
+        "333-178827"
+      ],
+      "filingDate": [
+        "2024-03-19",
+        "2024-03-18",
+        "2013-08-29",
+        "2011-12-30"
+      ],
+      "filmNumber": [
+        "24764839",
+        "24758615",
+        "131069834",
+        "111288363"
+      ],
+      "form": [
+        "F-6/A",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "e619388_f6a-yhc.htm",
+        "e619377_f6ef-yhc.htm",
+        "e611271_f6ef-yakult.htm",
+        "yakuf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        40417,
+        145594,
+        289331,
+        79504
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Yakult Honsha Co., LTD/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3128",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "YKLTY",
+    "YKLTF"
+  ],
+  "website": ""
+}

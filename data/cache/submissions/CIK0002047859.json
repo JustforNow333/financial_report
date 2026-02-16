@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "KWUN TONG",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "OFFICE D, 19/F, EGL TOWER",
+      "street2": "83 HUNG TO ROAD",
+      "zipCode": "000"
+    },
+    "mailing": {
+      "city": "KWUN TONG",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "OFFICE D, 19/F, EGL TOWER",
+      "street2": "83 HUNG TO ROAD",
+      "zipCode": "000"
+    }
+  },
+  "category": "",
+  "cik": "0002047859",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-05T21:55:38.000Z",
+        "2025-11-06T18:27:21.000Z",
+        "2025-09-12T18:23:51.000Z",
+        "2025-08-11T15:18:52.000Z",
+        "2025-03-28T17:45:53.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-012822",
+        "0001213900-25-107041",
+        "0001213900-25-087167",
+        "0001213900-25-074064",
+        "0001013762-25-003897"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-291316",
+        "333-291316",
+        "377-07831",
+        "377-07831",
+        "377-07831"
+      ],
+      "filingDate": [
+        "2026-02-05",
+        "2025-11-06",
+        "2025-09-12",
+        "2025-08-11",
+        "2025-03-28"
+      ],
+      "filmNumber": [
+        "26603861",
+        "251457299",
+        "251311035",
+        "251200816",
+        "25784244"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0227331-09.htm",
+        "ea0227331-07.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        12364280,
+        13454749,
+        19197372,
+        14566876,
+        13195170
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Speed Group Holdings Ltd",
+  "ownerOrg": "01 Energy & Transportation",
+  "phone": "(852) 3460 5313",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "SPED"
+  ],
+  "website": ""
+}

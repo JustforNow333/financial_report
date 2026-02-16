@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "FAIRFIELD",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "CT",
+      "stateOrCountryDescription": "CT",
+      "street1": "1241 POST ROAD, 2ND FLOOR",
+      "street2": null,
+      "zipCode": "06824"
+    },
+    "mailing": {
+      "city": "FAIRFIELD",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "CT",
+      "stateOrCountryDescription": "CT",
+      "street1": "1241 POST ROAD, 2ND FLOOR",
+      "street2": null,
+      "zipCode": "06824"
+    }
+  },
+  "category": "",
+  "cik": "0002042444",
+  "description": "",
+  "ein": "996850956",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-11-07T11:12:13.000Z",
+        "2024-10-28T10:57:54.000Z"
+      ],
+      "accessionNumber": [
+        "0001137439-24-001482",
+        "0001137439-24-001460"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-528866",
+        "021-527916"
+      ],
+      "filingDate": [
+        "2024-11-07",
+        "2024-10-28"
+      ],
+      "filmNumber": [
+        "241433956",
+        "241399256"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "04.2",
+        "06c"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        7909,
+        7909
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Osprey BONK Trust",
+  "ownerOrg": "",
+  "phone": "(914) 214-4697",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "OBNK"
+  ],
+  "website": ""
+}

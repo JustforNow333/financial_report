@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": null,
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": null,
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001999474",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-02-21T00:15:11.000Z",
+        "2024-02-12T11:23:54.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-24-000497",
+        "0001019155-24-000028"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-277005",
+        "333-277005"
+      ],
+      "filingDate": [
+        "2024-02-20",
+        "2024-02-12"
+      ],
+      "filmNumber": [
+        "24656259",
+        "24618255"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "F-6,,2024-02-20 09:00:00",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "dotzf6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        1572,
+        325181
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Dotz Nano Limited/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3134",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "DTZNY",
+    "DTZZF"
+  ],
+  "website": ""
+}

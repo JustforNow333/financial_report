@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "JAKARTA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K8",
+      "stateOrCountryDescription": "Indonesia",
+      "street1": "TELKOM LANDMARK TOWER, LANTAI 25-27",
+      "street2": "JL. GATOT SUBROTO KAV. 52",
+      "zipCode": "12710"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002032887",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-08-07T12:20:47.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-001001"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-281325"
+      ],
+      "filingDate": [
+        "2024-08-07"
+      ],
+      "filmNumber": [
+        "241182504"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e663823_f6ef-ptdt.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        140904
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PT Dayamitra Telekomunikasi Tbk/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "K8",
+  "stateOfIncorporationDescription": "Indonesia",
+  "tickers": [
+    "PDYTY"
+  ],
+  "website": ""
+}

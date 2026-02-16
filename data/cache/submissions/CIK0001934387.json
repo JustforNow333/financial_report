@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW TERRITORIES",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "UNIT 1805, 18F, TOWER 1, EVER GAIN PLAZA",
+      "street2": "88 CONTAINER PORT ROAD KWAI CHUNG",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "NEW TERRITORIES",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "UNIT 1805, 18F, TOWER 1, EVER GAIN PLAZA",
+      "street2": "88 CONTAINER PORT ROAD KWAI CHUNG",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0001934387",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T15:20:23.000Z",
+        "2025-12-12T22:03:39.000Z",
+        "2025-10-23T20:40:32.000Z",
+        "2025-09-05T15:24:47.000Z",
+        "2025-06-09T10:13:41.000Z",
+        "2025-05-29T17:02:37.000Z",
+        "2022-09-06T10:12:49.000Z",
+        "2022-08-12T18:19:55.000Z",
+        "2022-06-29T01:48:56.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-004679",
+        "0001493152-25-027531",
+        "0001493152-25-019107",
+        "0001641172-25-026667",
+        "0001641172-25-014225",
+        "0001641172-25-012812",
+        "0001493152-22-025043",
+        "0001493152-22-022280",
+        "0001493152-22-018021"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-291040",
+        "333-291040",
+        "333-291040",
+        "377-08057",
+        "377-08057",
+        "377-08057",
+        "377-06245",
+        "377-06245",
+        "377-06245"
+      ],
+      "filingDate": [
+        "2026-02-02",
+        "2025-12-12",
+        "2025-10-23",
+        "2025-09-05",
+        "2025-06-09",
+        "2025-05-29",
+        "2022-09-06",
+        "2022-08-12",
+        "2022-06-29"
+      ],
+      "filmNumber": [
+        "26586184",
+        "251569008",
+        "251413586",
+        "251295492",
+        "251032774",
+        "251000626",
+        "221226777",
+        "221159389",
+        "221051650"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        5468465,
+        5936135,
+        9596480,
+        73445262,
+        5239426,
+        5238312,
+        9177012,
+        3464801,
+        34603824
+      ]
+    }
+  },
+  "fiscalYearEnd": "0930",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "CGL Logistics Holdings Ltd",
+  "ownerOrg": "01 Energy & Transportation",
+  "phone": "852 2136 6013",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "CGL"
+  ],
+  "website": ""
+}

@@ -1,0 +1,239 @@
+{
+  "addresses": {
+    "business": {
+      "city": "KOWLOON",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "KAM LUNG COMMERCIAL CENTRE, 5TH FLOOR",
+      "street2": "NO. 2 HART AVENUE",
+      "zipCode": "NULL"
+    },
+    "mailing": {
+      "city": "KOWLOON",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "KAM LUNG COMMERCIAL CENTRE, 5TH FLOOR",
+      "street2": "NO. 2 HART AVENUE",
+      "zipCode": "NULL"
+    }
+  },
+  "category": "",
+  "cik": "0002064551",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-27T15:16:16.000Z",
+        "2026-01-23T15:31:53.000Z",
+        "2026-01-23T15:26:47.000Z",
+        "2026-01-02T05:15:17.000Z",
+        "2025-12-15T16:24:55.000Z",
+        "2025-11-03T15:34:56.000Z",
+        "2025-10-01T18:00:20.000Z",
+        "2025-09-19T17:36:28.000Z",
+        "2025-07-08T14:27:51.000Z",
+        "2025-05-28T15:27:49.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-008014",
+        "0001213900-26-006992",
+        "0001213900-26-006990",
+        "9999999995-26-000011",
+        "0001213900-25-121543",
+        "0001213900-25-105000",
+        "0001213900-25-094591",
+        "0001213900-25-089410",
+        "0001213900-25-061953",
+        "0001213900-25-048118"
+      ],
+      "act": [
+        "NE",
+        "33",
+        "NE",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "RW",
+        "F-1",
+        "RW",
+        "EFFECT",
+        "POS AM",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-290394",
+        "333-292902",
+        "333-290394",
+        "333-290394",
+        "333-290394",
+        "333-290394",
+        "333-290394",
+        "333-290394",
+        "377-08051",
+        "377-08051"
+      ],
+      "filingDate": [
+        "2026-01-27",
+        "2026-01-23",
+        "2026-01-23",
+        "2025-12-31",
+        "2025-12-15",
+        "2025-11-03",
+        "2025-10-01",
+        "2025-09-19",
+        "2025-07-08",
+        "2025-05-28"
+      ],
+      "filmNumber": [
+        "26562478",
+        "26554001",
+        "26553968",
+        "26500012",
+        "251570461",
+        "251442577",
+        "251363810",
+        "251326145",
+        "251109899",
+        "25992176"
+      ],
+      "form": [
+        "RW",
+        "F-1",
+        "RW",
+        "EFFECT",
+        "POS AM",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REQUEST FOR WITHDRAWAL OF REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REQUEST FOR WITHDRAWAL OF REGISTRATION STATEMENT",
+        "",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea023322013-rw_gasaitong.htm",
+        "ea0272009-01.htm",
+        "ea023322012-rw_gasai.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "ea0233220-10.htm",
+        "ea0233220-07.htm",
+        "ea0233220-05.htm",
+        "ea0233220-04.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9167,
+        19411662,
+        8520,
+        1884,
+        11382389,
+        11408908,
+        11476515,
+        19314346,
+        9030811,
+        9040244
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Ga Sai Tong Enterprise Ltd",
+  "ownerOrg": "07 Trade & Services",
+  "phone": "852-2981-1688",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "GST"
+  ],
+  "website": ""
+}

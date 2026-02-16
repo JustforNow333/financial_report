@@ -1,0 +1,170 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SPARTANBURG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "SC",
+      "stateOrCountryDescription": "SC",
+      "street1": "P.O. BOX 2788",
+      "street2": null,
+      "zipCode": "29304"
+    },
+    "mailing": {
+      "city": "SPARTANBURG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "SC",
+      "stateOrCountryDescription": "SC",
+      "street1": "P.O. BOX 2788",
+      "street2": null,
+      "zipCode": "29304"
+    }
+  },
+  "category": "",
+  "cik": "0001831523",
+  "description": "",
+  "ein": "581709206",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-07-10T10:36:04.000Z",
+        "2022-09-28T12:07:09.000Z",
+        "2022-09-28T10:40:56.000Z",
+        "2021-10-27T14:17:26.000Z",
+        "2020-11-13T15:22:17.000Z"
+      ],
+      "accessionNumber": [
+        "0001831523-24-000001",
+        "0001831523-22-000003",
+        "0001831523-22-000002",
+        "0001831523-21-000002",
+        "0001831523-20-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-518246",
+        "021-460086",
+        "021-460063",
+        "021-418771",
+        "021-380538"
+      ],
+      "filingDate": [
+        "2024-07-10",
+        "2022-09-28",
+        "2022-09-28",
+        "2021-10-27",
+        "2020-11-13"
+      ],
+      "filmNumber": [
+        "241109033",
+        "221273713",
+        "221273241",
+        "211352305",
+        "201311106"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11378,
+        11947,
+        12029,
+        6924,
+        14793
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2020-11-13T00:00:00.000Z",
+      "name": "Sardis Bankshares, Inc.",
+      "to": "2020-11-13T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Southern Financial Corp",
+  "ownerOrg": "",
+  "phone": "864-345-1022",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "SC",
+  "stateOfIncorporationDescription": "SC",
+  "tickers": [
+    "SFCO"
+  ],
+  "website": ""
+}

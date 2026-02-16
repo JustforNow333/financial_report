@@ -1,0 +1,205 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "#1221 - 1771 ROBSON STREET",
+      "street2": null,
+      "zipCode": "V6G 1C9"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "#1221 - 1771 ROBSON STREET",
+      "street2": null,
+      "zipCode": "V6G 1C9"
+    }
+  },
+  "category": "",
+  "cik": "0001834607",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-06-24T17:00:29.000Z",
+        "2024-12-27T15:13:20.000Z",
+        "2024-05-02T12:58:05.000Z",
+        "2024-01-02T18:43:58.000Z",
+        "2023-04-17T18:34:17.000Z",
+        "2022-03-30T16:20:20.000Z",
+        "2020-12-03T12:37:06.000Z"
+      ],
+      "accessionNumber": [
+        "0001834607-25-000002",
+        "0001834607-24-000005",
+        "0001834607-24-000003",
+        "0001834607-24-000001",
+        "0001834607-23-000001",
+        "0001834607-22-000001",
+        "0001834607-20-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-549735",
+        "021-533498",
+        "021-512194",
+        "021-501363",
+        "021-479143",
+        "021-439691",
+        "021-382125"
+      ],
+      "filingDate": [
+        "2025-06-24",
+        "2024-12-27",
+        "2024-05-02",
+        "2024-01-03",
+        "2023-04-18",
+        "2022-03-30",
+        "2020-12-03"
+      ],
+      "filmNumber": [
+        "251069950",
+        "241585546",
+        "24906776",
+        "24503906",
+        "23825066",
+        "22786727",
+        "201366258"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        12635,
+        12341,
+        11641,
+        11157,
+        10774,
+        10870,
+        9881
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2024-05-02T00:00:00.000Z",
+      "name": "C2C Metals Corp.",
+      "to": "2024-05-02T00:00:00.000Z"
+    },
+    {
+      "from": "2020-12-03T00:00:00.000Z",
+      "name": "C2C Gold Corp.",
+      "to": "2024-01-03T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Urano Energy Corp.",
+  "ownerOrg": "",
+  "phone": "8338882862",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "UECXF"
+  ],
+  "website": ""
+}

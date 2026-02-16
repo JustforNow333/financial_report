@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "GRAND CAYMAN",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": "CAYMAN ISLANDS",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "C/O MAPLES CORPORATE SERVICES LTD.",
+      "street2": "P.O. BOX 309 UGLAND HOUSE",
+      "zipCode": "KY1-1104"
+    },
+    "mailing": {
+      "city": "GRAND CAYMAN",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": "CAYMAN ISLANDS",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "C/O MAPLES CORPORATE SERVICES LTD.",
+      "street2": "P.O. BOX 309 UGLAND HOUSE",
+      "zipCode": "KY1-1104"
+    }
+  },
+  "category": "",
+  "cik": "0002107724",
+  "description": "",
+  "ein": "981910543",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T22:08:30.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-010840"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-293143"
+      ],
+      "filingDate": [
+        "2026-02-02"
+      ],
+      "filmNumber": [
+        "26588854"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "ea0274561-01.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        8461649
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Metals Acquisition Corp. II",
+  "ownerOrg": "",
+  "phone": "610432010247",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

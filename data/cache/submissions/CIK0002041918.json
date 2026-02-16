@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ROME",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "L6",
+      "stateOrCountryDescription": "Italy",
+      "street1": "VIA DEGLI ALDOBRANDESCHI, 300",
+      "street2": null,
+      "zipCode": "00163"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002041918",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-06-03T16:09:01.000Z",
+        "2024-10-22T12:55:48.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000768",
+        "0001193805-24-001259"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-287743",
+        "333-282770"
+      ],
+      "filingDate": [
+        "2025-06-03",
+        "2024-10-22"
+      ],
+      "filmNumber": [
+        "251019510",
+        "241385467"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e664581_f6ef-lottomatica.htm",
+        "e663965_f6ef-lottomatica.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        144288,
+        110888
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Lottomatica Group S.p.A./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "L6",
+  "stateOfIncorporationDescription": "Italy",
+  "tickers": [
+    "LOTMY",
+    "LTMGF"
+  ],
+  "website": ""
+}

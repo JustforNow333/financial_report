@@ -1,0 +1,106 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TABY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "V7",
+      "stateOrCountryDescription": "Sweden",
+      "street1": "MYCRONIC AB",
+      "street2": "NYTORPSVAGEN 9",
+      "zipCode": "183 03"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002032399",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-08-02T11:03:38.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-000976"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-281210"
+      ],
+      "filingDate": [
+        "2024-08-02"
+      ],
+      "filmNumber": [
+        "241169382"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e663810_f6ef-mycronic.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        140770
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Mycronic AB/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "V7",
+  "stateOfIncorporationDescription": "Sweden",
+  "tickers": [
+    "MYCRY",
+    "MICLF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,106 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TOKYO",
+      "country": "Japan",
+      "countryCode": "M0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "2-6-4, OTEMACHI, TOKIWABASHI TOWER",
+      "street2": "CHIYODA",
+      "zipCode": "100-8142"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002092248",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-20T15:41:11.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001477"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-290965"
+      ],
+      "filingDate": [
+        "2025-10-20"
+      ],
+      "filmNumber": [
+        "251403707"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e664916_f6ef-nagase.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        111671
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Nagase & Co., Ltd./ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "NGCOY",
+    "NGSCF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CAYMAN ISLAND",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "GENESIS BUILDING, 5TH FLOOR",
+      "street2": "GENESIS CLOSE, P.O. BOX 446",
+      "zipCode": "KY1-1106"
+    },
+    "mailing": {
+      "city": "CAYMAN ISLAND",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "GENESIS BUILDING, 5TH FLOOR",
+      "street2": "GENESIS CLOSE, P.O. BOX 446",
+      "zipCode": "KY1-1106"
+    }
+  },
+  "category": "",
+  "cik": "0002076561",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-04T22:09:36.000Z",
+        "2026-01-15T14:58:22.000Z",
+        "2025-12-19T21:17:07.000Z",
+        "2025-09-12T20:28:41.000Z"
+      ],
+      "accessionNumber": [
+        "0001477932-26-000632",
+        "0001477932-26-000218",
+        "0001477932-25-009097",
+        "0001477932-25-006707"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292289",
+        "333-292289",
+        "333-292289",
+        "377-08455"
+      ],
+      "filingDate": [
+        "2026-02-04",
+        "2026-01-15",
+        "2025-12-19",
+        "2025-09-12"
+      ],
+      "filmNumber": [
+        "26599293",
+        "26534929",
+        "251587769",
+        "251311805"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM S-1/A",
+        "FORM S-1/A",
+        "FORM S-1",
+        ""
+      ],
+      "primaryDocument": [
+        "ptree_s1a.htm",
+        "ptree_s1a.htm",
+        "ptree_s1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2324124,
+        3064270,
+        3016501,
+        2038875
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Pine Tree Acquisition Corp.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "345-623-2740",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "PAXG"
+  ],
+  "website": ""
+}

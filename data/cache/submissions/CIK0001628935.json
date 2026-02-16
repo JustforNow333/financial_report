@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DARTMOUTH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A5",
+      "stateOrCountryDescription": "Nova Scotia, Canada",
+      "street1": "SUITE 1480, 99 WYSE ROAD",
+      "street2": null,
+      "zipCode": "B3A 4S5"
+    },
+    "mailing": {
+      "city": "DARTMOUTH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A5",
+      "stateOrCountryDescription": "Nova Scotia, Canada",
+      "street1": "SUITE 1480, 99 WYSE ROAD",
+      "street2": null,
+      "zipCode": "B3A 4S5"
+    }
+  },
+  "category": "",
+  "cik": "0001628935",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-06T19:25:16.000Z",
+        "2014-12-29T22:44:06.000Z"
+      ],
+      "accessionNumber": [
+        "0001628935-26-000001",
+        "0001628935-14-000001"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-569069",
+        "021-231007"
+      ],
+      "filingDate": [
+        "2026-01-06",
+        "2014-12-30"
+      ],
+      "filmNumber": [
+        "26510676",
+        "141313645"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        10052,
+        10286
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "MORIEN RESOURCES CORP.",
+  "ownerOrg": "",
+  "phone": "1-902-466-7255",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [],
+  "website": ""
+}

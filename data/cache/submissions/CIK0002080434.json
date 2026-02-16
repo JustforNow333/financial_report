@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DONGGUAN",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "ROOM 804, UNIT 1, BUILDING 1, NO. 9 KEJI",
+      "street2": "2ND ROAD, SONGSHAN LAKE PARK",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "DONGGUAN",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "ROOM 804, UNIT 1, BUILDING 1, NO. 9 KEJI",
+      "street2": "2ND ROAD, SONGSHAN LAKE PARK",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002080434",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-12T14:00:53.000Z"
+      ],
+      "accessionNumber": [
+        "0001477932-25-005702"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-1"
+      ],
+      "fileNumber": [
+        "333-289522"
+      ],
+      "filingDate": [
+        "2025-08-12"
+      ],
+      "filmNumber": [
+        "251205881"
+      ],
+      "form": [
+        "F-1"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM F-1"
+      ],
+      "primaryDocument": [
+        "mfhk_f1.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        1348518
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "MIBEE AVIATION TECHNOLOGY HOLDING INC",
+  "ownerOrg": "",
+  "phone": "086 769 86137277",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "tickers": [
+    "MFHK"
+  ],
+  "website": ""
+}

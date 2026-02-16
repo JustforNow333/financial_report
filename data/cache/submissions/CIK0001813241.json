@@ -1,0 +1,140 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "488 - 1090 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E3V7"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "488 - 1090 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E3V7"
+    }
+  },
+  "category": "",
+  "cik": "0001813241",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-17T18:56:20.000Z",
+        "2025-02-13T17:11:34.000Z",
+        "2020-05-28T16:46:58.000Z"
+      ],
+      "accessionNumber": [
+        "0001534122-25-000004",
+        "0001877291-25-000004",
+        "0001534122-20-000010"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-552195",
+        "021-538247",
+        "021-367866"
+      ],
+      "filingDate": [
+        "2025-07-18",
+        "2025-02-13",
+        "2020-05-28"
+      ],
+      "filmNumber": [
+        "251132036",
+        "25621544",
+        "20921818"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10134,
+        10894,
+        12085
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2020-05-28T00:00:00.000Z",
+      "name": "Fosterville South Exploration Ltd.",
+      "to": "2020-05-28T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Great Pacific Gold Corp.",
+  "ownerOrg": "",
+  "phone": "6048024447",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "GPGCF"
+  ],
+  "website": ""
+}

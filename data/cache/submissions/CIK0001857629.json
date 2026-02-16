@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TARRYTOWN",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "520 WHITE PLAINS AVENUE",
+      "street2": "SUITE 500",
+      "zipCode": "10591"
+    },
+    "mailing": {
+      "city": "TARRYTOWN",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "520 WHITE PLAINS AVENUE",
+      "street2": "SUITE 500",
+      "zipCode": "10591"
+    }
+  },
+  "category": "",
+  "cik": "0001857629",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-01-10T13:59:16.000Z",
+        "2024-01-09T12:10:09.000Z",
+        "2021-08-11T18:02:37.000Z",
+        "2021-04-30T14:41:40.000Z",
+        "2021-04-23T16:35:27.000Z"
+      ],
+      "accessionNumber": [
+        "0001137439-25-000019",
+        "0001857629-24-000001",
+        "0001857629-21-000003",
+        "0001857629-21-000002",
+        "0001465818-21-000004"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D/A",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-501909",
+        "021-501909",
+        "021-397802",
+        "021-397802",
+        "021-397035"
+      ],
+      "filingDate": [
+        "2025-01-10",
+        "2024-01-09",
+        "2021-08-12",
+        "2021-04-30",
+        "2021-04-23"
+      ],
+      "filmNumber": [
+        "25522233",
+        "24522433",
+        "211164889",
+        "21876719",
+        "21850269"
+      ],
+      "form": [
+        "D/A",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06c",
+        "06c",
+        "06c",
+        "06c",
+        "04.2"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        7883,
+        6916,
+        8126,
+        8065,
+        7978
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Osprey Polkadot Trust",
+  "ownerOrg": "",
+  "phone": "9142144174",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "ODOT"
+  ],
+  "website": ""
+}

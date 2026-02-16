@@ -1,0 +1,166 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1100-1199 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6E3T5"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1100-1199 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6E3T5"
+    }
+  },
+  "category": "",
+  "cik": "0001650196",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-18T21:28:22.000Z",
+        "2022-05-05T18:36:14.000Z",
+        "2021-03-11T17:26:55.000Z",
+        "2016-12-05T22:45:02.000Z",
+        "2015-08-12T23:33:53.000Z"
+      ],
+      "accessionNumber": [
+        "0001650196-25-000003",
+        "0001534122-22-000013",
+        "0001534122-21-000004",
+        "0001534122-16-000121",
+        "0001534122-15-000068"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-567402",
+        "021-444623",
+        "021-391883",
+        "021-275674",
+        "021-245671"
+      ],
+      "filingDate": [
+        "2025-12-18",
+        "2022-05-05",
+        "2021-03-11",
+        "2016-12-06",
+        "2015-08-13"
+      ],
+      "filmNumber": [
+        "251583429",
+        "22895588",
+        "21732518",
+        "162034718",
+        "151048383"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10285,
+        9346,
+        9346,
+        14471,
+        10990
+      ]
+    }
+  },
+  "fiscalYearEnd": "0930",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2015-08-13T04:00:00.000Z",
+      "name": "CALLINEX MINES INC.",
+      "to": "2022-05-05T04:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Visionary Copper & Gold Mines Inc.",
+  "ownerOrg": "",
+  "phone": "(604) 605-0885",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [],
+  "website": ""
+}

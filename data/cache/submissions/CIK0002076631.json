@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "100 KING STREET WEST",
+      "street2": "SUITE 3400, 1 FIRST CDN PL",
+      "zipCode": "M5X 1A4"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "100 KING STREET WEST",
+      "street2": "SUITE 3400, 1 FIRST CDN PL",
+      "zipCode": "M5X 1A4"
+    }
+  },
+  "category": "",
+  "cik": "0002076631",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-16T17:06:00.000Z"
+      ],
+      "accessionNumber": [
+        "0002076631-25-000002"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-552040"
+      ],
+      "filingDate": [
+        "2025-07-16"
+      ],
+      "filmNumber": [
+        "251128031"
+      ],
+      "form": [
+        "D"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        "06b"
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        14020
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "AMAROQ LTD.",
+  "ownerOrg": "",
+  "phone": "416-587-9801",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "AMRQF"
+  ],
+  "website": ""
+}

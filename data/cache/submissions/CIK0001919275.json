@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    }
+  },
+  "category": "",
+  "cik": "0001919275",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-15T12:31:32.000Z",
+        "2023-02-08T11:38:20.000Z",
+        "2022-06-15T17:10:04.000Z",
+        "2022-05-17T13:40:10.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001459",
+        "0001104659-23-012471",
+        "0001019155-22-000121",
+        "0001193805-22-000817"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-290890",
+        "333-269633",
+        "333-265640",
+        "333-265006"
+      ],
+      "filingDate": [
+        "2025-10-15",
+        "2023-02-08",
+        "2022-06-15",
+        "2022-05-17"
+      ],
+      "filmNumber": [
+        "251394129",
+        "23597819",
+        "221018500",
+        "22933566"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6EF",
+        "F-6EF",
+        ""
+      ],
+      "primaryDocument": [
+        "e664905_f6ef-ve.htm",
+        "tm235789d2_f6ef.htm",
+        "varf6ef.htm",
+        "e621668_f6ef-vea.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        144342,
+        153885,
+        102672,
+        134896
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Var Energi ASA/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "302-552-0866",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Q8",
+  "stateOfIncorporationDescription": "Norway",
+  "tickers": [
+    "VARRY"
+  ],
+  "website": ""
+}

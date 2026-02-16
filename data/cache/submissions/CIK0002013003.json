@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "RICHMOND",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "C3",
+      "stateOrCountryDescription": "Australia",
+      "street1": "PRO MEDICUS LIMITED",
+      "street2": "450 SWAN ST",
+      "zipCode": "VIC 3121"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002013003",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-06-26T13:35:59.000Z",
+        "2024-02-22T15:45:06.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-24-075086",
+        "0001193805-24-000260"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-280488",
+        "333-277264"
+      ],
+      "filingDate": [
+        "2024-06-26",
+        "2024-02-22"
+      ],
+      "filmNumber": [
+        "241072541",
+        "24664510"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2418230d1_f6ef.htm",
+        "e619296_f6ef-pm.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        141382,
+        140501
+      ]
+    }
+  },
+  "fiscalYearEnd": "0630",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Pro Medicus Ltd./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "tickers": [
+    "PMDIY",
+    "PMCUF"
+  ],
+  "website": ""
+}

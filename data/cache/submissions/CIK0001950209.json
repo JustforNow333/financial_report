@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HOUSTON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "440 LOUISIANA STREET, LYRIC TOWER",
+      "street2": "SUITE 900",
+      "zipCode": "77002"
+    },
+    "mailing": {
+      "city": "HOUSTON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "440 LOUISIANA STREET, LYRIC TOWER",
+      "street2": "SUITE 900",
+      "zipCode": "77002"
+    }
+  },
+  "category": "",
+  "cik": "0001950209",
+  "description": "",
+  "ein": "873747314",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-26T18:47:13.000Z",
+        "2022-10-11T20:06:23.000Z"
+      ],
+      "accessionNumber": [
+        "0001477932-25-006257",
+        "0001477932-22-007536"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-461389",
+        "021-461389"
+      ],
+      "filingDate": [
+        "2025-08-26",
+        "2022-10-11"
+      ],
+      "filmNumber": [
+        "251256273",
+        "221304129"
+      ],
+      "form": [
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        6791,
+        6630
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Ainnova Tech",
+  "ownerOrg": "",
+  "phone": "713-714-0779",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "tickers": [],
+  "website": ""
+}

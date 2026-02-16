@@ -1,0 +1,155 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1500 - 1055 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 4N7"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1500 - 1055 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 4N7"
+    }
+  },
+  "category": "",
+  "cik": "0001657800",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-03T07:01:38.000Z",
+        "2025-04-24T11:13:19.000Z",
+        "2024-10-22T11:37:18.000Z",
+        "2015-11-19T15:14:41.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-015903",
+        "0001062993-25-007876",
+        "0001062993-24-017834",
+        "0001183740-15-000258"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-559706",
+        "021-544392",
+        "021-527447",
+        "021-251584"
+      ],
+      "filingDate": [
+        "2025-10-03",
+        "2025-04-24",
+        "2024-10-22",
+        "2015-11-19"
+      ],
+      "filmNumber": [
+        "251372068",
+        "25865354",
+        "241385191",
+        "151243499"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11369,
+        8654,
+        8617,
+        9413
+      ]
+    }
+  },
+  "fiscalYearEnd": "0630",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2015-11-19T00:00:00.000Z",
+      "name": "SECOVA METALS CORP.",
+      "to": "2015-11-19T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "ESGold Corp.",
+  "ownerOrg": "",
+  "phone": "604-506-7555",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "ESAUF"
+  ],
+  "website": ""
+}

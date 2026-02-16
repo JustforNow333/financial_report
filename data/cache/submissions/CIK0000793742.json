@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "48 WALL ST",
+      "street2": "C/O NEW YORK BANK OF",
+      "zipCode": "10015"
+    },
+    "mailing": {
+      "city": null,
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": null,
+      "street2": null,
+      "zipCode": null
+    }
+  },
+  "category": "",
+  "cik": "0000793742",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-31T10:45:20.000Z",
+        "2025-12-30T14:45:21.000Z",
+        "2025-07-25T17:29:02.000Z",
+        "2024-12-19T13:28:26.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001801",
+        "0001019155-25-000524",
+        "0001193805-25-001106",
+        "0001019155-24-000349"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-288983",
+        "333-283930",
+        "333-288983",
+        "333-283930"
+      ],
+      "filingDate": [
+        "2025-12-31",
+        "2025-12-30",
+        "2025-07-25",
+        "2024-12-19"
+      ],
+      "filmNumber": [
+        "251616059",
+        "251613708",
+        "251152497",
+        "241561978"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6 POS",
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e665084_f6pos-hnb.htm",
+        "hachif6pos.htm",
+        "e664735_f6ef-thb.htm",
+        "hachijunif6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        108284,
+        102045,
+        111488,
+        104144
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "HACHIJUNI BANK LTD",
+  "ownerOrg": "International Corp Fin",
+  "phone": "2125301784",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "HACBF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": null,
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": null,
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001856488",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-20T08:53:35.000Z",
+        "2022-08-15T16:27:11.000Z",
+        "2021-04-15T12:16:20.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000325",
+        "0001193805-22-001176",
+        "0001019155-21-000123"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-285939",
+        "333-266870",
+        "333-255238"
+      ],
+      "filingDate": [
+        "2025-03-19",
+        "2022-08-15",
+        "2021-04-15"
+      ],
+      "filmNumber": [
+        "25754641",
+        "221166007",
+        "21827873"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e664289_f6ef-hensoldt.htm",
+        "e621876_f6ef-hensoldt.htm",
+        "hensoldtf6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        143078,
+        135238,
+        102924
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Hensoldt AG/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "2122383223",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "HNSDF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,239 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ANTWERPEN",
+      "country": "Belgium",
+      "countryCode": "C9",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "POSTHOFLEI 1/6",
+      "street2": null,
+      "zipCode": "2600"
+    },
+    "mailing": {
+      "city": "ANTWERPEN",
+      "country": "Belgium",
+      "countryCode": "C9",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "POSTHOFLEI 1/6",
+      "street2": null,
+      "zipCode": "2600"
+    }
+  },
+  "category": "",
+  "cik": "0002020932",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-09T21:18:57.000Z",
+        "2026-02-06T21:15:19.000Z",
+        "2026-02-05T15:31:19.000Z",
+        "2026-02-03T22:20:50.000Z",
+        "2026-02-02T05:15:14.000Z",
+        "2026-01-29T12:31:22.000Z",
+        "2026-01-16T21:19:53.000Z",
+        "2025-12-17T22:18:21.000Z",
+        "2025-10-28T00:20:20.000Z",
+        "2024-06-20T20:58:47.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-012080",
+        "0001104659-26-011523",
+        "0001354457-26-000141",
+        "0001104659-26-009822",
+        "9999999995-26-000416",
+        "0001104659-26-007712",
+        "0001104659-26-004558",
+        "0001104659-25-122109",
+        "0001104659-25-102694",
+        "0001104659-24-073452"
+      ],
+      "act": [
+        "34",
+        "33",
+        "34",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "6-K",
+        "424B4",
+        "CERT",
+        "8-A12B",
+        "EFFECT",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "001-43098",
+        "333-292790",
+        "001-43098",
+        "001-43098",
+        "333-292790",
+        "333-292790",
+        "333-292790",
+        "377-07291",
+        "377-07291",
+        "377-07291"
+      ],
+      "filingDate": [
+        "2026-02-09",
+        "2026-02-06",
+        "2026-02-05",
+        "2026-02-03",
+        "2026-01-30",
+        "2026-01-29",
+        "2026-01-16",
+        "2025-12-17",
+        "2025-10-28",
+        "2024-06-20"
+      ],
+      "filmNumber": [
+        "26611678",
+        "26607819",
+        "26601076",
+        "26594561",
+        "26585496",
+        "26574827",
+        "26539714",
+        "251580228",
+        "251421067",
+        "241057239"
+      ],
+      "form": [
+        "6-K",
+        "424B4",
+        "CERT",
+        "8-A12B",
+        "EFFECT",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM 6-K",
+        "424B4",
+        "",
+        "FORM 8-A12B",
+        "",
+        "F-1/A",
+        "F-1",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2415594d20_6k.htm",
+        "tm2415594-17_424b4.htm",
+        "AGMB_8A_Cert_0002020932.pdf",
+        "tm2415594d15_8a12b.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "tm2415594-11_f1a.htm",
+        "tm2415594-9_f1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "2026-02-09",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        177901,
+        7604310,
+        124821,
+        19112,
+        1814,
+        8663311,
+        58288782,
+        41343155,
+        6309672,
+        7284634
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Agomab Therapeutics NV",
+  "ownerOrg": "03 Life Sciences",
+  "phone": "32 3 302 35 30",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "C9",
+  "stateOfIncorporationDescription": "Belgium",
+  "tickers": [
+    "AGMB"
+  ],
+  "website": ""
+}

@@ -1,0 +1,209 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DOWNERS GROVE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "IL",
+      "stateOrCountryDescription": "IL",
+      "street1": "3500 LACEY ROAD",
+      "street2": "SUITE 700",
+      "zipCode": "60515"
+    },
+    "mailing": {
+      "city": "DOWNERS GROVE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "IL",
+      "stateOrCountryDescription": "IL",
+      "street1": "3500 LACEY ROAD",
+      "street2": "SUITE 700",
+      "zipCode": "60515"
+    }
+  },
+  "category": "",
+  "cik": "0002074409",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-12T14:23:22.000Z",
+        "2025-12-10T05:15:07.000Z",
+        "2025-12-09T22:16:04.000Z",
+        "2025-12-09T16:09:27.000Z",
+        "2025-11-28T22:19:21.000Z",
+        "2025-10-31T21:29:07.000Z",
+        "2025-08-21T21:05:16.000Z",
+        "2025-06-25T20:23:55.000Z"
+      ],
+      "accessionNumber": [
+        "0001417835-25-000277",
+        "9999999995-25-003596",
+        "0002071844-25-000633",
+        "0002071844-25-000620",
+        "0002071844-25-000599",
+        "0002071844-25-000407",
+        "0001137439-25-001022",
+        "0002061590-25-000093"
+      ],
+      "act": [
+        "34",
+        "33",
+        "33",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "CERT",
+        "EFFECT",
+        "424B3",
+        "8-A12B",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1"
+      ],
+      "fileNumber": [
+        "001-43001",
+        "333-288318",
+        "333-288318",
+        "001-43001",
+        "333-288318",
+        "333-288318",
+        "333-288318",
+        "333-288318"
+      ],
+      "filingDate": [
+        "2025-12-12",
+        "2025-12-09",
+        "2025-12-09",
+        "2025-12-09",
+        "2025-11-28",
+        "2025-10-31",
+        "2025-08-21",
+        "2025-06-25"
+      ],
+      "filmNumber": [
+        "251566733",
+        "251560722",
+        "251559973",
+        "251558003",
+        "251536518",
+        "251441560",
+        "251241539",
+        "251073901"
+      ],
+      "form": [
+        "CERT",
+        "EFFECT",
+        "424B3",
+        "8-A12B",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "CBOE BZX CERTIFICATION",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "8A_Cert_QSOL.pdf",
+        "xslEFFECTX01/primary_doc.xml",
+        "424b3.htm",
+        "8a.htm",
+        "s1a.htm",
+        "igsetfs1a102025.htm",
+        "s1a.htm",
+        "s1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        160305,
+        1733,
+        1860183,
+        14059,
+        3525540,
+        3965340,
+        2973174,
+        2522362
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Invesco Galaxy Solana ETF",
+  "ownerOrg": "09 Crypto Assets",
+  "phone": "800-983-0903",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "QSOL"
+  ],
+  "website": ""
+}

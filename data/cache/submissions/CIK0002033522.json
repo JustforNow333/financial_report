@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "1441 BROADWAY, 6TH FLOOR",
+      "street2": null,
+      "zipCode": "10018"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "1441 BROADWAY, 6TH FLOOR",
+      "street2": null,
+      "zipCode": "10018"
+    }
+  },
+  "category": "",
+  "cik": "0002033522",
+  "description": "",
+  "ein": "332068817",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-12T06:05:52.000Z",
+        "2025-10-23T16:23:25.000Z",
+        "2025-09-18T19:00:00.000Z",
+        "2025-08-07T08:39:12.000Z",
+        "2025-08-07T08:38:35.000Z",
+        "2025-07-29T16:05:05.000Z",
+        "2025-05-14T16:46:17.000Z",
+        "2024-11-19T15:46:05.000Z",
+        "2024-08-28T13:45:00.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-109540",
+        "0001104659-25-101841",
+        "0001104659-25-091368",
+        "0001104659-25-075013",
+        "0001104659-25-075011",
+        "0001410578-25-001524",
+        "0001104659-25-048572",
+        "0001104659-24-120543",
+        "0001104659-24-093903"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "34",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B3",
+        "XBRL",
+        "XBRL",
+        "425",
+        "8-K",
+        "XBRL",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-289035",
+        "333-289035",
+        "333-289035",
+        "333-289035",
+        "333-289035",
+        "333-289035",
+        "377-07409",
+        "377-07409",
+        "377-07409"
+      ],
+      "filingDate": [
+        "2025-11-12",
+        "2025-10-23",
+        "2025-09-19",
+        "2025-08-07",
+        "2025-08-07",
+        "2025-07-29",
+        "2025-05-14",
+        "2024-11-19",
+        "2024-08-28"
+      ],
+      "filmNumber": [
+        "251468235",
+        "251413367",
+        "251324618",
+        "251191831",
+        "251191827",
+        "251161801",
+        "25946635",
+        "241475777",
+        "241253885"
+      ],
+      "form": [
+        "424B3",
+        "S-4/A",
+        "S-4/A",
+        "425",
+        "8-K",
+        "S-4",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "7.01,9.01",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "424B3",
+        "S-4/A",
+        "S-4/A",
+        "425",
+        "FORM 8-K",
+        "S-4",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm258012-13_424b3.htm",
+        "tmb-20251023xs4a.htm",
+        "tmb-20250917xs4a.htm",
+        "tm2522823d2_425.htm",
+        "tm2522823d1_8k.htm",
+        "tmb-20250729xs4.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "2025-08-04",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        14209599,
+        19138701,
+        19035682,
+        55713,
+        55279,
+        16884071,
+        8825705,
+        7691578,
+        6690140
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "IWAC Holding Co Inc.",
+  "ownerOrg": "07 Trade & Services",
+  "phone": "(917) 397-7625",
+  "sic": "5960",
+  "sicDescription": "Retail-Nonstore Retailers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "BTAB"
+  ],
+  "website": ""
+}

@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "LONDON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "GOLDEN CROSS HOUSE",
+      "street2": "8 DUNCANNON STREET",
+      "zipCode": "WC2N 4JF"
+    },
+    "mailing": {
+      "city": "LONDON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "GOLDEN CROSS HOUSE",
+      "street2": "8 DUNCANNON STREET",
+      "zipCode": "WC2N 4JF"
+    }
+  },
+  "category": "",
+  "cik": "0001621910",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-01T12:47:38.000Z",
+        "2024-08-09T15:51:44.000Z",
+        "2023-06-05T19:05:02.000Z",
+        "2019-08-12T13:47:19.000Z",
+        "2019-02-01T16:03:04.000Z",
+        "2019-02-01T15:58:05.000Z",
+        "2019-02-01T15:45:11.000Z",
+        "2014-10-21T11:36:12.000Z",
+        "2014-10-09T12:15:33.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-015866",
+        "0001062993-24-014754",
+        "0001062993-23-012988",
+        "0000950138-19-000463",
+        "0000950138-19-000055",
+        "0000950138-19-000054",
+        "0000950138-19-000053",
+        "0001012975-14-000677",
+        "0001012975-14-000659"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-559428",
+        "021-521136",
+        "021-483394",
+        "021-346315",
+        "021-332005",
+        "021-332004",
+        "021-332001",
+        "021-226127",
+        "021-226127"
+      ],
+      "filingDate": [
+        "2025-10-01",
+        "2024-08-09",
+        "2023-06-06",
+        "2019-08-12",
+        "2019-02-01",
+        "2019-02-01",
+        "2019-02-01",
+        "2014-10-21",
+        "2014-10-09"
+      ],
+      "filmNumber": [
+        "251363525",
+        "241192373",
+        "23994430",
+        "191015447",
+        "19559877",
+        "19559819",
+        "19559727",
+        "141165239",
+        "141149664"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06c",
+        "06b",
+        "06b",
+        "06b",
+        "04,05,06b",
+        "04,05,06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11164,
+        11148,
+        10331,
+        8285,
+        8331,
+        8396,
+        8477,
+        7858,
+        7761
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Pantheon Resources plc",
+  "ownerOrg": "",
+  "phone": "44 20 7484 5359",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "tickers": [
+    "PTHRF"
+  ],
+  "website": ""
+}

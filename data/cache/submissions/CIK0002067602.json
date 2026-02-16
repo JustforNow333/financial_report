@@ -1,0 +1,239 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TAI PO",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": "N.T.",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "ROOM 515-517, 5/F.",
+      "street2": "12W, HONG KONG SCIENCE PARK",
+      "zipCode": "NULL"
+    },
+    "mailing": {
+      "city": "TAI PO",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": "N.T.",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "ROOM 515-517, 5/F.",
+      "street2": "12W, HONG KONG SCIENCE PARK",
+      "zipCode": "NULL"
+    }
+  },
+  "category": "",
+  "cik": "0002067602",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-13T11:44:04.000Z",
+        "2025-12-05T12:15:40.000Z",
+        "2025-10-22T14:18:33.000Z",
+        "2025-10-02T13:24:21.000Z",
+        "2025-09-11T11:09:30.000Z",
+        "2025-09-02T13:54:06.000Z",
+        "2025-08-15T11:56:15.000Z",
+        "2025-07-22T11:52:55.000Z",
+        "2025-06-17T13:10:07.000Z",
+        "2025-05-12T14:45:42.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-014914",
+        "0001104659-25-118768",
+        "0001104659-25-101495",
+        "0001104659-25-095987",
+        "0001104659-25-089346",
+        "0001104659-25-086235",
+        "0001104659-25-079112",
+        "0001104659-25-069518",
+        "0001104659-25-060181",
+        "0001104659-25-047221"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1",
+        "POS AM",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-293450",
+        "333-289625",
+        "333-289625",
+        "333-289625",
+        "333-289625",
+        "333-289625",
+        "333-289625",
+        "377-07999",
+        "377-07999",
+        "377-07999"
+      ],
+      "filingDate": [
+        "2026-02-13",
+        "2025-12-05",
+        "2025-10-22",
+        "2025-10-02",
+        "2025-09-11",
+        "2025-09-02",
+        "2025-08-15",
+        "2025-07-22",
+        "2025-06-17",
+        "2025-05-12"
+      ],
+      "filmNumber": [
+        "26630210",
+        "251552023",
+        "251409726",
+        "251367917",
+        "251307585",
+        "251284446",
+        "251223390",
+        "251139336",
+        "251052664",
+        "25934248"
+      ],
+      "form": [
+        "F-1",
+        "POS AM",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-1",
+        "POS AM",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2513686-29_f1.htm",
+        "tm2513686-26_posam.htm",
+        "tm2513686-23_f1a.htm",
+        "tm2513686-20_f1a.htm",
+        "tm2513686-17_f1a.htm",
+        "tm2513686-13_f1a.htm",
+        "tm2513686-9_f1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        5113579,
+        3884591,
+        4206291,
+        3912945,
+        3011467,
+        2919876,
+        3692645,
+        2754992,
+        2609992,
+        2904271
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Solar Strategy Holdings Ltd",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "852 63890843",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "SSTR"
+  ],
+  "website": ""
+}

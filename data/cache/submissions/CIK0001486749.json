@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SAO PAULO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "D5",
+      "stateOrCountryDescription": "Brazil",
+      "street1": "AV. PRES. JUSCELINO KUBITSCHEK, 1830",
+      "street2": "TOURS 3 AND 4",
+      "zipCode": "04543-900"
+    },
+    "mailing": {
+      "city": "SAO PAULO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "D5",
+      "stateOrCountryDescription": "Brazil",
+      "street1": "AV. PRES. JUSCELINO KUBITSCHEK, 1217",
+      "street2": "CASA 7",
+      "zipCode": "04543-090"
+    }
+  },
+  "category": "",
+  "cik": "0001486749",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-02T00:15:30.000Z",
+        "2025-04-17T12:35:31.000Z",
+        "2020-05-01T00:15:17.000Z",
+        "2020-04-09T10:56:46.000Z",
+        "2018-02-15T10:42:44.000Z",
+        "2015-12-09T14:58:17.000Z",
+        "2010-12-14T16:06:22.000Z",
+        "2010-05-04T00:15:18.000Z",
+        "2010-04-26T18:27:43.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-25-001368",
+        "0001104659-25-035582",
+        "9999999995-20-000933",
+        "0001193805-20-000461",
+        "0001193805-18-000251",
+        "0001193805-15-002016",
+        "0001193805-10-003069",
+        "9999999995-10-001344",
+        "0001193805-10-001149"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6",
+        "EFFECT",
+        "F-6",
+        "424B3",
+        "F-6EF",
+        "F-6 POS",
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-286597",
+        "333-286597",
+        "333-237617",
+        "333-237617",
+        "333-208405",
+        "333-208405",
+        "333-166308",
+        "333-166308",
+        "333-166308"
+      ],
+      "filingDate": [
+        "2025-05-01",
+        "2025-04-17",
+        "2020-04-30",
+        "2020-04-09",
+        "2018-02-15",
+        "2015-12-09",
+        "2010-12-14",
+        "2010-05-03",
+        "2010-04-26"
+      ],
+      "filmNumber": [
+        "25905343",
+        "25845979",
+        "20838159",
+        "20783538",
+        "18616575",
+        "151278220",
+        "101250734",
+        "10794844",
+        "10771381"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6",
+        "EFFECT",
+        "F-6",
+        "424B3",
+        "F-6EF",
+        "F-6 POS",
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        "",
+        "F-6,,2020-04-30 09:00:00",
+        "",
+        "",
+        "",
+        "",
+        "F-6,,2010-05-03 09:00:00",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "tm2512449d1_f6.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "e619532_f6-hypera.htm",
+        "e617699_424b3-hypera.htm",
+        "e614344_f6ef-hypermarcas.htm",
+        "e607857_f6pos-hypermarcas.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "e606854_f6-hypermarcas.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        1663,
+        645973,
+        1615,
+        561406,
+        73833,
+        398527,
+        272600,
+        1998,
+        406189
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Hypermarcas S.A.",
+  "ownerOrg": "International Corp Fin",
+  "phone": "55-11-3627-4211",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "HYPMY"
+  ],
+  "website": ""
+}

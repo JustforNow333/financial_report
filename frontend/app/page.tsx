@@ -14,8 +14,12 @@ type MoverRow = {
 };
 
 type MoversResponse = {
+  asof_date?: string;
   asof_ts: string;
   industry: string;
+  provider?: string;
+  total_symbols_considered?: number;
+  outliers_excluded_count?: number;
   gainers: MoverRow[];
   losers: MoverRow[];
 };
@@ -24,13 +28,22 @@ type IndustriesResponse = {
   industries: string[];
 };
 
+class ApiError extends Error {
+  status: number;
+
+  constructor(status: number, message: string) {
+    super(message);
+    this.status = status;
+  }
+}
+
 const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:8000";
 
 const fetcher = async <T,>(path: string): Promise<T> => {
   const response = await fetch(`${API_BASE}${path}`);
   if (!response.ok) {
     const body = await response.text();
-    throw new Error(body || `Request failed: ${response.status}`);
+    throw new ApiError(response.status, body || `Request failed: ${response.status}`);
   }
   return (await response.json()) as T;
 };
@@ -59,10 +72,14 @@ const formatVolume = (value: number | null): string => {
 const formatEtTimestamp = (iso: string): string => {
   const date = new Date(iso);
   return new Intl.DateTimeFormat("en-US", {
-    dateStyle: "medium",
-    timeStyle: "medium",
+    year: "numeric",
+    month: "short",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hour12: true,
     timeZone: "America/New_York",
-    timeZoneName: "short",
   }).format(date);
 };
 
@@ -87,7 +104,7 @@ function MoversTable({ title, rows }: { title: string; rows: MoverRow[] }) {
               <tr key={`${title}-${row.ticker}-${row.rank}`}>
                 <td>{row.rank}</td>
                 <td className="ticker">{row.ticker}</td>
-                <td>{row.name ?? "-"}</td>
+                <td className="company">{row.name ?? row.ticker}</td>
                 <td>{formatMoney(row.last_price)}</td>
                 <td className={row.pct_change !== null && row.pct_change >= 0 ? "gain" : "loss"}>
                   {formatPct(row.pct_change)}
@@ -104,6 +121,7 @@ function MoversTable({ title, rows }: { title: string; rows: MoverRow[] }) {
 
 export default function HomePage() {
   const [selectedIndustry, setSelectedIndustry] = useState<string>("All");
+  const topCount = selectedIndustry === "All" ? 10 : 5;
 
   const { data: industriesData, error: industriesError, isLoading: industriesLoading } = useSWR<
     IndustriesResponse
@@ -112,11 +130,12 @@ export default function HomePage() {
   });
 
   const moversPath = useMemo(() => {
-    if (selectedIndustry === "All") {
-      return "/api/movers/latest";
+    const params = new URLSearchParams({ limit: String(topCount) });
+    if (selectedIndustry !== "All") {
+      params.set("industry", selectedIndustry);
     }
-    return `/api/movers/latest?industry=${encodeURIComponent(selectedIndustry)}`;
-  }, [selectedIndustry]);
+    return `/api/movers/latest?${params.toString()}`;
+  }, [selectedIndustry, topCount]);
 
   const { data: moversData, error: moversError, isLoading: moversLoading } = useSWR<MoversResponse>(
     moversPath,
@@ -124,16 +143,22 @@ export default function HomePage() {
     {
       refreshInterval: 60_000,
       revalidateOnFocus: false,
+      shouldRetryOnError: false,
     }
   );
 
   const industries = industriesData?.industries ?? ["All"];
+  const noSnapshotsYet = moversError instanceof ApiError && moversError.status === 404;
 
   return (
     <main className="page">
       <header className="hero">
         <h1>US Market Movers</h1>
-        <p>Top 10 gainers and losers from the latest full-market snapshot.</p>
+        <p>
+          {selectedIndustry === "All"
+            ? "Top 10 gainers and losers across the U.S. market."
+            : `Top 5 gainers and losers in ${selectedIndustry}.`}
+        </p>
       </header>
 
       <section className="toolbar">
@@ -153,14 +178,20 @@ export default function HomePage() {
       </section>
 
       {industriesError ? <div className="error">Failed to load industries.</div> : null}
-      {moversError ? <div className="error">Failed to load movers.</div> : null}
+      {moversError && !noSnapshotsYet ? <div className="error">Failed to load movers.</div> : null}
 
       <section className="meta">
         {moversLoading ? (
           <span>Loading latest movers...</span>
+        ) : noSnapshotsYet ? (
+          <span>No snapshot data yet. Run one ingest cycle, then refresh.</span>
         ) : moversData ? (
           <span>
-            Last updated: {formatEtTimestamp(moversData.asof_ts)} | Industry: {moversData.industry}
+            As of: {moversData.asof_date ?? moversData.asof_ts.slice(0, 10)} | Industry:{" "}
+            {moversData.industry} | Provider: {moversData.provider ?? "polygon_grouped_daily_bars"} |
+            Symbols considered: {moversData.total_symbols_considered ?? 0} | Outliers excluded:{" "}
+            {moversData.outliers_excluded_count ?? 0} | Last updated ET:{" "}
+            {formatEtTimestamp(moversData.asof_ts)}
           </span>
         ) : (
           <span>No snapshot data yet.</span>
@@ -168,8 +199,8 @@ export default function HomePage() {
       </section>
 
       <section className="grid">
-        <MoversTable title="Top Gainers" rows={moversData?.gainers ?? []} />
-        <MoversTable title="Top Losers" rows={moversData?.losers ?? []} />
+        <MoversTable title={`Top ${topCount} Gainers`} rows={moversData?.gainers ?? []} />
+        <MoversTable title={`Top ${topCount} Losers`} rows={moversData?.losers ?? []} />
       </section>
     </main>
   );

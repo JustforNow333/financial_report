@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "PALM BEACH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "324 ROYAL PALM WAY",
+      "street2": "SUITE 300-I",
+      "zipCode": "33480"
+    },
+    "mailing": {
+      "city": "PALM BEACH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "324 ROYAL PALM WAY",
+      "street2": "SUITE 300-I",
+      "zipCode": "33480"
+    }
+  },
+  "category": "",
+  "cik": "0002094433",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-12T21:35:59.000Z",
+        "2026-02-13T00:15:03.000Z",
+        "2026-02-04T12:32:08.000Z",
+        "2026-01-16T02:21:01.000Z",
+        "2025-11-12T21:56:42.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-014570",
+        "9999999995-26-000544",
+        "0001104659-26-010038",
+        "0001104659-26-004245",
+        "0001104659-25-110488"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B3",
+        "EFFECT",
+        "S-4/A",
+        "S-4/A",
+        "S-4"
+      ],
+      "fileNumber": [
+        "333-291473",
+        "333-291473",
+        "333-291473",
+        "333-291473",
+        "333-291473"
+      ],
+      "filingDate": [
+        "2026-02-13",
+        "2026-02-12",
+        "2026-02-04",
+        "2026-01-16",
+        "2025-11-12"
+      ],
+      "filmNumber": [
+        "26628583",
+        "26628643",
+        "26596048",
+        "26537511",
+        "251473904"
+      ],
+      "form": [
+        "424B3",
+        "EFFECT",
+        "S-4/A",
+        "S-4/A",
+        "S-4"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "items": [
+        "",
+        ",,",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "424B3",
+        "",
+        "S-4/A",
+        "S-4/A",
+        "S-4"
+      ],
+      "primaryDocument": [
+        "tm2530611-9_424b3.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "tm2530611-6_s4a.htm",
+        "tm2530611-3_s4a.htm",
+        "tm2530611-1_s4.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11466761,
+        2554,
+        16405299,
+        11517674,
+        11319657
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Suncrete, Inc.",
+  "ownerOrg": "04 Manufacturing",
+  "phone": "212.616.9600",
+  "sic": "3272",
+  "sicDescription": "Concrete Products, Except Block & Brick",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "RMIX"
+  ],
+  "website": ""
+}

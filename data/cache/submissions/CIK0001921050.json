@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "205 - 837 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6C 3N6"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "205 - 837 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6C 3N6"
+    }
+  },
+  "category": "",
+  "cik": "0001921050",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-17T13:34:37.000Z",
+        "2025-06-05T11:43:16.000Z",
+        "2023-12-20T15:06:37.000Z",
+        "2022-04-20T11:53:45.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-017367",
+        "0001062993-25-011043",
+        "0001062993-23-022930",
+        "0001062993-22-010474"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-567163",
+        "021-548141",
+        "021-500292",
+        "021-442695"
+      ],
+      "filingDate": [
+        "2025-12-17",
+        "2025-06-05",
+        "2023-12-20",
+        "2022-04-20"
+      ],
+      "filmNumber": [
+        "251578214",
+        "251026233",
+        "231501174",
+        "22837056"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10571,
+        12564,
+        12229,
+        12018
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Tudor Gold Corp.",
+  "ownerOrg": "",
+  "phone": "604-558-4300",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "TDRRF"
+  ],
+  "website": ""
+}

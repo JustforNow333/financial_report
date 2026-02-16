@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ONTARIO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "CA",
+      "stateOrCountryDescription": "CA",
+      "street1": "1801 E HOLT BLVD",
+      "street2": "#1162",
+      "zipCode": "91761"
+    },
+    "mailing": {
+      "city": "ONTARIO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "CA",
+      "stateOrCountryDescription": "CA",
+      "street1": "1801 E HOLT BLVD",
+      "street2": "#1162",
+      "zipCode": "91761"
+    }
+  },
+  "category": "",
+  "cik": "0002099188",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-17T19:01:27.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-25-028107"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-292193"
+      ],
+      "filingDate": [
+        "2025-12-17"
+      ],
+      "filmNumber": [
+        "251578278"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-1"
+      ],
+      "primaryDocument": [
+        "forms-1.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        16162933
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Spectre Acquisition Corp",
+  "ownerOrg": "",
+  "phone": "1 840 2129073",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

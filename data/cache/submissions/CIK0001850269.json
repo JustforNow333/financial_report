@@ -1,0 +1,130 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": "BRITISH COLUMBIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 710, 1030 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 2Y3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": "BRITISH COLUMBIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 710, 1030 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 2Y3"
+    }
+  },
+  "category": "",
+  "cik": "0001850269",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-01T18:01:58.000Z",
+        "2023-03-21T17:04:01.000Z",
+        "2021-03-17T15:29:58.000Z"
+      ],
+      "accessionNumber": [
+        "0001850269-25-000003",
+        "0001727689-23-000017",
+        "0001062993-21-002779"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-565409",
+        "021-476532",
+        "021-392599"
+      ],
+      "filingDate": [
+        "2025-12-02",
+        "2023-03-21",
+        "2021-03-17"
+      ],
+      "filmNumber": [
+        "251541026",
+        "23750371",
+        "21750403"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11813,
+        9927,
+        9592
+      ]
+    }
+  },
+  "fiscalYearEnd": "0731",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "United Lithium Corp.",
+  "ownerOrg": "",
+  "phone": "604-428-6128",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [],
+  "website": ""
+}

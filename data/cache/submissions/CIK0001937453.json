@@ -1,0 +1,140 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1240, 789 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 1H2"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1240, 789 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 1H2"
+    }
+  },
+  "category": "",
+  "cik": "0001937453",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-06T16:01:01.000Z",
+        "2023-08-11T18:43:37.000Z",
+        "2022-07-13T14:43:44.000Z"
+      ],
+      "accessionNumber": [
+        "0002060755-25-000047",
+        "0001183740-23-000099",
+        "0001183740-22-000130"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-559929",
+        "021-489565",
+        "021-452206"
+      ],
+      "filingDate": [
+        "2025-10-06",
+        "2023-08-14",
+        "2022-07-13"
+      ],
+      "filmNumber": [
+        "251376828",
+        "231165612",
+        "221080941"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        7643,
+        8590,
+        8648
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2022-07-13T00:00:00.000Z",
+      "name": "Prosperity Exploration Corp.",
+      "to": "2022-07-13T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "First American Uranium Inc.",
+  "ownerOrg": "",
+  "phone": "604 683-3995",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "NIOMF"
+  ],
+  "website": ""
+}

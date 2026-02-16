@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VICTORIA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "#330 - 702 FORT STREET",
+      "street2": null,
+      "zipCode": "V8W 1H2"
+    },
+    "mailing": {
+      "city": "VICTORIA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "#330 - 702 FORT STREET",
+      "street2": null,
+      "zipCode": "V8W 1H2"
+    }
+  },
+  "category": "",
+  "cik": "0001848782",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-02-04T12:12:25.000Z",
+        "2024-05-06T11:39:30.000Z",
+        "2024-01-09T14:47:24.000Z",
+        "2023-07-14T15:00:34.000Z",
+        "2023-01-10T13:49:15.000Z",
+        "2022-10-28T13:22:56.000Z",
+        "2022-09-28T16:11:55.000Z",
+        "2021-03-12T14:14:48.000Z",
+        "2021-03-04T15:17:43.000Z"
+      ],
+      "accessionNumber": [
+        "0001848782-25-000001",
+        "0001062993-24-009391",
+        "0001183740-24-000004",
+        "0001848782-23-000001",
+        "0001183740-23-000001",
+        "0001183740-22-000174",
+        "0001062993-22-020003",
+        "0001183740-21-000045",
+        "0001183740-21-000044"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-537278",
+        "021-512437",
+        "021-501941",
+        "021-486966",
+        "021-470208",
+        "021-463146",
+        "021-460160",
+        "021-392105",
+        "021-391260"
+      ],
+      "filingDate": [
+        "2025-02-04",
+        "2024-05-06",
+        "2024-01-09",
+        "2023-07-14",
+        "2023-01-10",
+        "2022-10-28",
+        "2022-09-28",
+        "2021-03-12",
+        "2021-03-04"
+      ],
+      "filmNumber": [
+        "25586384",
+        "24916439",
+        "24522948",
+        "231088901",
+        "23520696",
+        "221340487",
+        "221276207",
+        "21736668",
+        "21713878"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        12907,
+        11475,
+        12771,
+        12761,
+        11946,
+        12086,
+        12215,
+        10959,
+        10956
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Plurilock Security Inc.",
+  "ownerOrg": "",
+  "phone": "604-889-8476",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "PLCKF"
+  ],
+  "website": ""
+}

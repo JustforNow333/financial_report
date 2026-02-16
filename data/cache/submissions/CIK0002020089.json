@@ -1,0 +1,209 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HONG KONG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "ROOM 3902, TOWER 6",
+      "street2": "THE GATEWAY, HARBOUR CITY, TST",
+      "zipCode": "0000"
+    },
+    "mailing": {
+      "city": "HONG KONG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "ROOM 3902, TOWER 6",
+      "street2": "THE GATEWAY, HARBOUR CITY, TST",
+      "zipCode": "0000"
+    }
+  },
+  "category": "",
+  "cik": "0002020089",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T17:28:24.000Z",
+        "2025-12-04T16:52:41.000Z",
+        "2025-09-16T18:20:05.000Z",
+        "2025-07-17T15:29:04.000Z",
+        "2025-06-05T20:00:36.000Z",
+        "2025-04-16T15:26:06.000Z",
+        "2024-12-05T19:46:49.000Z",
+        "2024-06-28T17:23:23.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-004696",
+        "0001493152-25-026130",
+        "0001493152-25-013679",
+        "0001641172-25-020007",
+        "0001641172-25-013790",
+        "0001641172-25-004983",
+        "0001493152-24-048854",
+        "0001493152-24-025560"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-290294",
+        "333-290294",
+        "333-290294",
+        "377-07311",
+        "377-07311",
+        "377-07311",
+        "377-07311",
+        "377-07311"
+      ],
+      "filingDate": [
+        "2026-02-02",
+        "2025-12-04",
+        "2025-09-16",
+        "2025-07-17",
+        "2025-06-05",
+        "2025-04-16",
+        "2024-12-05",
+        "2024-06-28"
+      ],
+      "filmNumber": [
+        "26586617",
+        "251548711",
+        "251316714",
+        "251129464",
+        "251026995",
+        "25841699",
+        "241528773",
+        "241084110"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        3880389,
+        4376403,
+        28460912,
+        20958779,
+        66488892,
+        65557840,
+        64868716,
+        22496815
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Global Development Engineering Co Ltd",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "852 6012 8780",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "K3",
+  "stateOfIncorporationDescription": "Hong Kong",
+  "tickers": [
+    "GDEL"
+  ],
+  "website": ""
+}

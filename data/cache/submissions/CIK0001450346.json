@@ -1,0 +1,260 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001450346",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-09-26T15:46:21.000Z",
+        "2021-08-10T16:50:23.000Z",
+        "2019-11-22T20:36:14.000Z",
+        "2017-09-29T11:30:44.000Z",
+        "2013-12-17T13:03:56.000Z",
+        "2013-12-17T12:36:58.000Z",
+        "2013-02-12T08:18:33.000Z",
+        "2011-08-04T08:29:45.000Z",
+        "2009-07-27T10:53:15.000Z",
+        "2008-12-17T17:07:46.000Z",
+        "2008-11-20T14:14:00.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-001172",
+        "0001193805-21-001149",
+        "0001193805-19-001617",
+        "0001193805-17-002697",
+        "0001193805-13-002285",
+        "0001193805-13-002284",
+        "0001193805-13-000315",
+        "0001193805-11-001455",
+        "0001193805-09-001469",
+        "0001019155-08-001049",
+        "0001019155-08-000869"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "424B3",
+        "424B3",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-282345",
+        "333-258680",
+        "333-234900",
+        "333-176023",
+        "333-176023",
+        "333-186607",
+        "333-186607",
+        "333-176023",
+        "333-160800",
+        "333-155506",
+        "333-155506"
+      ],
+      "filingDate": [
+        "2024-09-26",
+        "2021-08-10",
+        "2019-11-22",
+        "2017-09-29",
+        "2013-12-17",
+        "2013-12-17",
+        "2013-02-11",
+        "2011-08-04",
+        "2009-07-27",
+        "2008-12-17",
+        "2008-11-20"
+      ],
+      "filmNumber": [
+        "241328659",
+        "211160634",
+        "191243174",
+        "171109830",
+        "131281267",
+        "131281169",
+        "13594418",
+        "111008785",
+        "09963714",
+        "081255709",
+        "081203442"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "424B3",
+        "424B3",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "POST EFFECTIVE AMEND NO. 1",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "e663912_f6ef-porsche.htm",
+        "e620859_f6ef-porsche.htm",
+        "e618945_f6ef-pahs.htm",
+        "e616888_f6pos-pahs.htm",
+        "e611668_424b3-porsche.htm",
+        "e611667_424b3-porsche.htm",
+        "e610486_f6ef-porsche.htm",
+        "e608718_f6ef-porsche.htm",
+        "e605677_f6ef-porsche.txt",
+        "porschepea.htm",
+        "porscheunsponsoredformf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        144085,
+        108795,
+        132001,
+        125804,
+        67800,
+        68191,
+        187748,
+        185848,
+        54556,
+        69601,
+        77824
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2008-11-20T00:00:00.000Z",
+      "name": "Porsche AG / ADR",
+      "to": "2008-12-17T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Porsche Automobil Holding SE / ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "POAHF"
+  ],
+  "website": ""
+}

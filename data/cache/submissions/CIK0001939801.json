@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "WEST VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 300 - 1455 BELLEVUE AVENUE",
+      "street2": null,
+      "zipCode": "V7T 1C3"
+    },
+    "mailing": {
+      "city": "WEST VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 300 - 1455 BELLEVUE AVENUE",
+      "street2": null,
+      "zipCode": "V7T 1C3"
+    }
+  },
+  "category": "",
+  "cik": "0001939801",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-07T15:57:18.000Z",
+        "2022-09-21T15:54:54.000Z"
+      ],
+      "accessionNumber": [
+        "0000912282-25-000838",
+        "0001567619-22-017686"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-554045",
+        "021-459493"
+      ],
+      "filingDate": [
+        "2025-08-07",
+        "2022-09-21"
+      ],
+      "filmNumber": [
+        "251193701",
+        "221256415"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        12581,
+        12618
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "SIERRA MADRE GOLD & SILVER LTD.",
+  "ownerOrg": "",
+  "phone": "(604) 765-1604",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "SMDRF"
+  ],
+  "website": ""
+}

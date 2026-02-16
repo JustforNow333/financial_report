@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1016 - 510 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6B 1L8"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1016 - 510 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6B 1L8"
+    }
+  },
+  "category": "",
+  "cik": "0001422532",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-01-06T13:18:22.000Z",
+        "2019-09-11T18:45:27.000Z",
+        "2017-06-21T12:21:52.000Z",
+        "2017-03-08T16:28:15.000Z",
+        "2014-04-15T14:47:03.000Z",
+        "2011-05-31T12:58:34.000Z",
+        "2008-01-03T11:10:50.000Z"
+      ],
+      "accessionNumber": [
+        "0001183740-25-000006",
+        "0001183740-19-000203",
+        "0001183740-17-000103",
+        "0001183740-17-000041",
+        "0001183740-14-000130",
+        "0001183740-11-000388",
+        "9999999997-08-000182"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "34"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "REGDEX"
+      ],
+      "fileNumber": [
+        "021-534281",
+        "021-348611",
+        "021-289147",
+        "021-282076",
+        "021-215617",
+        "021-160542",
+        "021-112521"
+      ],
+      "filingDate": [
+        "2025-01-06",
+        "2019-09-12",
+        "2017-06-21",
+        "2017-03-08",
+        "2014-04-15",
+        "2011-05-31",
+        "2007-12-26"
+      ],
+      "filmNumber": [
+        "25510270",
+        "191089243",
+        "17922434",
+        "17675411",
+        "14764755",
+        "11880512",
+        "07087528"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "REGDEX"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "AUTO-GENERATED PAPER DOCUMENT"
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "9999999997-08-000182.paper"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        13279,
+        13802,
+        14373,
+        14357,
+        13042,
+        14690,
+        1662
+      ]
+    }
+  },
+  "fiscalYearEnd": "1031",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "ROCKHAVEN RESOURCES LTD",
+  "ownerOrg": "",
+  "phone": "604-698-1428",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "RKHNF"
+  ],
+  "website": ""
+}

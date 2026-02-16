@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 650, 669 HOWE STREET",
+      "street2": null,
+      "zipCode": "V6C 0B4"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 650, 669 HOWE STREET",
+      "street2": null,
+      "zipCode": "V6C 0B4"
+    }
+  },
+  "category": "",
+  "cik": "0001686000",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-04T16:15:37.000Z",
+        "2024-05-10T13:10:10.000Z",
+        "2023-05-16T19:33:23.000Z",
+        "2021-07-22T17:46:58.000Z",
+        "2020-06-05T13:56:15.000Z",
+        "2020-05-21T13:27:16.000Z",
+        "2019-09-03T13:41:59.000Z",
+        "2019-01-04T15:36:24.000Z",
+        "2016-09-30T11:05:49.000Z"
+      ],
+      "accessionNumber": [
+        "0001727689-25-000070",
+        "0001727689-24-000064",
+        "0001686000-23-000001",
+        "0001686000-21-000001",
+        "0001686000-20-000002",
+        "0001686000-20-000001",
+        "0001686000-19-000003",
+        "0001686000-19-000002",
+        "0001062993-16-011599"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-556689",
+        "021-512952",
+        "021-481905",
+        "021-407406",
+        "021-368389",
+        "021-367467",
+        "021-347866",
+        "021-329715",
+        "021-271620"
+      ],
+      "filingDate": [
+        "2025-09-04",
+        "2024-05-10",
+        "2023-05-17",
+        "2021-07-23",
+        "2020-06-05",
+        "2020-05-21",
+        "2019-09-03",
+        "2019-01-04",
+        "2016-09-30"
+      ],
+      "filmNumber": [
+        "251293588",
+        "24933934",
+        "23929294",
+        "211108534",
+        "20945676",
+        "20900987",
+        "191071707",
+        "19509764",
+        "161911768"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11238,
+        12894,
+        13511,
+        12604,
+        12155,
+        12155,
+        13255,
+        11389,
+        9299
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Japan Gold Corp.",
+  "ownerOrg": "",
+  "phone": "778-725-1491",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "JGLDF"
+  ],
+  "website": ""
+}

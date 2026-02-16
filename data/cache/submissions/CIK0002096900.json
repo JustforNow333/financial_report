@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ANDOVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "MA",
+      "stateOrCountryDescription": "MA",
+      "street1": "9 BARTLET ST. STE 137",
+      "street2": null,
+      "zipCode": "01810"
+    },
+    "mailing": {
+      "city": "ANDOVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "MA",
+      "stateOrCountryDescription": "MA",
+      "street1": "9 BARTLET ST. STE 137",
+      "street2": null,
+      "zipCode": "01810"
+    }
+  },
+  "category": "",
+  "cik": "0002096900",
+  "description": "",
+  "ein": "981891461",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-30T21:05:49.000Z",
+        "2025-11-17T18:49:05.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-010180",
+        "0001213900-25-111443"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "XBRL",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-293082",
+        "377-08693"
+      ],
+      "filingDate": [
+        "2026-01-30",
+        "2025-11-17"
+      ],
+      "filmNumber": [
+        "26583374",
+        "251490503"
+      ],
+      "form": [
+        "S-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0265589-02.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        9589796,
+        4135099
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Averin Capital Acquisition Corp.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "339-234-9160",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

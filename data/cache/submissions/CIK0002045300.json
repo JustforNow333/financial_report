@@ -1,0 +1,140 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1111 MELVILLE STREET, SUITE 410",
+      "street2": null,
+      "zipCode": "V6E 3V6"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1111 MELVILLE STREET, SUITE 410",
+      "street2": null,
+      "zipCode": "V6E 3V6"
+    }
+  },
+  "category": "",
+  "cik": "0002045300",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-01T14:55:23.000Z",
+        "2025-07-02T16:52:14.000Z",
+        "2024-11-21T16:10:44.000Z"
+      ],
+      "accessionNumber": [
+        "0002064835-25-000011",
+        "0001727689-25-000047",
+        "0001727689-24-000138"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-559474",
+        "021-550628",
+        "021-530129"
+      ],
+      "filingDate": [
+        "2025-10-01",
+        "2025-07-02",
+        "2024-11-21"
+      ],
+      "filmNumber": [
+        "251364201",
+        "251102119",
+        "241484467"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9754,
+        9432,
+        8648
+      ]
+    }
+  },
+  "fiscalYearEnd": "0731",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2024-11-21T00:00:00.000Z",
+      "name": "Hawthorn Resources Corp.",
+      "to": "2025-07-02T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Prince Silver Corp.",
+  "ownerOrg": "",
+  "phone": "(604) 764-9065",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "PRNCF"
+  ],
+  "website": ""
+}

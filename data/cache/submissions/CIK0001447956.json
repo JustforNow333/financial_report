@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "60 WALL STREET",
+      "street2": null,
+      "zipCode": "10005"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "60 WALL STREET",
+      "street2": null,
+      "zipCode": "10005"
+    }
+  },
+  "category": "",
+  "cik": "0001447956",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-22T09:57:06.000Z",
+        "2017-09-29T11:48:44.000Z",
+        "2012-01-17T14:49:57.000Z",
+        "2008-10-21T15:39:17.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000701",
+        "0001193805-17-002731",
+        "0001019155-12-000036",
+        "0001144204-08-058624"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-287502",
+        "333-154570",
+        "333-179032",
+        "333-154570"
+      ],
+      "filingDate": [
+        "2025-05-21",
+        "2017-09-29",
+        "2012-01-17",
+        "2008-10-21"
+      ],
+      "filmNumber": [
+        "25975115",
+        "171109939",
+        "12529349",
+        "081133394"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "FORM F-6",
+        ""
+      ],
+      "primaryDocument": [
+        "e664522_f6ef-bydelectric.htm",
+        "e616906_f6pos-beic.htm",
+        "bydf6.htm",
+        "v129351_f-6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        144555,
+        125789,
+        79701,
+        162389
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "BYD Electronic (International) Co Ltd",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-319-7600",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "K3",
+  "stateOfIncorporationDescription": "Hong Kong",
+  "tickers": [
+    "BYDIF"
+  ],
+  "website": ""
+}

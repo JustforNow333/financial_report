@@ -1,0 +1,181 @@
+{
+  "addresses": {
+    "business": {
+      "city": "GUILDFORD, SURREY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "3 FREDERICK SANGER ROAD",
+      "street2": "THE SURREY RESEARCH PARK",
+      "zipCode": "GU2 7YD"
+    },
+    "mailing": {
+      "city": "GUILDFORD, SURREY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "3 FREDERICK SANGER ROAD",
+      "street2": "THE SURREY RESEARCH PARK",
+      "zipCode": "GU2 7YD"
+    }
+  },
+  "category": "",
+  "cik": "0001620678",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-18T22:35:45.000Z",
+        "2020-04-29T04:15:15.000Z",
+        "2020-04-15T20:46:45.000Z",
+        "2015-02-27T16:30:40.000Z",
+        "2014-10-27T04:15:11.000Z",
+        "2014-10-10T19:15:05.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001618",
+        "9999999995-20-000902",
+        "0001193805-20-000488",
+        "0001620678-15-000001",
+        "9999999995-14-003141",
+        "0001019155-14-000371"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B3",
+        "EFFECT",
+        "F-6",
+        "D",
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-237694",
+        "333-237694",
+        "333-237694",
+        "021-234901",
+        "333-199252",
+        "333-199252"
+      ],
+      "filingDate": [
+        "2025-11-19",
+        "2020-04-28",
+        "2020-04-15",
+        "2015-02-27",
+        "2014-10-24",
+        "2014-10-10"
+      ],
+      "filmNumber": [
+        "251496073",
+        "20827125",
+        "20794187",
+        "15655916",
+        "141173409",
+        "141152301"
+      ],
+      "form": [
+        "424B3",
+        "EFFECT",
+        "F-6",
+        "D",
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "F-6,,2020-04-28 09:00:00",
+        "",
+        "06b",
+        "F-6,,2014-10-24 09:00:00",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "e664955_424b3-cellb.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "e619554_f6-angle.htm",
+        "xslFormDX01/primary_doc.xml",
+        "xslEFFECTX01/primary_doc.xml",
+        "anga525353f6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        181529,
+        1671,
+        579673,
+        12674,
+        1643,
+        255378
+      ]
+    }
+  },
+  "fiscalYearEnd": "0430",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "ANGLE plc",
+  "ownerOrg": "International Corp Fin",
+  "phone": "4401483685830",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "tickers": [
+    "ANPCF",
+    "ANPCY"
+  ],
+  "website": ""
+}

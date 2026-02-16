@@ -1,0 +1,125 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "141 ADELAIDE ST WEST SUITE 301",
+      "street2": null,
+      "zipCode": "M5H 3L5"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "141 ADELAIDE ST WEST SUITE 301",
+      "street2": null,
+      "zipCode": "M5H 3L5"
+    }
+  },
+  "category": "",
+  "cik": "0001683408",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-10T09:58:05.000Z",
+        "2016-08-30T11:53:57.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-016020",
+        "0001683408-16-000001"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-560460",
+        "021-269771"
+      ],
+      "filingDate": [
+        "2025-10-10",
+        "2016-08-30"
+      ],
+      "filmNumber": [
+        "251386617",
+        "161859842"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        12365,
+        9306
+      ]
+    }
+  },
+  "fiscalYearEnd": "0131",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2016-08-30T00:00:00.000Z",
+      "name": "Canadian Orebodies Inc.",
+      "to": "2016-08-30T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Rocky Shore Gold Ltd.",
+  "ownerOrg": "",
+  "phone": "416-644-1747",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "CNOBF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002088827",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-19T13:34:40.000Z",
+        "2025-09-29T11:12:23.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001622",
+        "0001019155-25-000400"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-291641",
+        "333-290576"
+      ],
+      "filingDate": [
+        "2025-11-19",
+        "2025-09-29"
+      ],
+      "filmNumber": [
+        "251498076",
+        "251353253"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e664993_f6ef-horiba.htm",
+        "horibaf6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        111430,
+        110315
+      ]
+    }
+  },
+  "fiscalYearEnd": "1225",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Horiba, Ltd./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3221",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "HRBAY",
+    "HRIBF"
+  ],
+  "website": ""
+}

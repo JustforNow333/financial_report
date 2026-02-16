@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SHEUNG WAN",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1902-3A, 19/F, FWD FINANCIAL CENTRE",
+      "street2": "308-320 DES VOEUX ROAD CENTRAL",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "SHEUNG WAN",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1902-3A, 19/F, FWD FINANCIAL CENTRE",
+      "street2": "308-320 DES VOEUX ROAD CENTRAL",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002067719",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-06T16:26:07.000Z",
+        "2025-12-12T02:29:28.000Z",
+        "2025-10-09T16:04:47.000Z",
+        "2025-08-29T22:16:23.000Z",
+        "2025-08-07T21:58:38.000Z",
+        "2025-07-15T19:09:59.000Z",
+        "2025-06-06T19:48:31.000Z"
+      ],
+      "accessionNumber": [
+        "0001185185-26-000036",
+        "0001185185-25-002028",
+        "0001185185-25-001408",
+        "0001185185-25-001104",
+        "0001185185-25-000919",
+        "0001185185-25-000783",
+        "0001185185-25-000589"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-290789",
+        "333-290789",
+        "333-290789",
+        "377-08084",
+        "377-08084",
+        "377-08084",
+        "377-08084"
+      ],
+      "filingDate": [
+        "2026-01-06",
+        "2025-12-12",
+        "2025-10-09",
+        "2025-09-02",
+        "2025-08-08",
+        "2025-07-15",
+        "2025-06-06"
+      ],
+      "filmNumber": [
+        "26509930",
+        "251566408",
+        "251384071",
+        "251282344",
+        "251195598",
+        "251124470",
+        "251030363"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM F-1/A",
+        "FORM F-1/A1",
+        "FORM F-1",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "keystonef1a2010525.htm",
+        "keystonef1a1120925.htm",
+        "keystonef1091225.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2574376,
+        4907778,
+        4901011,
+        2121774,
+        1916673,
+        1900458,
+        1816969
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Keystone Global Financial Group",
+  "ownerOrg": "02 Finance",
+  "phone": "852-3577-8660",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "KCG"
+  ],
+  "website": ""
+}

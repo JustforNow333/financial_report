@@ -1,0 +1,209 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "1 UNIVERSITY AVENUE, 3RD FLOOR",
+      "street2": null,
+      "zipCode": "M5J 2P1"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "1 UNIVERSITY AVENUE, 3RD FLOOR",
+      "street2": null,
+      "zipCode": "M5J 2P1"
+    }
+  },
+  "category": "",
+  "cik": "0001928722",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-11-22T13:55:52.000Z",
+        "2024-09-18T11:03:35.000Z",
+        "2024-01-09T10:38:04.000Z",
+        "2023-11-30T19:54:39.000Z",
+        "2023-05-10T18:59:46.000Z",
+        "2023-04-28T10:27:30.000Z",
+        "2022-09-22T16:16:12.000Z",
+        "2022-05-13T12:03:10.000Z"
+      ],
+      "accessionNumber": [
+        "0001928722-24-000003",
+        "0001928722-24-000002",
+        "0001928722-24-000001",
+        "0001928722-23-000004",
+        "0001928722-23-000002",
+        "0001928722-23-000001",
+        "0001928722-22-000001",
+        "0001062993-22-012332"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-530233",
+        "021-524335",
+        "021-501896",
+        "021-498545",
+        "021-481415",
+        "021-480289",
+        "021-459630",
+        "021-445585"
+      ],
+      "filingDate": [
+        "2024-11-22",
+        "2024-09-18",
+        "2024-01-09",
+        "2023-12-01",
+        "2023-05-11",
+        "2023-04-28",
+        "2022-09-22",
+        "2022-05-13"
+      ],
+      "filmNumber": [
+        "241488719",
+        "241306481",
+        "24522122",
+        "231457184",
+        "23908233",
+        "23861357",
+        "221259405",
+        "22921203"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11268,
+        11347,
+        13685,
+        12165,
+        10661,
+        13053,
+        13921,
+        14622
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PopReach Corp",
+  "ownerOrg": "",
+  "phone": "416-585-5918",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "INIKF"
+  ],
+  "website": ""
+}

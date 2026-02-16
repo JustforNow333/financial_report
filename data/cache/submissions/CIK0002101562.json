@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "535 FIFTH AVENUE",
+      "street2": "4TH FLOOR",
+      "zipCode": "10017"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "535 FIFTH AVENUE",
+      "street2": "4TH FLOOR",
+      "zipCode": "10017"
+    }
+  },
+  "category": "",
+  "cik": "0002101562",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-11T23:58:25.000Z",
+        "2026-01-30T21:06:00.000Z",
+        "2025-12-23T19:29:42.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-013614",
+        "0001104659-26-008628",
+        "0001104659-25-124099"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "XBRL",
+        "XBRL",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-293083",
+        "333-293083",
+        "377-08868"
+      ],
+      "filingDate": [
+        "2026-02-12",
+        "2026-01-30",
+        "2025-12-23"
+      ],
+      "filmNumber": [
+        "26622601",
+        "26583381",
+        "251598671"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        0
+      ],
+      "isXBRL": [
+        1,
+        1,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1",
+        ""
+      ],
+      "primaryDocument": [
+        "none-20260211xs1a.htm",
+        "none-20260129xs1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        5254754,
+        16282010,
+        2785158
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PALOMA ACQUISITION CORP I",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "61 400 205 433",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "PALO"
+  ],
+  "website": ""
+}

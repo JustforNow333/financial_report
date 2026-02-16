@@ -1,0 +1,106 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SHANGHAI",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": "PUDONG NEW AREA",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "NO. 868 YINGHUA ROAD",
+      "street2": "11F TOWER A, DATANG INTERNATIONAL PLAZA",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002085208",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-09T14:22:32.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001271"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-290127"
+      ],
+      "filingDate": [
+        "2025-09-09"
+      ],
+      "filmNumber": [
+        "251302756"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e664828_f6ef-db.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        149268
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Duality Biotherapeutics Inc/ADR",
+  "ownerOrg": "",
+  "phone": "021-2601-8730",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "DYBTY",
+    "DUTBF"
+  ],
+  "website": ""
+}

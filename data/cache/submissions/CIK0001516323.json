@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001516323",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-19T16:06:21.000Z",
+        "2017-09-29T10:56:14.000Z",
+        "2017-08-29T15:56:19.000Z",
+        "2016-02-03T17:10:14.000Z",
+        "2011-03-23T13:28:47.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000326",
+        "0001193805-17-002636",
+        "0001193805-17-001588",
+        "0001193805-16-002440",
+        "0001019155-11-000158"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-285910",
+        "333-209374",
+        "333-220216",
+        "333-209374",
+        "333-173011"
+      ],
+      "filingDate": [
+        "2025-03-19",
+        "2017-09-29",
+        "2017-08-29",
+        "2016-02-03",
+        "2011-03-23"
+      ],
+      "filmNumber": [
+        "25752723",
+        "171109627",
+        "171057895",
+        "161385712",
+        "11706016"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "e664290_f6ef-babcock.htm",
+        "e616747_f6pos-bigp.htm",
+        "e616535_f6ef-babcock.htm",
+        "e614551_f6ef-babcock.htm",
+        "babf5.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        143331,
+        125677,
+        111256,
+        236363,
+        80664
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Babcock International Group PLC/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "BCKIF"
+  ],
+  "website": ""
+}

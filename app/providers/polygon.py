@@ -1,14 +1,13 @@
 from __future__ import annotations
 
-from datetime import datetime
-from urllib.parse import urljoin
+from datetime import date
 
-import requests
+from polygon import StocksClient
 
-from .base import MarketSnapshotProvider, SnapshotQuote
+from .base import EodQuoteRow, MarketDataProvider
 
 
-class PolygonSnapshotProvider(MarketSnapshotProvider):
+class PolygonSnapshotProvider(MarketDataProvider):
     def __init__(self, api_key: str, base_url: str, timeout_seconds: float = 30.0) -> None:
         if not api_key:
             raise ValueError("POLYGON_API_KEY is required for Polygon provider")
@@ -16,54 +15,65 @@ class PolygonSnapshotProvider(MarketSnapshotProvider):
         self.base_url = base_url.rstrip("/")
         self.timeout_seconds = timeout_seconds
 
-    def fetch_snapshot(self, asof_ts: datetime) -> list[SnapshotQuote]:
-        url = f"{self.base_url}/v2/snapshot/locale/us/markets/stocks/tickers"
-        params: dict[str, str] | None = {"apiKey": self.api_key}
+    def fetch_eod_bulk(self, asof_date: date) -> list[EodQuoteRow]:
+        # Grouped daily bars returns one row per ticker for the requested date.
+        client = StocksClient(self.api_key)
+        try:
+            response = client.get_grouped_daily_bars(asof_date.isoformat(), adjusted=True)
+        finally:
+            close_fn = getattr(client, "close", None)
+            if callable(close_fn):
+                close_fn()
 
-        quotes: list[SnapshotQuote] = []
-        while url:
-            response = requests.get(url, params=params, timeout=self.timeout_seconds)
-            response.raise_for_status()
-            payload = response.json()
+        rows = _extract_results(response)
+        parsed: list[EodQuoteRow] = []
+        for item in rows:
+            ticker = _extract_ticker(item)
+            close = _extract_close(item)
+            if not ticker or close is None:
+                continue
+            parsed.append(
+                EodQuoteRow(
+                    symbol=ticker,
+                    date=asof_date,
+                    open=_extract_float(item, "o", "open"),
+                    high=_extract_float(item, "h", "high"),
+                    low=_extract_float(item, "l", "low"),
+                    close=close,
+                    adj_close=close,
+                    volume=_extract_float(item, "v", "volume"),
+                )
+            )
 
-            for item in payload.get("tickers", []):
-                quote = self._parse_item(item)
-                if quote.ticker:
-                    quotes.append(quote)
-
-            next_url = payload.get("next_url")
-            if not next_url:
-                break
-
-            url = next_url if next_url.startswith("http") else urljoin(self.base_url, next_url)
-            params = {"apiKey": self.api_key}
-
-        return quotes
-
-    @staticmethod
-    def _parse_item(item: dict[str, object]) -> SnapshotQuote:
-        day_data = item.get("day") if isinstance(item.get("day"), dict) else {}
-        prev_day = item.get("prevDay") if isinstance(item.get("prevDay"), dict) else {}
-        last_trade = item.get("lastTrade") if isinstance(item.get("lastTrade"), dict) else {}
-
-        last_price = _as_float(last_trade.get("p"))
-        if last_price is None:
-            last_price = _as_float(day_data.get("c"))
-
-        return SnapshotQuote(
-            ticker=str(item.get("ticker") or "").upper(),
-            name=_as_optional_str(item.get("name")),
-            exchange=_as_optional_str(item.get("primary_exchange")),
-            last_price=last_price,
-            prev_close=_as_float(prev_day.get("c")),
-            day_open=_as_float(day_data.get("o")),
-            day_high=_as_float(day_data.get("h")),
-            day_low=_as_float(day_data.get("l")),
-            day_volume=_as_int(day_data.get("v")),
-        )
+        return parsed
 
 
-def _as_float(value: object) -> float | None:
+def _extract_results(response: object) -> list[object]:
+    if response is None:
+        return []
+    if isinstance(response, list):
+        return response
+    if isinstance(response, dict):
+        value = response.get("results")
+        return value if isinstance(value, list) else []
+    value = getattr(response, "results", None)
+    return value if isinstance(value, list) else []
+
+
+def _extract_ticker(row: object) -> str | None:
+    value = _extract_field(row, "T", "ticker", "symbol")
+    if value is None:
+        return None
+    ticker = str(value).strip().upper()
+    return ticker or None
+
+
+def _extract_close(row: object) -> float | None:
+    return _extract_float(row, "c", "close")
+
+
+def _extract_float(row: object, *keys: str) -> float | None:
+    value = _extract_field(row, *keys)
     if value is None:
         return None
     try:
@@ -72,17 +82,10 @@ def _as_float(value: object) -> float | None:
         return None
 
 
-def _as_int(value: object) -> int | None:
-    if value is None:
-        return None
-    try:
-        return int(value)
-    except (TypeError, ValueError):
-        return None
-
-
-def _as_optional_str(value: object) -> str | None:
-    if value is None:
-        return None
-    text = str(value).strip()
-    return text or None
+def _extract_field(row: object, *keys: str) -> object | None:
+    for key in keys:
+        if isinstance(row, dict) and key in row:
+            return row[key]
+        if hasattr(row, key):
+            return getattr(row, key)
+    return None

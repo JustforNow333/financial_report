@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "MONTREAL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A8",
+      "stateOrCountryDescription": "Quebec, Canada",
+      "street1": "1000 ST-ANTOINE OUEST, BUREAU 410",
+      "street2": null,
+      "zipCode": "H3C 3R7"
+    },
+    "mailing": {
+      "city": "MONTREAL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A8",
+      "stateOrCountryDescription": "Quebec, Canada",
+      "street1": "1000 ST-ANTOINE OUEST, BUREAU 410",
+      "street2": null,
+      "zipCode": "H3C 3R7"
+    }
+  },
+  "category": "",
+  "cik": "0001577783",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-06-26T17:15:41.000Z",
+        "2022-08-09T15:26:10.000Z",
+        "2019-05-13T11:09:13.000Z",
+        "2018-10-31T10:58:17.000Z",
+        "2013-05-24T15:39:07.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-24-013074",
+        "0001062993-22-017535",
+        "0001577783-19-000001",
+        "0001577783-18-000001",
+        "0001577783-13-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-517040",
+        "021-455366",
+        "021-339415",
+        "021-324746",
+        "021-197065"
+      ],
+      "filingDate": [
+        "2024-06-26",
+        "2022-08-09",
+        "2019-05-13",
+        "2018-10-31",
+        "2013-05-24"
+      ],
+      "filmNumber": [
+        "241074516",
+        "221147883",
+        "19817306",
+        "181149054",
+        "13871967"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10492,
+        10359,
+        10782,
+        10759,
+        8995
+      ]
+    }
+  },
+  "fiscalYearEnd": "0630",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Sirios Resources Inc.",
+  "ownerOrg": "",
+  "phone": "(514) 510-7961",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "SIREF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "LAS VEGAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NV",
+      "stateOrCountryDescription": "NV",
+      "street1": "101 CONVENTION CENTER DR",
+      "street2": "SUITE 900",
+      "zipCode": "89109"
+    },
+    "mailing": {
+      "city": "LAS VEGAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NV",
+      "stateOrCountryDescription": "NV",
+      "street1": "101 CONVENTION CENTER DR",
+      "street2": "SUITE 900",
+      "zipCode": "89109"
+    }
+  },
+  "category": "",
+  "cik": "0001621888",
+  "description": "",
+  "ein": "208269281",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-17T21:47:17.000Z",
+        "2025-07-17T21:24:17.000Z",
+        "2018-01-11T13:51:42.000Z",
+        "2014-10-20T15:36:13.000Z"
+      ],
+      "accessionNumber": [
+        "0001477932-25-005130",
+        "0001477932-25-005128",
+        "0001621888-18-000001",
+        "0001621888-14-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D/A",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-302985",
+        "021-552202",
+        "021-302985",
+        "021-226782"
+      ],
+      "filingDate": [
+        "2025-07-18",
+        "2025-07-18",
+        "2018-01-11",
+        "2014-10-20"
+      ],
+      "filmNumber": [
+        "251132539",
+        "251132524",
+        "18523354",
+        "141163919"
+      ],
+      "form": [
+        "D/A",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06c",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        6403,
+        7434,
+        8370,
+        7591
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Complete Financial Solutions Inc.",
+  "ownerOrg": "",
+  "phone": "702-291-1922",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "tickers": [
+    "CFSU"
+  ],
+  "website": ""
+}

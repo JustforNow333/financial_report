@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "688 W. HASTINGS STREET, SUITE 618",
+      "street2": null,
+      "zipCode": "V6B 1P1"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "688 W. HASTINGS STREET, SUITE 618",
+      "street2": null,
+      "zipCode": "V6B 1P1"
+    }
+  },
+  "category": "",
+  "cik": "0002094900",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-12T19:27:57.000Z"
+      ],
+      "accessionNumber": [
+        "0002064835-25-000034"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-563735"
+      ],
+      "filingDate": [
+        "2025-11-12"
+      ],
+      "filmNumber": [
+        "251471769"
+      ],
+      "form": [
+        "D"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        "06b"
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        9836
+      ]
+    }
+  },
+  "fiscalYearEnd": "0731",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Tiger Gold Corp.",
+  "ownerOrg": "",
+  "phone": "(604) 617-7979",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [],
+  "website": ""
+}

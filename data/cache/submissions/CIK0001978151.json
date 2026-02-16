@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1570 - 505 BURRARD STREET",
+      "street2": null,
+      "zipCode": "V7X1M5"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1570 - 505 BURRARD STREET",
+      "street2": null,
+      "zipCode": "V7X1M5"
+    }
+  },
+  "category": "",
+  "cik": "0001978151",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-15T16:11:44.000Z",
+        "2025-01-24T13:21:32.000Z",
+        "2023-06-13T15:11:49.000Z"
+      ],
+      "accessionNumber": [
+        "0002060755-25-000013",
+        "0001183740-25-000019",
+        "0001183740-23-000074"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-546298",
+        "021-536162",
+        "021-484087"
+      ],
+      "filingDate": [
+        "2025-05-15",
+        "2025-01-24",
+        "2023-06-13"
+      ],
+      "filmNumber": [
+        "25953115",
+        "25553093",
+        "231011095"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        8214,
+        8064,
+        9095
+      ]
+    }
+  },
+  "fiscalYearEnd": "0731",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Eat & Beyond Global Holdings Inc.",
+  "ownerOrg": "",
+  "phone": "6044164099",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "DGTEF"
+  ],
+  "website": ""
+}

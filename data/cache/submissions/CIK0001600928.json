@@ -1,0 +1,181 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001600928",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-10-01T09:55:35.000Z",
+        "2024-09-23T16:41:34.000Z",
+        "2017-09-29T13:14:17.000Z",
+        "2015-09-08T17:04:19.000Z",
+        "2015-07-20T09:07:16.000Z",
+        "2014-02-25T14:51:45.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-001199",
+        "0001019155-24-000268",
+        "0001193805-17-002876",
+        "0001193805-15-001481",
+        "0001193805-15-001198",
+        "0001019155-14-000081"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-205739",
+        "333-194119",
+        "333-206816",
+        "333-206816",
+        "333-205739",
+        "333-194119"
+      ],
+      "filingDate": [
+        "2024-10-01",
+        "2024-09-23",
+        "2017-09-29",
+        "2015-09-08",
+        "2015-07-17",
+        "2014-02-25"
+      ],
+      "filmNumber": [
+        "241341654",
+        "241316651",
+        "171110509",
+        "151097379",
+        "15995167",
+        "14640137"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6 POS",
+        "",
+        "",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "e663928_f6pos-hpkk.htm",
+        "hamamatsuf6pos.htm",
+        "e617007_f6pos-hpk.htm",
+        "e614064_f6ef-hamamatsu.htm",
+        "e613916_f6ef-hp.htm",
+        "hamaf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        108129,
+        94923,
+        126857,
+        239834,
+        320391,
+        83638
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Hamamatsu Photonics K.K./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3128",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "HPHTY",
+    "HPHTF"
+  ],
+  "website": ""
+}

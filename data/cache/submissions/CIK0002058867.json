@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HONG KONG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "26/F, CHINACHEM LEIGHTON PLAZA,",
+      "street2": "29 LEIGHTON ROAD, CAUSEWAY BAY",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "HONG KONG",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "26/F, CHINACHEM LEIGHTON PLAZA,",
+      "street2": "29 LEIGHTON ROAD, CAUSEWAY BAY",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002058867",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-07T16:36:38.000Z",
+        "2025-11-07T16:33:15.000Z",
+        "2025-10-14T16:00:24.000Z",
+        "2025-09-24T17:07:34.000Z",
+        "2025-08-26T16:34:50.000Z",
+        "2025-07-09T14:03:13.000Z",
+        "2025-05-09T17:10:29.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-25-021291",
+        "0001493152-25-021290",
+        "0001493152-25-018006",
+        "0001493152-25-014823",
+        "0001641172-25-025544",
+        "0001641172-25-018357",
+        "0001641172-25-009490"
+      ],
+      "act": [
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "8-A12B",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "001-42942",
+        "333-290492",
+        "333-290492",
+        "333-290492",
+        "377-07994",
+        "377-07994",
+        "377-07994"
+      ],
+      "filingDate": [
+        "2025-11-07",
+        "2025-11-07",
+        "2025-10-14",
+        "2025-09-24",
+        "2025-08-26",
+        "2025-07-09",
+        "2025-05-09"
+      ],
+      "filmNumber": [
+        "251463200",
+        "251463162",
+        "251391676",
+        "251339364",
+        "251258140",
+        "251113105",
+        "25931562"
+      ],
+      "form": [
+        "8-A12B",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "8-A12B",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "form8-a12b.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        27163,
+        5236908,
+        5963185,
+        5695188,
+        3510475,
+        4208403,
+        3858026
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PressLogic Inc.",
+  "ownerOrg": "07 Trade & Services",
+  "phone": "852 63303920",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "PLAI"
+  ],
+  "website": ""
+}

@@ -1,0 +1,136 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "82 RICHMOND ST. EAST",
+      "street2": null,
+      "zipCode": "M5C 1P1"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "82 RICHMOND ST. EAST",
+      "street2": null,
+      "zipCode": "M5C 1P1"
+    }
+  },
+  "category": "",
+  "cik": "0002022059",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-08T20:41:54.000Z",
+        "2025-08-19T19:23:20.000Z",
+        "2024-05-09T17:42:42.000Z"
+      ],
+      "accessionNumber": [
+        "0002022059-26-000001",
+        "0002022059-25-000002",
+        "0002022059-24-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-569445",
+        "021-555259",
+        "021-512874"
+      ],
+      "filingDate": [
+        "2026-01-09",
+        "2025-08-20",
+        "2024-05-10"
+      ],
+      "filmNumber": [
+        "26521138",
+        "251233484",
+        "24932156"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        6018,
+        8255,
+        6848
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Silver Mountain Resources, Inc.",
+  "ownerOrg": "",
+  "phone": "51 997 903 576",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "AGMRF",
+    "AGMWF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,170 @@
+{
+  "addresses": {
+    "business": {
+      "city": "MISSISSAUGA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "2475 SKYMARK AVENUE",
+      "street2": "UNIT 4",
+      "zipCode": "L4W 4Y6"
+    },
+    "mailing": {
+      "city": "MISSISSAUGA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "2475 SKYMARK AVENUE",
+      "street2": "UNIT 4",
+      "zipCode": "L4W 4Y6"
+    }
+  },
+  "category": "",
+  "cik": "0001113152",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-02-12T16:00:23.000Z",
+        "2016-03-22T09:00:04.000Z",
+        "2004-04-08T12:30:17.000Z",
+        "2003-04-11T12:08:13.000Z",
+        "2003-04-22T10:05:32.000Z"
+      ],
+      "accessionNumber": [
+        "0001539497-25-000501",
+        "0001183740-16-000311",
+        "9999999997-04-017179",
+        "9999999997-03-016647",
+        "9999999997-03-018352"
+      ],
+      "act": [
+        "33",
+        "33",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "SUPPL",
+        "ARS",
+        "SUPPL"
+      ],
+      "fileNumber": [
+        "021-538118",
+        "021-259722",
+        "082-05056",
+        "082-05056",
+        "082-05056"
+      ],
+      "filingDate": [
+        "2025-02-12",
+        "2016-03-22",
+        "2004-04-05",
+        "2003-04-10",
+        "2003-04-09"
+      ],
+      "filmNumber": [
+        "25614665",
+        "161520036",
+        "04024134",
+        "03007975",
+        "03050148"
+      ],
+      "form": [
+        "D",
+        "D",
+        "SUPPL",
+        "ARS",
+        "SUPPL"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06c",
+        "06b",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT"
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "9999999997-04-017179.paper",
+        "9999999997-03-016647.paper",
+        "9999999997-03-018352.paper"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "2000-12-31",
+        ""
+      ],
+      "size": [
+        11335,
+        11063,
+        1436,
+        1475,
+        1436
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2003-04-10T00:00:00.000Z",
+      "name": "ALIVE INTERNATIONAL INC                                 /FI",
+      "to": "2004-04-05T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "BEWHERE HOLDINGS INC",
+  "ownerOrg": "",
+  "phone": "844-229-4347",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "BEWFF"
+  ],
+  "website": ""
+}

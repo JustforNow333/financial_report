@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "885 WEST GEORGIA STREET",
+      "street2": "SUITE 2200",
+      "zipCode": "V6C 3E8"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "885 WEST GEORGIA STREET",
+      "street2": "SUITE 2000",
+      "zipCode": "V6C 3E8"
+    }
+  },
+  "category": "",
+  "cik": "0001830918",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-08-28T11:24:29.000Z",
+        "2023-05-18T21:34:09.000Z",
+        "2020-11-04T16:23:41.000Z"
+      ],
+      "accessionNumber": [
+        "0001539497-24-001790",
+        "0001830918-23-000002",
+        "0001830918-20-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-522645",
+        "021-482147",
+        "021-379739"
+      ],
+      "filingDate": [
+        "2024-08-28",
+        "2023-05-19",
+        "2020-11-04"
+      ],
+      "filmNumber": [
+        "241252742",
+        "23937803",
+        "201287025"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        12254,
+        13257,
+        11959
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Montage Gold Corp.",
+  "ownerOrg": "",
+  "phone": "(604) 512-2959",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "MAUTF"
+  ],
+  "website": ""
+}

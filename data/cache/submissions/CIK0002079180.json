@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "135 W 50TH STREET, SUITE 200",
+      "street2": null,
+      "zipCode": "10020"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "135 W 50TH STREET, SUITE 200",
+      "street2": null,
+      "zipCode": "10020"
+    }
+  },
+  "category": "",
+  "cik": "0002079180",
+  "description": "",
+  "ein": "393278485",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-04T00:15:26.000Z",
+        "2026-01-20T14:53:18.000Z",
+        "2025-12-04T21:14:54.000Z",
+        "2025-11-06T22:29:22.000Z",
+        "2025-11-06T12:01:57.000Z",
+        "2025-10-15T22:50:51.000Z",
+        "2025-09-02T22:03:13.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-009885",
+        "0001104659-26-004871",
+        "0001104659-25-118461",
+        "0001104659-25-107891",
+        "0001104659-25-107354",
+        "0001104659-25-099801",
+        "0001104659-25-086504"
+      ],
+      "act": [
+        "34",
+        "33",
+        "34",
+        "33",
+        "34",
+        "34",
+        "33"
+      ],
+      "core_type": [
+        "425",
+        "S-4/A",
+        "425",
+        "S-4/A",
+        "425",
+        "425",
+        "S-4"
+      ],
+      "fileNumber": [
+        "333-289994",
+        "333-289994",
+        "333-289994",
+        "333-289994",
+        "333-289994",
+        "333-289994",
+        "333-289994"
+      ],
+      "filingDate": [
+        "2026-02-04",
+        "2026-01-20",
+        "2025-12-04",
+        "2025-11-06",
+        "2025-11-06",
+        "2025-10-16",
+        "2025-09-03"
+      ],
+      "filmNumber": [
+        "26595342",
+        "26541426",
+        "251549533",
+        "251459727",
+        "251456066",
+        "251396066",
+        "251286877"
+      ],
+      "form": [
+        "425",
+        "S-4/A",
+        "425",
+        "S-4/A",
+        "425",
+        "425",
+        "S-4"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "425",
+        "S-4/A",
+        "425",
+        "S-4/A",
+        "425",
+        "425",
+        "S-4"
+      ],
+      "primaryDocument": [
+        "tm264981d2_425.htm",
+        "tm2524487-13_s4a.htm",
+        "tm2524487d15_425.htm",
+        "tm2524487-6_s4a.htm",
+        "tm2524487d11_425.htm",
+        "tm2524487d7_425.htm",
+        "tm2524487-3_s4.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        8678505,
+        9833031,
+        53245,
+        8693894,
+        42465,
+        33540,
+        8182393
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Parataxis Holdings Inc.",
+  "ownerOrg": "09 Crypto Assets",
+  "phone": "917-828-6313",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "PRTX"
+  ],
+  "website": ""
+}

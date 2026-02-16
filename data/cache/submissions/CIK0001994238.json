@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "217 QUEEN ST. WEST, SUITE 401",
+      "street2": null,
+      "zipCode": "M5V 0R2"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "217 QUEEN ST. WEST, SUITE 401",
+      "street2": null,
+      "zipCode": "M5V 0R2"
+    }
+  },
+  "category": "",
+  "cik": "0001994238",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-04-12T20:11:43.000Z",
+        "2024-01-05T12:38:56.000Z",
+        "2023-09-25T15:59:45.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-24-008369",
+        "0001062993-24-000530",
+        "0001062993-23-018436"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-510573",
+        "021-501694",
+        "021-492953"
+      ],
+      "filingDate": [
+        "2024-04-15",
+        "2024-01-05",
+        "2023-09-25"
+      ],
+      "filmNumber": [
+        "24842888",
+        "24515324",
+        "231275813"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11239,
+        11229,
+        12417
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Borealis Mining Co Ltd",
+  "ownerOrg": "",
+  "phone": "(647) 299-1153",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "BORMF"
+  ],
+  "website": ""
+}

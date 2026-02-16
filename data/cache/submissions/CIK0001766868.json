@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "STOCKHOLM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "V7",
+      "stateOrCountryDescription": "Sweden",
+      "street1": "BIRGER JARLSGATAN 43, BOX 5112",
+      "street2": null,
+      "zipCode": "SE-10243"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAP C/O H. RASPE",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0001766868",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-02T13:25:43.000Z",
+        "2019-02-05T11:46:35.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-117617",
+        "0001193805-19-000113"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-291886",
+        "333-229520"
+      ],
+      "filingDate": [
+        "2025-12-02",
+        "2019-02-05"
+      ],
+      "filmNumber": [
+        "251542416",
+        "19566839"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2525335d6_f6ef.htm",
+        "e618178_f6ef-addtech.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        133261,
+        112964
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Addtech AB/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-336-2301",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "V7",
+  "stateOfIncorporationDescription": "Sweden",
+  "tickers": [],
+  "website": ""
+}

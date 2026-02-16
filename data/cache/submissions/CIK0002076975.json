@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SUBIACO",
+      "country": "Australia",
+      "countryCode": "C3",
+      "foreignStateTerritory": "WESTERN AUSTRALIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "83 ROKEBY ROAD",
+      "street2": null,
+      "zipCode": "6008"
+    },
+    "mailing": {
+      "city": "SUBIACO",
+      "country": "Australia",
+      "countryCode": "C3",
+      "foreignStateTerritory": "WESTERN AUSTRALIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "83 ROKEBY ROAD",
+      "street2": null,
+      "zipCode": "6008"
+    }
+  },
+  "category": "",
+  "cik": "0002076975",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T22:25:20.000Z",
+        "2026-01-30T05:15:04.000Z",
+        "2026-01-28T17:46:57.000Z",
+        "2026-01-27T18:43:58.000Z",
+        "2026-01-13T01:02:38.000Z",
+        "2025-12-11T14:02:50.000Z",
+        "2025-11-10T14:00:52.000Z",
+        "2025-09-26T01:58:45.000Z",
+        "2025-07-14T20:56:13.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-004786",
+        "9999999995-26-000338",
+        "0001354457-26-000099",
+        "0001493152-26-003748",
+        "0001493152-26-001917",
+        "0001493152-25-027173",
+        "0001493152-25-021436",
+        "0001493152-25-015031",
+        "0001213900-25-063757"
+      ],
+      "act": [
+        "33",
+        "33",
+        "34",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B4",
+        "EFFECT",
+        "CERT",
+        "8-A12B",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-291410",
+        "333-291410",
+        "001-43079",
+        "001-43079",
+        "333-291410",
+        "333-291410",
+        "333-291410",
+        "377-08208",
+        "377-08208"
+      ],
+      "filingDate": [
+        "2026-02-02",
+        "2026-01-29",
+        "2026-01-28",
+        "2026-01-27",
+        "2026-01-13",
+        "2025-12-11",
+        "2025-11-10",
+        "2025-09-26",
+        "2025-07-14"
+      ],
+      "filmNumber": [
+        "26589044",
+        "26580278",
+        "26570688",
+        "26563915",
+        "26528187",
+        "251563659",
+        "251464677",
+        "251345290",
+        "251122283"
+      ],
+      "form": [
+        "424B4",
+        "EFFECT",
+        "CERT",
+        "8-A12B",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "424B4",
+        "",
+        "",
+        "8-A12B",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "form424b4.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "8A_Cert_BRAI_0002076975.pdf",
+        "form8-a12b.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        16650006,
+        1874,
+        127084,
+        25261,
+        64960844,
+        64922557,
+        23156843,
+        22853834,
+        48001286
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Braiin Ltd",
+  "ownerOrg": "06 Technology",
+  "phone": "312-953-0086",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "tickers": [
+    "BRAI"
+  ],
+  "website": ""
+}

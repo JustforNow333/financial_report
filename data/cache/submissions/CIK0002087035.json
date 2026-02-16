@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SINGAPORE",
+      "country": "Singapore",
+      "countryCode": "U0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "13 STAMFORD ROAD, #02-11",
+      "street2": null,
+      "zipCode": "178905"
+    },
+    "mailing": {
+      "city": "SINGAPORE",
+      "country": "Singapore",
+      "countryCode": "U0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "13 STAMFORD ROAD, #02-11",
+      "street2": null,
+      "zipCode": "178905"
+    }
+  },
+  "category": "",
+  "cik": "0002087035",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-20T20:36:29.000Z",
+        "2025-12-29T21:16:53.000Z",
+        "2025-12-08T21:57:03.000Z",
+        "2025-09-25T19:04:35.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-002829",
+        "0001493152-25-029373",
+        "0001493152-25-026667",
+        "0001493152-25-014916"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "XBRL",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292005",
+        "333-292005",
+        "333-292005",
+        "377-08502"
+      ],
+      "filingDate": [
+        "2026-01-20",
+        "2025-12-29",
+        "2025-12-08",
+        "2025-09-25"
+      ],
+      "filmNumber": [
+        "26542654",
+        "251609388",
+        "251556776",
+        "251343091"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        ""
+      ],
+      "primaryDocument": [
+        "forms-1a.htm",
+        "forms-1a.htm",
+        "forms-1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2358548,
+        22880183,
+        4490473,
+        2204714
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "AfterNext Acquisition I Corp.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "65 8768 8988",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "AFNX"
+  ],
+  "website": ""
+}

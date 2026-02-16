@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ETOBICOKE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "146 THIRTIETH STREET, SUITE 100",
+      "street2": null,
+      "zipCode": "M8W 3D4"
+    },
+    "mailing": {
+      "city": "ETOBICOKE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "146 THIRTIETH STREET, SUITE 100",
+      "street2": null,
+      "zipCode": "M8W 3D4"
+    }
+  },
+  "category": "",
+  "cik": "0001882559",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-07-12T11:53:10.000Z",
+        "2021-09-22T14:28:23.000Z"
+      ],
+      "accessionNumber": [
+        "0001727689-24-000082",
+        "0001882559-21-000001"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-518554",
+        "021-414249"
+      ],
+      "filingDate": [
+        "2024-07-12",
+        "2021-09-22"
+      ],
+      "filmNumber": [
+        "241113716",
+        "211269260"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        10177,
+        10148
+      ]
+    }
+  },
+  "fiscalYearEnd": "1031",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "BioVaxys Technology Corp.",
+  "ownerOrg": "",
+  "phone": "646-452-7054",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "BVAXF"
+  ],
+  "website": ""
+}

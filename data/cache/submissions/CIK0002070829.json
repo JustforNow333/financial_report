@@ -1,0 +1,136 @@
+{
+  "addresses": {
+    "business": {
+      "city": "FUJIAN",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "NO. 2 XINGANG ROAD",
+      "street2": null,
+      "zipCode": "352100"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002070829",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-28T13:21:09.000Z",
+        "2025-06-18T14:19:56.000Z",
+        "2025-06-02T14:59:57.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000302",
+        "0001193805-25-000906",
+        "0001193805-25-000762"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-288989",
+        "333-288133",
+        "333-287717"
+      ],
+      "filingDate": [
+        "2025-07-28",
+        "2025-06-18",
+        "2025-06-02"
+      ],
+      "filmNumber": [
+        "251154872",
+        "251056323",
+        "251014495"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "amperexrec.htm",
+        "e664646_f6ef-cat.htm",
+        "e664577_f6ef-cat.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        110645,
+        144435,
+        110466
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Contemporary Amperex Technology Co., Limited/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "tickers": [
+    "CYATY",
+    "CTATF"
+  ],
+  "website": ""
+}

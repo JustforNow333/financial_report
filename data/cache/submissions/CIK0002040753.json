@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "GRAND RAPIDS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "MI",
+      "stateOrCountryDescription": "MI",
+      "street1": "47 COMMERCE SW",
+      "street2": null,
+      "zipCode": "49503"
+    },
+    "mailing": {
+      "city": "GRAND RAPIDS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "MI",
+      "stateOrCountryDescription": "MI",
+      "street1": "47 COMMERCE SW",
+      "street2": null,
+      "zipCode": "49503"
+    }
+  },
+  "category": "",
+  "cik": "0002040753",
+  "description": "",
+  "ein": "208535566",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-04T16:39:41.000Z",
+        "2025-12-30T14:29:36.000Z",
+        "2025-02-20T22:15:53.000Z",
+        "2025-02-11T22:29:05.000Z",
+        "2025-01-27T12:57:12.000Z",
+        "2024-12-16T16:49:17.000Z",
+        "2024-10-15T12:00:04.000Z"
+      ],
+      "accessionNumber": [
+        "0001872856-26-000040",
+        "0001872856-25-000067",
+        "0001683168-25-001148",
+        "0001683168-25-000938",
+        "0001683168-25-000541",
+        "0001683168-24-008743",
+        "0001683168-24-007125"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "C-U",
+        "C",
+        "1-A/A",
+        "1-A/A",
+        "1-A/A",
+        "1-A/A",
+        "1-A"
+      ],
+      "fileNumber": [
+        "020-36714",
+        "020-36714",
+        "024-12520",
+        "024-12520",
+        "024-12520",
+        "024-12520",
+        "024-12520"
+      ],
+      "filingDate": [
+        "2026-02-04",
+        "2025-12-30",
+        "2025-02-20",
+        "2025-02-11",
+        "2025-01-27",
+        "2024-12-16",
+        "2024-10-15"
+      ],
+      "filmNumber": [
+        "26596804",
+        "251611485",
+        "25647274",
+        "25611002",
+        "25555795",
+        "241550804",
+        "241369326"
+      ],
+      "form": [
+        "C-U",
+        "C",
+        "1-A/A",
+        "1-A/A",
+        "1-A/A",
+        "1-A/A",
+        "1-A"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslC_X01/primary_doc.xml",
+        "xslC_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10218,
+        41472020,
+        866552,
+        865146,
+        864754,
+        1008500,
+        771300
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Xtreme One Entertainment, Inc.",
+  "ownerOrg": "07 Trade & Services",
+  "phone": "305-701-9100",
+  "sic": "7900",
+  "sicDescription": "Services-Amusement & Recreation Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "XONI"
+  ],
+  "website": ""
+}

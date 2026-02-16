@@ -1,0 +1,245 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "900  - 777 HORNBY ST.",
+      "street2": null,
+      "zipCode": "V6Z 1S4"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "900  - 777 HORNBY ST.",
+      "street2": null,
+      "zipCode": "V6Z 1S4"
+    }
+  },
+  "category": "",
+  "cik": "0001701599",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-10-22T13:06:07.000Z",
+        "2024-10-03T14:17:34.000Z",
+        "2022-12-21T11:26:02.000Z",
+        "2021-12-07T15:09:58.000Z",
+        "2021-01-05T10:33:52.000Z",
+        "2020-03-30T18:21:04.000Z",
+        "2020-01-13T11:54:29.000Z",
+        "2019-02-25T19:14:47.000Z",
+        "2018-12-06T14:59:57.000Z",
+        "2017-03-27T15:20:16.000Z"
+      ],
+      "accessionNumber": [
+        "0001701599-24-000004",
+        "0001701599-24-000003",
+        "0001701599-22-000001",
+        "0001701599-21-000002",
+        "0001701599-21-000001",
+        "0001701599-20-000003",
+        "0001701599-20-000001",
+        "0001701599-19-000001",
+        "0001701599-18-000003",
+        "0001701599-17-000002"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-525778",
+        "021-525778",
+        "021-468206",
+        "021-423977",
+        "021-385217",
+        "021-363956",
+        "021-357786",
+        "021-333520",
+        "021-327322",
+        "021-283377"
+      ],
+      "filingDate": [
+        "2024-10-22",
+        "2024-10-03",
+        "2022-12-21",
+        "2021-12-07",
+        "2021-01-05",
+        "2020-03-31",
+        "2020-01-13",
+        "2019-02-26",
+        "2018-12-06",
+        "2017-03-27"
+      ],
+      "filmNumber": [
+        "241385511",
+        "241350938",
+        "221477171",
+        "211475737",
+        "21504257",
+        "20758857",
+        "20523241",
+        "19631130",
+        "181220399",
+        "17715197"
+      ],
+      "form": [
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b,4a5"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        12367,
+        12265,
+        9334,
+        10306,
+        9999,
+        10061,
+        10287,
+        9214,
+        9966,
+        9970
+      ]
+    }
+  },
+  "fiscalYearEnd": "0831",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2017-03-27T00:00:00.000Z",
+      "name": "Arizona Silver Exploration Inc.",
+      "to": "2022-12-21T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Arizona Gold & Silver Inc.",
+  "ownerOrg": "",
+  "phone": "604 - 341-7474",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "AZASF"
+  ],
+  "website": ""
+}

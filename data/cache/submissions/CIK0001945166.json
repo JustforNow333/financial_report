@@ -1,0 +1,125 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 401 - 750 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 2T7"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 401 - 750 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 2T7"
+    }
+  },
+  "category": "",
+  "cik": "0001945166",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-12-27T10:23:42.000Z",
+        "2022-09-01T15:53:57.000Z"
+      ],
+      "accessionNumber": [
+        "0001945166-24-000003",
+        "0001062993-22-018945"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-533430",
+        "021-457744"
+      ],
+      "filingDate": [
+        "2024-12-27",
+        "2022-09-01"
+      ],
+      "filmNumber": [
+        "241583002",
+        "221220913"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        8376,
+        8429
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2022-09-01T00:00:00.000Z",
+      "name": "Glorious Creation Ltd.",
+      "to": "2022-09-01T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "MUSTANG ENERGY CORP.",
+  "ownerOrg": "",
+  "phone": "604-428-7050",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "MECPF"
+  ],
+  "website": ""
+}

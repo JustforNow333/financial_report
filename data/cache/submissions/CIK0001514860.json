@@ -1,0 +1,170 @@
+{
+  "addresses": {
+    "business": {
+      "city": "PHOENIX",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "AZ",
+      "stateOrCountryDescription": "AZ",
+      "street1": "CONCORD PLACE. SUITE 300",
+      "street2": "2999 NORTH 44TH ST.",
+      "zipCode": "85018"
+    },
+    "mailing": {
+      "city": "PHOENIX",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "AZ",
+      "stateOrCountryDescription": "AZ",
+      "street1": "CONCORD PLACE. SUITE 300",
+      "street2": "2999 NORTH 44TH ST.",
+      "zipCode": "85018"
+    }
+  },
+  "category": "",
+  "cik": "0001514860",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-10T17:06:19.000Z",
+        "2023-12-20T14:58:00.000Z",
+        "2023-02-10T16:01:38.000Z",
+        "2018-01-04T17:41:46.000Z",
+        "2011-03-09T10:38:07.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-007303",
+        "0001062993-23-022929",
+        "0001062993-23-002623",
+        "0001062993-18-000027",
+        "0001204459-11-000643"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-543398",
+        "021-500287",
+        "021-473230",
+        "021-302437",
+        "021-156405"
+      ],
+      "filingDate": [
+        "2025-04-10",
+        "2023-12-20",
+        "2023-02-10",
+        "2018-01-05",
+        "2011-03-09"
+      ],
+      "filmNumber": [
+        "25829149",
+        "231501101",
+        "23611679",
+        "18511303",
+        "11673935"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        13116,
+        12286,
+        11579,
+        15354,
+        11950
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2011-03-09T00:00:00.000Z",
+      "name": "Excelsior Mining Corp.",
+      "to": "2023-12-20T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Gunnison Copper Corp.",
+  "ownerOrg": "",
+  "phone": "604-562-8690",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "GCUMF"
+  ],
+  "website": ""
+}

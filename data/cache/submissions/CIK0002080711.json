@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "GUANGZHOU",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "10/F, XINLI YINGFENG CENTER A",
+      "street2": "NO. 2 HONGCHUANG 2ND ST, PANYU DISTRICT",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "GUANGZHOU",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "10/F, XINLI YINGFENG CENTER A",
+      "street2": "NO. 2 HONGCHUANG 2ND ST, PANYU DISTRICT",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002080711",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-08T08:50:50.000Z",
+        "2025-08-29T14:00:57.000Z"
+      ],
+      "accessionNumber": [
+        "9999999997-25-003452",
+        "0001477932-25-006413"
+      ],
+      "act": [
+        "",
+        "33"
+      ],
+      "core_type": [
+        "SERIOUS DEFICIENCIES",
+        "F-1"
+      ],
+      "fileNumber": [
+        "",
+        "333-289935"
+      ],
+      "filingDate": [
+        "2025-09-05",
+        "2025-08-29"
+      ],
+      "filmNumber": [
+        "",
+        "251279636"
+      ],
+      "form": [
+        "SEC STAFF LETTER",
+        "F-1"
+      ],
+      "isInlineXBRL": [
+        0,
+        1
+      ],
+      "isXBRL": [
+        0,
+        1
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-1"
+      ],
+      "primaryDocument": [
+        "filename1.pdf",
+        "zhong_f1.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        39307,
+        3524862
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "ZHONGSHANG TECHNOLOGY INC",
+  "ownerOrg": "06 Technology",
+  "phone": "086 020 89730118",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "tickers": [
+    "ZSSK"
+  ],
+  "website": ""
+}

@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NORTHBROOK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "IL",
+      "stateOrCountryDescription": "IL",
+      "street1": "5 REVERE DRIVE, SUITE 200",
+      "street2": null,
+      "zipCode": "60062"
+    },
+    "mailing": {
+      "city": "NORTHBROOK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "IL",
+      "stateOrCountryDescription": "IL",
+      "street1": "5 REVERE DRIVE, SUITE 200",
+      "street2": null,
+      "zipCode": "60062"
+    }
+  },
+  "category": "",
+  "cik": "0002090646",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-13T17:19:33.000Z",
+        "2026-01-13T22:31:34.000Z",
+        "2025-10-31T21:27:05.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-006791",
+        "0001493152-26-002095",
+        "0001493152-25-020468"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "XBRL",
+        "XBRL",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292712",
+        "333-292712",
+        "377-08642"
+      ],
+      "filingDate": [
+        "2026-02-13",
+        "2026-01-13",
+        "2025-10-31"
+      ],
+      "filmNumber": [
+        "26634627",
+        "26530914",
+        "251441533"
+      ],
+      "form": [
+        "S-4/A",
+        "S-4",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        0
+      ],
+      "isXBRL": [
+        1,
+        1,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-4/A",
+        "S-4",
+        ""
+      ],
+      "primaryDocument": [
+        "forms-4a.htm",
+        "forms-4.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        20879425,
+        21207064,
+        6285674
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Boost Run Inc.",
+  "ownerOrg": "06 Technology",
+  "phone": "847-812-3764",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "BRUN"
+  ],
+  "website": ""
+}

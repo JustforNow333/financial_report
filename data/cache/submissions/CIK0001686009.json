@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001686009",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-22T13:35:15.000Z",
+        "2025-06-05T17:40:02.000Z",
+        "2016-10-03T14:27:09.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-069535",
+        "0001193805-25-000801",
+        "0001019155-16-000716"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-288836",
+        "333-287820",
+        "333-213938"
+      ],
+      "filingDate": [
+        "2025-07-22",
+        "2025-06-05",
+        "2016-10-03"
+      ],
+      "filmNumber": [
+        "251139664",
+        "251028354",
+        "161915415"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "tm2521243d1_f6ef.htm",
+        "e664600_f6ef-eml.htm",
+        "evolutionf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        143919,
+        110146,
+        101337
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Evolution Mining Limited/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "2122383128",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "CAHPF"
+  ],
+  "website": ""
+}

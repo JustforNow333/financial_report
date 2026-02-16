@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "KARLSTAD",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "V7",
+      "stateOrCountryDescription": "Sweden",
+      "street1": "EMBRACER GROUP AB",
+      "street2": "TULLHUSGATAN 1B",
+      "zipCode": "SE-652 09"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0001969796",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-01-29T13:43:25.000Z",
+        "2023-03-20T12:29:22.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000097",
+        "0001193805-23-000362"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-270690",
+        "333-270690"
+      ],
+      "filingDate": [
+        "2025-01-29",
+        "2023-03-20"
+      ],
+      "filmNumber": [
+        "25568320",
+        "23745481"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e664164_f6pos-embracergroup.htm",
+        "e618384_f6ef-eg.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        105513,
+        139687
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Embracer Group AB/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "V7",
+  "stateOfIncorporationDescription": "Sweden",
+  "tickers": [
+    "EBCRY",
+    "THQQF"
+  ],
+  "website": ""
+}

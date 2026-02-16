@@ -1,0 +1,179 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1210 - 1130 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6E 4A4"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1210 - 1130 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6E 4A4"
+    }
+  },
+  "category": "",
+  "cik": "0001898443",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-23T15:53:06.000Z",
+        "2025-04-23T15:51:46.000Z",
+        "2025-04-23T15:50:18.000Z",
+        "2025-04-23T15:48:30.000Z",
+        "2021-12-15T17:34:28.000Z",
+        "2021-12-15T17:32:48.000Z"
+      ],
+      "accessionNumber": [
+        "0001898443-25-000005",
+        "0001898443-25-000004",
+        "0001898443-25-000003",
+        "0001898443-25-000002",
+        "0001085037-21-000103",
+        "0001085037-21-000102"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-544330",
+        "021-544329",
+        "021-544328",
+        "021-544326",
+        "021-425249",
+        "021-425247"
+      ],
+      "filingDate": [
+        "2025-04-23",
+        "2025-04-23",
+        "2025-04-23",
+        "2025-04-23",
+        "2021-12-16",
+        "2021-12-16"
+      ],
+      "filmNumber": [
+        "25861284",
+        "25861274",
+        "25861266",
+        "25861255",
+        "211495209",
+        "211495201"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9978,
+        9984,
+        9842,
+        9837,
+        8206,
+        8200
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "FINEX METALS LTD.",
+  "ownerOrg": "",
+  "phone": "604-681-9100",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "FNXMF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1500 - 1055 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 4N7"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1500 - 1055 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 4N7"
+    }
+  },
+  "category": "",
+  "cik": "0002056751",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-02-14T17:20:19.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-002605"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-538399"
+      ],
+      "filingDate": [
+        "2025-02-14"
+      ],
+      "filmNumber": [
+        "25631008"
+      ],
+      "form": [
+        "D"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        "06b"
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        9082
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Recharge Resources Ltd.",
+  "ownerOrg": "",
+  "phone": "2367880643",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "UUUFF"
+  ],
+  "website": ""
+}

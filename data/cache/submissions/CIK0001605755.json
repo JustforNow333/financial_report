@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAO C/O H. RASPE",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAO C/O H. RASPE",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0001605755",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-03T12:01:13.000Z",
+        "2024-05-15T14:17:05.000Z",
+        "2020-12-07T13:35:52.000Z",
+        "2014-04-18T12:29:25.000Z",
+        "2014-04-16T11:11:57.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-019646",
+        "0001193805-24-000645",
+        "0001019155-20-000441",
+        "0001019155-14-000154",
+        "0001193805-14-000807"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-285484",
+        "333-279417",
+        "333-195307",
+        "333-195371",
+        "333-195307"
+      ],
+      "filingDate": [
+        "2025-03-03",
+        "2024-05-15",
+        "2020-12-07",
+        "2014-04-18",
+        "2014-04-16"
+      ],
+      "filmNumber": [
+        "25695568",
+        "24949351",
+        "201372189",
+        "14771788",
+        "14766896"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        "FORM F-6 POS",
+        "FORM F-6",
+        ""
+      ],
+      "primaryDocument": [
+        "tm257979d1_f6ef.htm",
+        "e663619_f6ef-moncler.htm",
+        "monclerf6pos.htm",
+        "monclerf6.htm",
+        "e612161_f6ef-moncler.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        159529,
+        144183,
+        95811,
+        81437,
+        283929
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Moncler S.p.A./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-336-2301",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "MONRF"
+  ],
+  "website": ""
+}

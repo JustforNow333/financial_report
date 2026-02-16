@@ -1,0 +1,179 @@
+{
+  "addresses": {
+    "business": {
+      "city": "FORT MILL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "SC",
+      "stateOrCountryDescription": "SC",
+      "street1": "1799 INNOVATION POINT",
+      "street2": null,
+      "zipCode": "29715"
+    },
+    "mailing": {
+      "city": "FORT MILL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "SC",
+      "stateOrCountryDescription": "SC",
+      "street1": "1799 INNOVATION POINT",
+      "street2": null,
+      "zipCode": "29715"
+    }
+  },
+  "category": "",
+  "cik": "0002083785",
+  "description": "",
+  "ein": "333657151",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-13T13:00:20.000Z",
+        "2026-01-27T20:31:23.000Z",
+        "2026-01-27T20:15:38.000Z",
+        "2025-12-19T19:45:56.000Z",
+        "2025-11-26T21:45:43.000Z",
+        "2025-09-05T15:53:17.000Z"
+      ],
+      "accessionNumber": [
+        "0001193125-26-050612",
+        "0000876661-26-000061",
+        "0001193125-26-024240",
+        "0001193125-25-326601",
+        "0001193125-25-300697",
+        "0000950123-25-008655"
+      ],
+      "act": [
+        "34",
+        "34",
+        "34",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "10-12B/A",
+        "CERT",
+        "10-12B",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "001-43081",
+        "001-43081",
+        "001-43081",
+        "377-08418",
+        "377-08418",
+        "377-08418"
+      ],
+      "filingDate": [
+        "2026-02-13",
+        "2026-01-27",
+        "2026-01-27",
+        "2025-12-19",
+        "2025-11-26",
+        "2025-09-05"
+      ],
+      "filmNumber": [
+        "26630749",
+        "26565026",
+        "26564686",
+        "251587027",
+        "251531022",
+        "251295593"
+      ],
+      "form": [
+        "10-12B/A",
+        "CERT",
+        "10-12B",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "10-12B/A",
+        "NYSE CERTIFICATION",
+        "10-12B",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "d948736d1012ba.htm",
+        "Sunbelt012726.pdf",
+        "d948736d1012b.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        3068131,
+        165322,
+        12401049,
+        9836594,
+        5384217,
+        2365543
+      ]
+    }
+  },
+  "fiscalYearEnd": "0430",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Sunbelt Rentals Holdings, Inc.",
+  "ownerOrg": "07 Trade & Services",
+  "phone": "800-667-9328",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "SUNB"
+  ],
+  "website": ""
+}

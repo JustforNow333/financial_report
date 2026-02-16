@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "600 LEXINGTON AVENUE",
+      "street2": "FLOOR 30",
+      "zipCode": "10022"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "600 LEXINGTON AVENUE",
+      "street2": "FLOOR 30",
+      "zipCode": "10022"
+    }
+  },
+  "category": "",
+  "cik": "0002102072",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-10T22:07:10.000Z",
+        "2025-12-19T21:06:06.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-014393",
+        "0001213900-25-123838"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "XBRL",
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-292285",
+        "333-292285"
+      ],
+      "filingDate": [
+        "2026-02-10",
+        "2025-12-19"
+      ],
+      "filmNumber": [
+        "26617125",
+        "251587546"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        1,
+        1
+      ],
+      "isXBRL": [
+        1,
+        1
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "ea0269114-02.htm",
+        "ea0269114-01.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        9577611,
+        8811242
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Brookline Capital Acquisition Corp II",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "6466036716",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "BCAC"
+  ],
+  "website": ""
+}

@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "OTARU",
+      "country": "Japan",
+      "countryCode": "M0",
+      "foreignStateTerritory": "HOKKAIDO",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "3-20-2 SAKURA",
+      "street2": null,
+      "zipCode": "047-0156"
+    },
+    "mailing": {
+      "city": "OTARU",
+      "country": "Japan",
+      "countryCode": "M0",
+      "foreignStateTerritory": "HOKKAIDO",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "3-20-2 SAKURA",
+      "street2": null,
+      "zipCode": "047-0156"
+    }
+  },
+  "category": "",
+  "cik": "0002073819",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-15T03:00:03.000Z",
+        "2025-10-14T18:03:33.000Z",
+        "2025-09-04T17:33:30.000Z",
+        "2025-07-21T13:40:28.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-002311",
+        "0001493152-25-017977",
+        "0001641172-25-026546",
+        "0001493152-25-011313"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-290030",
+        "333-290030",
+        "333-290030",
+        "377-08235"
+      ],
+      "filingDate": [
+        "2026-01-15",
+        "2025-10-14",
+        "2025-09-04",
+        "2025-07-21"
+      ],
+      "filmNumber": [
+        "26534596",
+        "251391113",
+        "251292654",
+        "251135966"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "isXBRL": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        ""
+      ],
+      "primaryDocument": [
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        5647184,
+        2465331,
+        2348842,
+        1894756
+      ]
+    }
+  },
+  "fiscalYearEnd": "0430",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Nihon Shintatsu Co., Ltd.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "81-134-31-0000",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "JSTT"
+  ],
+  "website": ""
+}

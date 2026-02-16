@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O ABOUDI LEGAL GROUP PLLC, 745 5TH AVE",
+      "street2": "SUITE 500",
+      "zipCode": "10151"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O ABOUDI LEGAL GROUP PLLC, 745 5TH AVE",
+      "street2": "SUITE 500",
+      "zipCode": "10151"
+    }
+  },
+  "category": "",
+  "cik": "0001839140",
+  "description": "",
+  "ein": "844516676",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T05:15:09.000Z",
+        "2026-01-28T21:00:36.000Z",
+        "2026-01-16T22:13:10.000Z",
+        "2025-12-12T18:10:53.000Z",
+        "2025-10-03T20:15:44.000Z",
+        "2025-08-13T20:45:07.000Z",
+        "2025-02-14T13:51:22.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-26-000363",
+        "0001213900-26-008804",
+        "0001213900-26-005242",
+        "0001213900-25-121070",
+        "0001213900-25-096094",
+        "0001213900-25-075747",
+        "0001213900-25-013823"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-284934",
+        "333-284934",
+        "333-284934",
+        "333-284934",
+        "333-284934",
+        "333-284934",
+        "333-284934"
+      ],
+      "filingDate": [
+        "2026-01-30",
+        "2026-01-28",
+        "2026-01-16",
+        "2025-12-12",
+        "2025-10-03",
+        "2025-08-13",
+        "2025-02-14"
+      ],
+      "filmNumber": [
+        "26585484",
+        "26572404",
+        "26540368",
+        "251567371",
+        "251374054",
+        "251212408",
+        "25623584"
+      ],
+      "form": [
+        "EFFECT",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "items": [
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "AMENDMENT NO. 5 TO FORM S-1",
+        "AMENDMENT NO. 4 TO FORM S-1",
+        "AMENDMENT NO. 3 TO FORM S-1",
+        "AMENDMENT NO. 2 TO FORM S-1",
+        "AMENDMENT NO. 1 TO FORM S-1",
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "ea0274442-s1a5_revium.htm",
+        "ea0272700-s1a4_revium.htm",
+        "ea0268034-s1a3_revium.htm",
+        "ea0259119-s1a2_revium.htm",
+        "ea0251490-s1a1_revium.htm",
+        "ea0230667-s1_revium.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        1865,
+        11407298,
+        2597252,
+        2635889,
+        2657628,
+        2407215,
+        23178842
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Revium Rx.",
+  "ownerOrg": "03 Life Sciences",
+  "phone": "6467684285",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "RVRC"
+  ],
+  "website": ""
+}

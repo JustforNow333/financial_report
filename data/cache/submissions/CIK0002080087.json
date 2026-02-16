@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "LAS VEGAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NV",
+      "stateOrCountryDescription": "NV",
+      "street1": "732 S 6TH STREET",
+      "street2": "#5235",
+      "zipCode": "89101"
+    },
+    "mailing": {
+      "city": "LAS VEGAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NV",
+      "stateOrCountryDescription": "NV",
+      "street1": "732 S 6TH STREET",
+      "street2": "#5235",
+      "zipCode": "89101"
+    }
+  },
+  "category": "",
+  "cik": "0002080087",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-11T05:15:23.000Z",
+        "2026-02-06T21:00:15.000Z",
+        "2026-02-02T05:15:26.000Z",
+        "2026-01-15T02:00:37.000Z",
+        "2026-01-09T21:59:10.000Z",
+        "2025-12-19T22:11:33.000Z",
+        "2025-09-12T19:15:15.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-26-000512",
+        "0001477932-26-000682",
+        "9999999995-26-000396",
+        "0001477932-26-000211",
+        "0001477932-26-000135",
+        "0001477932-25-009103",
+        "0001477932-25-006700"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "POS AM",
+        "EFFECT",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292312",
+        "333-292312",
+        "333-292312",
+        "333-292312",
+        "333-292312",
+        "333-292312",
+        "377-08451"
+      ],
+      "filingDate": [
+        "2026-02-10",
+        "2026-02-06",
+        "2026-01-30",
+        "2026-01-15",
+        "2026-01-09",
+        "2025-12-19",
+        "2025-09-12"
+      ],
+      "filmNumber": [
+        "26618202",
+        "26607477",
+        "26585526",
+        "26534536",
+        "26523758",
+        "251588503",
+        "251311244"
+      ],
+      "form": [
+        "EFFECT",
+        "POS AM",
+        "EFFECT",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "items": [
+        ",,",
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "POS AM",
+        "",
+        "FORM S-1/A",
+        "FORM S-1/A",
+        "FORM S-1",
+        ""
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "mayau_posam.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "mayau_s1a.htm",
+        "mayau_s1a.htm",
+        "mayau_s1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        1760,
+        2092389,
+        1747,
+        149677,
+        2965967,
+        2909148,
+        1946705
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Maywood Acquisition Corp. 2",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "347-414-3373",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "MYX"
+  ],
+  "website": ""
+}

@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap');
 
 :root {
-  --bg-start: #eef7ff;
-  --bg-end: #f6f9ed;
-  --card: #ffffff;
-  --text: #102339;
-  --muted: #4f657a;
-  --accent: #0b6bcb;
-  --gain: #087f5b;
-  --loss: #c23030;
-  --border: #dce7f3;
+  --bg-start: #020a2a;
+  --bg-end: #00123d;
+  --card: #071a47;
+  --text: #d7e8ff;
+  --muted: #95b4de;
+  --accent: #2fb2ff;
+  --gain: #38ff8c;
+  --loss: #ff5757;
+  --border: #1a3e77;
 }
 
 * {
@@ -21,22 +21,30 @@ body {
   font-family: "Space Grotesk", "Segoe UI", sans-serif;
   color: var(--text);
   background: radial-gradient(circle at top left, var(--bg-start), var(--bg-end));
+  font-size: 14px;
 }
 
 .page {
-  max-width: 1200px;
+  max-width: 1120px;
   margin: 0 auto;
-  padding: 28px 18px 40px;
+  padding: 20px 14px 28px;
 }
 
 .hero h1 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.6rem;
+  color: #000000;
+  text-shadow:
+    0 0 4px #ff3434,
+    0 0 8px #ff3434,
+    0 0 16px #ff3434,
+    0 0 28px #ff3434;
 }
 
 .hero p {
-  margin-top: 8px;
+  margin-top: 6px;
   color: var(--muted);
+  font-size: 0.9rem;
 }
 
 .toolbar {
@@ -52,23 +60,24 @@ body {
 
 .toolbar select {
   border: 1px solid var(--border);
-  padding: 8px 10px;
+  padding: 6px 8px;
   border-radius: 8px;
-  background: #fff;
-  min-width: 220px;
+  background: #041334;
+  color: var(--text);
+  min-width: 180px;
 }
 
 .meta {
-  margin-top: 14px;
+  margin-top: 10px;
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.82rem;
 }
 
 .grid {
-  margin-top: 16px;
+  margin-top: 12px;
   display: grid;
   grid-template-columns: 1fr;
-  gap: 16px;
+  gap: 12px;
 }
 
 .card {
@@ -80,7 +89,8 @@ body {
 
 .card h2 {
   margin: 0;
-  padding: 14px 16px;
+  padding: 10px 12px;
+  font-size: 1rem;
   border-bottom: 1px solid var(--border);
 }
 
@@ -91,14 +101,15 @@ body {
 table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.94rem;
+  font-size: 0.82rem;
+  table-layout: fixed;
 }
 
 th,
 td {
   text-align: left;
-  padding: 10px 12px;
-  border-bottom: 1px solid #eef3f8;
+  padding: 7px 8px;
+  border-bottom: 1px solid #123268;
   white-space: nowrap;
 }
 
@@ -109,7 +120,15 @@ th {
 
 .ticker {
   font-weight: 700;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.2px;
+}
+
+.company {
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 210px;
+  line-height: 1.2;
 }
 
 .gain {
@@ -123,9 +142,10 @@ th {
 }
 
 .error {
-  margin-top: 10px;
+  margin-top: 8px;
   color: var(--loss);
   font-weight: 600;
+  font-size: 0.85rem;
 }
 
 @media (min-width: 1024px) {

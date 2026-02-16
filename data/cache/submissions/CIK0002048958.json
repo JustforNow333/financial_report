@@ -1,0 +1,119 @@
+{
+  "addresses": {
+    "business": {
+      "city": "BURNABY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "B101 - 9000 BILL FOX WAY",
+      "street2": null,
+      "zipCode": "V5J 5J3"
+    },
+    "mailing": {
+      "city": "BURNABY",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "B101 - 9000 BILL FOX WAY",
+      "street2": null,
+      "zipCode": "V5J 5J3"
+    }
+  },
+  "category": "",
+  "cik": "0002048958",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-02-03T17:30:58.000Z",
+        "2024-12-17T17:30:22.000Z"
+      ],
+      "accessionNumber": [
+        "0001183740-25-000021",
+        "0001183740-24-000095"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-537206",
+        "021-532422"
+      ],
+      "filingDate": [
+        "2025-02-03",
+        "2024-12-17"
+      ],
+      "filmNumber": [
+        "25583950",
+        "241556870"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        10233,
+        10148
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Stardust Solar Energy Inc.",
+  "ownerOrg": "",
+  "phone": "604-620-6733",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "SUNXF"
+  ],
+  "website": ""
+}

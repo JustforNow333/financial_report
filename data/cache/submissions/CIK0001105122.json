@@ -1,0 +1,209 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "904-409 GRANVILLE STREET",
+      "street2": null,
+      "zipCode": "V6C 1T2"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "904-409 GRANVILLE STREET",
+      "street2": null,
+      "zipCode": "V6C 1T2"
+    }
+  },
+  "category": "",
+  "cik": "0001105122",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-18T11:00:00.000Z",
+        "2025-06-02T12:54:58.000Z",
+        "2024-09-23T10:45:30.000Z",
+        "2024-09-16T13:13:34.000Z",
+        "2024-08-16T13:48:27.000Z",
+        "2021-08-23T10:03:42.000Z",
+        "2021-04-08T13:04:25.000Z",
+        "2012-09-11T08:55:45.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-012980",
+        "0001062993-25-010619",
+        "0001062993-24-016877",
+        "0001062993-24-016634",
+        "0001062993-24-015236",
+        "0001105122-21-000004",
+        "0001105122-21-000002",
+        "0001062993-12-003520"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-552222",
+        "021-547791",
+        "021-524661",
+        "021-521774",
+        "021-521774",
+        "021-410867",
+        "021-395115",
+        "021-183911"
+      ],
+      "filingDate": [
+        "2025-07-18",
+        "2025-06-02",
+        "2024-09-23",
+        "2024-09-16",
+        "2024-08-16",
+        "2021-08-23",
+        "2021-04-08",
+        "2012-09-11"
+      ],
+      "filmNumber": [
+        "251133090",
+        "251013960",
+        "241315125",
+        "241300577",
+        "241215824",
+        "211195581",
+        "21814442",
+        "121084488"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        13958,
+        13927,
+        12973,
+        16199,
+        16120,
+        10878,
+        9766,
+        14315
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "FORAN MINING CORP",
+  "ownerOrg": "",
+  "phone": "604-488-0008",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "FMCXF"
+  ],
+  "website": ""
+}

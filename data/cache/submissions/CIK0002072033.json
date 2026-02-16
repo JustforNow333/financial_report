@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "GRAND CAYMAN",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "71 FORT STREET",
+      "street2": "PO BOX 500",
+      "zipCode": "KY1-1106"
+    },
+    "mailing": {
+      "city": "GRAND CAYMAN",
+      "country": "Cayman Islands",
+      "countryCode": "E9",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "71 FORT STREET",
+      "street2": "PO BOX 500",
+      "zipCode": "KY1-1106"
+    }
+  },
+  "category": "",
+  "cik": "0002072033",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-25T15:30:36.000Z"
+      ],
+      "accessionNumber": [
+        "0001410578-25-001511"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-288951"
+      ],
+      "filingDate": [
+        "2025-07-25"
+      ],
+      "filmNumber": [
+        "251151522"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-1"
+      ],
+      "primaryDocument": [
+        "tmb-20250725xs1.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        5599392
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Caedryn Acquisition Corp I",
+  "ownerOrg": "",
+  "phone": "85260663705",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "CAEA"
+  ],
+  "website": ""
+}

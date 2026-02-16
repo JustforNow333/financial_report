@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "STAMFORD",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "CT",
+      "stateOrCountryDescription": "CT",
+      "street1": "290 HARBOR DRIVE",
+      "street2": "4TH FLOOR",
+      "zipCode": "06902"
+    },
+    "mailing": {
+      "city": "STAMFORD",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "CT",
+      "stateOrCountryDescription": "CT",
+      "street1": "290 HARBOR DRIVE",
+      "street2": "4TH FLOOR",
+      "zipCode": "06902"
+    }
+  },
+  "category": "",
+  "cik": "0002106762",
+  "description": "",
+  "ein": "416775679",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-23T14:01:25.000Z"
+      ],
+      "accessionNumber": [
+        "0001193125-26-020367"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-292896"
+      ],
+      "filingDate": [
+        "2026-01-23"
+      ],
+      "filmNumber": [
+        "26553521"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-1"
+      ],
+      "primaryDocument": [
+        "gbnb-20260123.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        3565126
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Grayscale BNB ETF",
+  "ownerOrg": "",
+  "phone": "212-668-1427",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [],
+  "website": ""
+}

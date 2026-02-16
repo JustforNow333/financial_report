@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CARROS CEDEX",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "I0",
+      "stateOrCountryDescription": "France",
+      "street1": "13E RUE LID",
+      "street2": null,
+      "zipCode": "BP 27 0651"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002029969",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-07-11T13:28:53.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-000904"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-280753"
+      ],
+      "filingDate": [
+        "2024-07-11"
+      ],
+      "filmNumber": [
+        "241111656"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e663771_f6ef-virbac.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        110260
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Virbac SA/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "tickers": [
+    "VRBCF"
+  ],
+  "website": ""
+}

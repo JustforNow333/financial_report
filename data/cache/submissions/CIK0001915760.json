@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "STOCKHOLM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "V7",
+      "stateOrCountryDescription": "Sweden",
+      "street1": "KLARABERGSGATAN 60, 3TR",
+      "street2": null,
+      "zipCode": "11121"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0001915760",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-20T20:49:32.000Z",
+        "2022-03-08T20:41:29.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-26-000042",
+        "0001193805-22-000440"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-292818",
+        "333-263365"
+      ],
+      "filingDate": [
+        "2026-01-20",
+        "2022-03-08"
+      ],
+      "filmNumber": [
+        "26542705",
+        "22721501"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e665106_f6ef-hemnet.htm",
+        "e621424_f6ef-hemnet.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        144939,
+        105720
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Hemnet Group AB/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-816-2456",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "V7",
+  "stateOfIncorporationDescription": "Sweden",
+  "tickers": [],
+  "website": ""
+}

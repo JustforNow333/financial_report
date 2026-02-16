@@ -1,0 +1,179 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CAROL STREAM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "IL",
+      "stateOrCountryDescription": "IL",
+      "street1": "238 TUBEWAY DRIVE",
+      "street2": null,
+      "zipCode": "60188"
+    },
+    "mailing": {
+      "city": "CAROL STREAM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "IL",
+      "stateOrCountryDescription": "IL",
+      "street1": "238 TUBEWAY DRIVE",
+      "street2": null,
+      "zipCode": "60188"
+    }
+  },
+  "category": "",
+  "cik": "0001894942",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-30T10:25:17.000Z",
+        "2025-04-04T14:28:43.000Z",
+        "2023-04-26T16:49:09.000Z",
+        "2023-03-29T09:47:28.000Z",
+        "2023-02-15T10:21:38.000Z",
+        "2021-11-19T17:57:50.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-26-000490",
+        "0001062993-25-007074",
+        "0001062993-23-009530",
+        "0001062993-23-007984",
+        "0001062993-23-003579",
+        "0001894942-21-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-571805",
+        "021-542999",
+        "021-480094",
+        "021-477229",
+        "021-473504",
+        "021-421928"
+      ],
+      "filingDate": [
+        "2026-01-30",
+        "2025-04-04",
+        "2023-04-26",
+        "2023-03-29",
+        "2023-02-15",
+        "2021-11-22"
+      ],
+      "filmNumber": [
+        "26580968",
+        "25813092",
+        "23850483",
+        "23772291",
+        "23634012",
+        "211429639"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10143,
+        10019,
+        10093,
+        10095,
+        9652,
+        5848
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Fresh Factory B.C. Ltd.",
+  "ownerOrg": "",
+  "phone": "312-316-2492",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "FRFAF"
+  ],
+  "website": ""
+}

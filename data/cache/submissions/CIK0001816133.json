@@ -1,0 +1,200 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 2050-1055 WEST GEORGIA STREET",
+      "street2": "PO BOX. 11121",
+      "zipCode": "V6E 3P3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 2050-1055 WEST GEORGIA STREET",
+      "street2": "PO BOX. 11121",
+      "zipCode": "V6E 3P3"
+    }
+  },
+  "category": "",
+  "cik": "0001816133",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-22T14:14:10.000Z",
+        "2025-09-03T19:38:53.000Z",
+        "2025-03-25T15:38:29.000Z",
+        "2025-03-25T15:21:13.000Z",
+        "2024-09-27T08:43:51.000Z",
+        "2022-01-26T15:57:19.000Z",
+        "2020-06-30T21:14:55.000Z"
+      ],
+      "accessionNumber": [
+        "0001816133-25-000005",
+        "0001816133-25-000003",
+        "0001816133-25-000002",
+        "0001816133-25-000001",
+        "0001816133-24-000002",
+        "0001816133-22-000001",
+        "0001816133-20-000002"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-561685",
+        "021-556574",
+        "021-542089",
+        "021-542089",
+        "021-525175",
+        "021-430924",
+        "021-370057"
+      ],
+      "filingDate": [
+        "2025-10-22",
+        "2025-09-04",
+        "2025-03-25",
+        "2025-03-25",
+        "2024-09-27",
+        "2022-01-26",
+        "2020-07-01"
+      ],
+      "filmNumber": [
+        "251409714",
+        "251291536",
+        "25768046",
+        "25767898",
+        "241330662",
+        "22557774",
+        "201003798"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b,4a5",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9584,
+        9723,
+        9760,
+        9665,
+        9891,
+        9034,
+        8730
+      ]
+    }
+  },
+  "fiscalYearEnd": "1031",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2020-07-01T00:00:00.000Z",
+      "name": "ISRAEL CAPITAL CANADA CORP.",
+      "to": "2022-01-26T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Frequency Exchange Corp.",
+  "ownerOrg": "",
+  "phone": "250-732-7170",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "FRECF"
+  ],
+  "website": ""
+}

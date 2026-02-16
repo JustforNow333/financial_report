@@ -1,0 +1,155 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 1430, 800 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": null
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 1430, 800 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": null
+    }
+  },
+  "category": "",
+  "cik": "0001703292",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-05T16:09:52.000Z",
+        "2020-11-27T13:04:53.000Z",
+        "2018-02-07T18:22:07.000Z",
+        "2017-04-12T14:52:54.000Z"
+      ],
+      "accessionNumber": [
+        "0001183740-25-000034",
+        "0001183740-20-000256",
+        "0001183740-18-000028",
+        "0001183740-17-000065"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-545249",
+        "021-381605",
+        "021-305096",
+        "021-284624"
+      ],
+      "filingDate": [
+        "2025-05-05",
+        "2020-11-27",
+        "2018-02-08",
+        "2017-04-12"
+      ],
+      "filmNumber": [
+        "25913009",
+        "201354318",
+        "18582272",
+        "17757830"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        8520,
+        8662,
+        11032,
+        7698
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2017-04-12T00:00:00.000Z",
+      "name": "KENADYR MINING (HOLDINGS) CORP",
+      "to": "2020-11-27T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "KENADYR METALS CORP",
+  "ownerOrg": "",
+  "phone": "604-687-7130",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "KNDYF"
+  ],
+  "website": ""
+}

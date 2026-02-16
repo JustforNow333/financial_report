@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SURRY HILLS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "C3",
+      "stateOrCountryDescription": "Australia",
+      "street1": "LEVEL 2",
+      "street2": "64 KIPPAX STREET",
+      "zipCode": "NSW 2010"
+    },
+    "mailing": {
+      "city": "SURRY HILLS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "C3",
+      "stateOrCountryDescription": "Australia",
+      "street1": "LEVEL 2",
+      "street2": "64 KIPPAX STREET",
+      "zipCode": "NSW 2010"
+    }
+  },
+  "category": "",
+  "cik": "0002023275",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-06-07T12:27:05.000Z"
+      ],
+      "accessionNumber": [
+        "0002023275-24-000002"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-515435"
+      ],
+      "filingDate": [
+        "2024-06-07"
+      ],
+      "filmNumber": [
+        "241028267"
+      ],
+      "form": [
+        "D"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        "06b"
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        5927
+      ]
+    }
+  },
+  "fiscalYearEnd": "0630",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Guzman y Gomez Ltd",
+  "ownerOrg": "",
+  "phone": "61 2 9191 0900",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "tickers": [
+    "GYGLF"
+  ],
+  "website": ""
+}

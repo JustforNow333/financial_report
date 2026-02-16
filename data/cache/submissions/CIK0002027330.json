@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002027330",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-30T09:32:10.000Z",
+        "2024-06-20T09:51:31.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001123",
+        "0001019155-24-000182"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-289073",
+        "333-280329"
+      ],
+      "filingDate": [
+        "2025-07-29",
+        "2024-06-20"
+      ],
+      "filmNumber": [
+        "251164377",
+        "241054464"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e664744_f6ef-sh.htm",
+        "sugiholdingsf6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        111603,
+        102948
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Sugi Holdings Co., Ltd./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3134",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "SGIHY",
+    "SGIPF"
+  ],
+  "website": ""
+}

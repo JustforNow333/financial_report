@@ -1,0 +1,179 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1210 - 1130 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6E 4A4"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1210 - 1130 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6E 4A4"
+    }
+  },
+  "category": "",
+  "cik": "0001817161",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-02T15:42:21.000Z",
+        "2023-02-17T19:47:26.000Z",
+        "2021-03-11T20:07:12.000Z",
+        "2021-03-09T15:36:51.000Z",
+        "2020-10-13T13:01:59.000Z",
+        "2020-07-29T16:52:54.000Z"
+      ],
+      "accessionNumber": [
+        "0001817161-25-000002",
+        "0001085037-23-000023",
+        "0001817161-21-000002",
+        "0001817161-21-000001",
+        "0001817161-20-000002",
+        "0001817161-20-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-556389",
+        "021-473844",
+        "021-392027",
+        "021-391657",
+        "021-377683",
+        "021-372065"
+      ],
+      "filingDate": [
+        "2025-09-02",
+        "2023-02-21",
+        "2021-03-12",
+        "2021-03-09",
+        "2020-10-13",
+        "2020-07-29"
+      ],
+      "filmNumber": [
+        "251284965",
+        "23644819",
+        "21735030",
+        "21725599",
+        "201235710",
+        "201057708"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b,4a5",
+        "06b,4a5",
+        "06b,4a5",
+        "06b,4a5"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11737,
+        10062,
+        10685,
+        10755,
+        9902,
+        9113
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Headwater Gold Inc.",
+  "ownerOrg": "",
+  "phone": "604-681-9100",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "HWAUF"
+  ],
+  "website": ""
+}

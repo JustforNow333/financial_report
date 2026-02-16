@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "2500 - 700 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V7Y 1B3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "2500 - 700 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V7Y 1B3"
+    }
+  },
+  "category": "",
+  "cik": "0002006413",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-08T20:39:11.000Z",
+        "2024-10-17T17:17:11.000Z",
+        "2024-02-20T16:48:37.000Z",
+        "2024-01-24T15:39:16.000Z",
+        "2024-01-11T21:21:35.000Z"
+      ],
+      "accessionNumber": [
+        "0001727689-25-000072",
+        "0001727689-24-000124",
+        "0001727689-24-000022",
+        "0001727689-24-000011",
+        "0001727689-24-000006"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-557011",
+        "021-527138",
+        "021-505655",
+        "021-503323",
+        "021-502260"
+      ],
+      "filingDate": [
+        "2025-09-09",
+        "2024-10-17",
+        "2024-02-20",
+        "2024-01-24",
+        "2024-01-12"
+      ],
+      "filmNumber": [
+        "251301440",
+        "241378369",
+        "24654350",
+        "24556224",
+        "24530431"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9586,
+        10279,
+        9977,
+        9332,
+        9999
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Dryden Gold Corp.",
+  "ownerOrg": "",
+  "phone": "604-671-0918",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "DRYGF"
+  ],
+  "website": ""
+}

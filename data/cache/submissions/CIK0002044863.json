@@ -1,0 +1,136 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TOKYO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "M0",
+      "stateOrCountryDescription": "Japan",
+      "street1": "3-19-6, HIGASHIUENO TAITO-KU",
+      "street2": null,
+      "zipCode": "110-8614"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002044863",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-12-26T12:49:26.000Z",
+        "2024-11-21T16:45:29.000Z",
+        "2024-11-15T17:20:27.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-24-131630",
+        "0001193805-24-001405",
+        "0001193805-24-001382"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-284045",
+        "333-283390",
+        "333-283282"
+      ],
+      "filingDate": [
+        "2024-12-26",
+        "2024-11-21",
+        "2024-11-15"
+      ],
+      "filmNumber": [
+        "241580053",
+        "241485107",
+        "241468943"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2431888d4_f6ef.htm",
+        "e664040_f6ef-tokyometro.htm",
+        "e664033_f6ef-tokyometro.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        139602,
+        144715,
+        112174
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Tokyo Metro Co., Ltd./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "TKMTY",
+    "TKMEF"
+  ],
+  "website": ""
+}

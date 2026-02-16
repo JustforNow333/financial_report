@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002091028",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-06T05:15:13.000Z",
+        "2025-12-22T16:18:14.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-26-000068",
+        "0001019155-25-000506"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-292335",
+        "333-292335"
+      ],
+      "filingDate": [
+        "2026-01-05",
+        "2025-12-22"
+      ],
+      "filmNumber": [
+        "26509312",
+        "251590640"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "metalliumf6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        1670,
+        326613
+      ]
+    }
+  },
+  "fiscalYearEnd": "1225",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Metallium Limited/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3221",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "tickers": [],
+  "website": ""
+}

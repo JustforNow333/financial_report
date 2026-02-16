@@ -1,0 +1,205 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001437672",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-10T20:08:52.000Z",
+        "2020-12-07T18:26:46.000Z",
+        "2019-11-22T21:06:21.000Z",
+        "2019-08-07T14:32:16.000Z",
+        "2018-10-11T17:03:12.000Z",
+        "2017-09-29T16:41:38.000Z",
+        "2015-02-18T18:57:50.000Z",
+        "2008-10-21T19:22:08.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-119950",
+        "0001019155-20-000435",
+        "0001193805-19-001485",
+        "0001193805-19-000708",
+        "0001193805-18-001212",
+        "0001193805-17-002807",
+        "0001193805-15-000278",
+        "0001019155-08-000607"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-292046",
+        "333-154560",
+        "333-234836",
+        "333-233072",
+        "333-227779",
+        "333-202148",
+        "333-202148",
+        "333-154560"
+      ],
+      "filingDate": [
+        "2025-12-10",
+        "2020-12-07",
+        "2019-11-22",
+        "2019-08-06",
+        "2018-10-11",
+        "2017-09-29",
+        "2015-02-18",
+        "2008-10-21"
+      ],
+      "filmNumber": [
+        "251561739",
+        "201372169",
+        "191241581",
+        "191004231",
+        "181117830",
+        "171110294",
+        "15627209",
+        "081133333"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "F-6 POS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "tm2525335d7_f6ef.htm",
+        "prysmianf6pos.htm",
+        "e618706_f6ef-ps.htm",
+        "e618587_f6ef-prysmian.htm",
+        "e617983_f6ef-prysmian.htm",
+        "e616959_f6pos-prysmian.htm",
+        "e613366_f6ef-prysimian.htm",
+        "prysmianunsponsoredformf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        142398,
+        95723,
+        131700,
+        125894,
+        113232,
+        125619,
+        254946,
+        78189
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Prysmian S.p.A.",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [],
+  "website": ""
+}

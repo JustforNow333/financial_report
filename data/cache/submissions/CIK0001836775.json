@@ -1,0 +1,127 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": "BRITISH COLUMBIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "510 WEST GEORGIA STREET, SUITE 1800",
+      "street2": null,
+      "zipCode": "V6B 0M3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": "BRITISH COLUMBIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "510 WEST GEORGIA STREET, SUITE 1800",
+      "street2": null,
+      "zipCode": "V6B 0M3"
+    }
+  },
+  "category": "",
+  "cik": "0001836775",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-06-11T22:00:41.000Z",
+        "2020-12-18T22:12:07.000Z"
+      ],
+      "accessionNumber": [
+        "0001836775-25-000004",
+        "0001062993-20-006496"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-548717",
+        "021-383760"
+      ],
+      "filingDate": [
+        "2025-06-12",
+        "2020-12-18"
+      ],
+      "filmNumber": [
+        "251041111",
+        "201401462"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        12861,
+        9720
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2020-12-18T05:00:00.000Z",
+      "name": "WeCommerce Holdings Ltd.",
+      "to": "2020-12-18T05:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Tiny Ltd.",
+  "ownerOrg": "",
+  "phone": "(250) 888-9424",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "TNYZF",
+    "TNYZD"
+  ],
+  "website": ""
+}

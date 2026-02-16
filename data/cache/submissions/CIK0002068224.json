@@ -1,0 +1,205 @@
+{
+  "addresses": {
+    "business": {
+      "city": "KOWLOON",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "OFFICE D, 22/F, TOWER A, CAPITAL TOWER",
+      "street2": "NO. 38 WAI YIP STREET",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "KOWLOON",
+      "country": "Hong Kong",
+      "countryCode": "K3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "OFFICE D, 22/F, TOWER A, CAPITAL TOWER",
+      "street2": "NO. 38 WAI YIP STREET",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002068224",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-20T14:46:00.000Z",
+        "2025-10-16T16:29:46.000Z",
+        "2025-09-11T17:59:10.000Z",
+        "2025-08-29T15:17:19.000Z",
+        "2025-08-05T16:18:18.000Z",
+        "2025-07-09T13:59:16.000Z",
+        "2025-06-18T17:27:05.000Z",
+        "2025-05-14T15:13:54.000Z"
+      ],
+      "accessionNumber": [
+        "0001185185-26-000205",
+        "0001185185-25-001453",
+        "0001185185-25-001169",
+        "0001185185-25-001095",
+        "0001185185-25-000899",
+        "0001185185-25-000743",
+        "0001185185-25-000669",
+        "0001185185-25-000446"
+      ],
+      "act": [
+        "33",
+        "33",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1",
+        "F-1/A",
+        "FWP",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292813",
+        "333-289240",
+        "333-289240",
+        "333-289240",
+        "333-289240",
+        "377-08007",
+        "377-08007",
+        "377-08007"
+      ],
+      "filingDate": [
+        "2026-01-20",
+        "2025-10-16",
+        "2025-09-11",
+        "2025-08-29",
+        "2025-08-05",
+        "2025-07-09",
+        "2025-06-18",
+        "2025-05-14"
+      ],
+      "filmNumber": [
+        "26541404",
+        "251397019",
+        "251308013",
+        "251277712",
+        "251183806",
+        "251112487",
+        "251056175",
+        "25943597"
+      ],
+      "form": [
+        "F-1",
+        "F-1/A",
+        "FWP",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM F-1",
+        "FORM F-1/A2",
+        "FORM FWP",
+        "FORM F-1/A",
+        "FORM F-1",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "kwfgf1120825.htm",
+        "kwfgf1a2101625.htm",
+        "kwfgroupfwp091125.htm",
+        "kwfgroupf1a1082025.htm",
+        "kwfgroupf1072425.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        6485346,
+        2310847,
+        23674915,
+        1902607,
+        4093990,
+        2274439,
+        2266842,
+        2252596
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "KWF Group Holding Ltd",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "852-2332-6168",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

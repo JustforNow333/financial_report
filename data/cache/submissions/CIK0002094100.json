@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "JPMORGAN ADR DEPARTMENT",
+      "street2": "270 PARK AVE., FLOOR 8",
+      "zipCode": "10017"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "JPMORGAN ADR DEPARTMENT",
+      "street2": "270 PARK AVE., FLOOR 8",
+      "zipCode": "10017"
+    }
+  },
+  "category": "",
+  "cik": "0002094100",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-28T18:29:05.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001517"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-291115"
+      ],
+      "filingDate": [
+        "2025-10-28"
+      ],
+      "filmNumber": [
+        "251423453"
+      ],
+      "form": [
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e664936_f6-ptmedco.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        413952
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PT Medco Energi Internasional Tbk/ADR",
+  "ownerOrg": "",
+  "phone": "302-552-0866",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "K8",
+  "stateOfIncorporationDescription": "Indonesia",
+  "tickers": [],
+  "website": ""
+}

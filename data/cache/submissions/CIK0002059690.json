@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002059690",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-22T10:53:16.000Z",
+        "2025-08-11T13:27:09.000Z",
+        "2025-03-11T16:27:27.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001223",
+        "0001193805-25-001170",
+        "0001019155-25-000069"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-289477",
+        "333-289477",
+        "333-285716"
+      ],
+      "filingDate": [
+        "2025-08-22",
+        "2025-08-11",
+        "2025-03-11"
+      ],
+      "filmNumber": [
+        "251243583",
+        "251201284",
+        "25727983"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e664801_f6pos-ptggt.htm",
+        "e664772_f6ef-ptggt.htm",
+        "ptgotof6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        104022,
+        149023,
+        108071
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PT GoTo Gojek Tokopedia Tbk/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3134",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "GGTKY"
+  ],
+  "website": ""
+}

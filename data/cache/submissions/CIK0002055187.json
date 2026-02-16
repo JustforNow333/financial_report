@@ -1,0 +1,130 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ATHENS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "J3",
+      "stateOrCountryDescription": "Greece",
+      "street1": "157 C KARAMANLIE AVE., VOULA",
+      "street2": null,
+      "zipCode": "16673"
+    },
+    "mailing": {
+      "city": "ATHENS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "J3",
+      "stateOrCountryDescription": "Greece",
+      "street1": "157 C KARAMANLIE AVE., VOULA",
+      "street2": null,
+      "zipCode": "16673"
+    }
+  },
+  "category": "",
+  "cik": "0002055187",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-23T22:28:22.000Z",
+        "2025-08-11T23:42:46.000Z",
+        "2025-03-25T01:57:23.000Z"
+      ],
+      "accessionNumber": [
+        "0000919574-25-007491",
+        "0000919574-25-004442",
+        "0000919574-25-002093"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292439",
+        "377-07814",
+        "377-07814"
+      ],
+      "filingDate": [
+        "2025-12-23",
+        "2025-08-12",
+        "2025-03-25"
+      ],
+      "filmNumber": [
+        "251601855",
+        "251203524",
+        "25765586"
+      ],
+      "form": [
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "d12045137_f-1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        3308440,
+        3270167,
+        3169408
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "OCEANDRIVER INC.",
+  "ownerOrg": "01 Energy & Transportation",
+  "phone": "210-892-0250",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [],
+  "website": ""
+}

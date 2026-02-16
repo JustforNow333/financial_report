@@ -1,0 +1,260 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SINGAPORE",
+      "country": "Singapore",
+      "countryCode": "U0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "ALICE@MEDIAOPOLIS",
+      "street2": "29 MEDIA CIRCLE #05-22",
+      "zipCode": "138565"
+    },
+    "mailing": {
+      "city": "SINGAPORE",
+      "country": "Singapore",
+      "countryCode": "U0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "ALICE@MEDIAOPOLIS",
+      "street2": "29 MEDIA CIRCLE #05-22",
+      "zipCode": "138565"
+    }
+  },
+  "category": "",
+  "cik": "0002088256",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-29T21:24:04.000Z",
+        "2026-01-27T01:45:10.000Z",
+        "2026-01-20T14:29:40.000Z",
+        "2026-01-14T22:17:03.000Z",
+        "2026-01-12T18:28:22.000Z",
+        "2025-12-09T11:20:49.000Z",
+        "2025-12-05T12:58:02.000Z",
+        "2025-12-03T14:44:22.000Z",
+        "2025-10-22T20:05:26.000Z",
+        "2025-10-21T21:17:42.000Z",
+        "2025-10-20T15:30:37.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-009801",
+        "0001213900-26-007873",
+        "0001213900-26-005428",
+        "0001213900-26-004420",
+        "0001213900-26-003252",
+        "0001213900-25-119427",
+        "0001213900-25-118468",
+        "0001213900-25-117618",
+        "0001213900-25-101214",
+        "0001213900-25-100898",
+        "0001213900-25-098707"
+      ],
+      "act": [
+        "33",
+        "",
+        "",
+        "33",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "33",
+        ""
+      ],
+      "core_type": [
+        "F-4/A",
+        "425",
+        "425",
+        "F-4",
+        "425",
+        "425",
+        "425",
+        "425",
+        "425",
+        "DRS",
+        "425"
+      ],
+      "fileNumber": [
+        "333-292737",
+        "",
+        "",
+        "333-292737",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "377-08595",
+        ""
+      ],
+      "filingDate": [
+        "2026-01-30",
+        "2026-01-27",
+        "2026-01-20",
+        "2026-01-14",
+        "2026-01-12",
+        "2025-12-09",
+        "2025-12-05",
+        "2025-12-03",
+        "2025-10-22",
+        "2025-10-21",
+        "2025-10-14"
+      ],
+      "filmNumber": [
+        "26580204",
+        "",
+        "",
+        "26533969",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "251407956",
+        ""
+      ],
+      "form": [
+        "F-4/A",
+        "425",
+        "425",
+        "F-4",
+        "425",
+        "425",
+        "425",
+        "425",
+        "425",
+        "DRS",
+        "425"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "FORM 425",
+        "FORM 425",
+        "REGISTRATION STATEMENT",
+        "FORM 425",
+        "FORM 425",
+        "FORM 425",
+        "FORM 425",
+        "FORM 425",
+        "",
+        "FORM 425"
+      ],
+      "primaryDocument": [
+        "ea0261018-05.htm",
+        "ea0274136-425_horizon.htm",
+        "ea027329002-425_horizon.htm",
+        "ea0261018-03.htm",
+        "ea027254201-425_horizon.htm",
+        "ea0268961-425_rosehold.htm",
+        "ea026862702-425_rose.htm",
+        "ea026830402-425_rose.htm",
+        "ea026209902-425_rose.htm",
+        "filename1.htm",
+        "ea0261155-425_rose.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        25318277,
+        36358,
+        105600,
+        25562848,
+        24427807,
+        28563,
+        336356,
+        72673,
+        54509,
+        24067618,
+        152129971
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2025-10-14T00:00:00.000Z",
+      "name": "Rose Holdco Pte. Ltd.",
+      "to": "2025-12-09T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Horizon Quantum Holdings Pte. Ltd.",
+  "ownerOrg": "06 Technology",
+  "phone": "6581015024",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "U0",
+  "stateOfIncorporationDescription": "Singapore",
+  "tickers": [
+    "HQ"
+  ],
+  "website": ""
+}

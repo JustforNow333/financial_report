@@ -1,42 +1,61 @@
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import date
 
 from flask import Blueprint, current_app, jsonify, request
 from sqlalchemy import asc, desc, distinct, func, or_, select
 from sqlalchemy.orm import Session
 
 from .db import get_session
-from .models import Snapshot, Symbol
+from .models import Company, DailyBar, Symbol, Ticker
 
 api_bp = Blueprint("api", __name__, url_prefix="/api")
 
 
-def get_latest_asof_ts(session: Session) -> datetime | None:
-    return session.scalar(select(func.max(Snapshot.asof_ts)))
+def get_latest_asof_date(session: Session) -> date | None:
+    return session.scalar(select(func.max(DailyBar.date)))
 
 
-def _as_utc_datetime(ts: datetime) -> datetime:
-    if ts.tzinfo is None:
-        return ts.replace(tzinfo=timezone.utc)
-    return ts.astimezone(timezone.utc)
+def _mover_industry_expression():
+    return func.coalesce(Company.industry, Symbol.industry_label, Ticker.sic_description)
 
 
-def _serialize_snapshot_row(
-    snapshot: Snapshot,
-    symbol: Symbol,
+def _serialize_mover_row(
+    daily_bar: DailyBar,
+    ticker_row: Ticker | None,
+    symbol: Symbol | None,
+    company: Company | None,
     *,
     rank: int,
 ) -> dict[str, object]:
+    industry_value = None
+    if company is not None and company.industry:
+        industry_value = company.industry
+    elif symbol is not None and symbol.industry_label:
+        industry_value = symbol.industry_label
+    elif ticker_row is not None:
+        industry_value = ticker_row.sic_description
+
     return {
         "rank": rank,
-        "ticker": symbol.ticker,
-        "name": symbol.name,
-        "industry_label": symbol.industry_label,
-        "last_price": snapshot.last_price,
-        "prev_close": snapshot.prev_close,
-        "pct_change": snapshot.pct_change,
-        "volume": snapshot.day_volume,
+        "ticker": daily_bar.ticker,
+        "name": (
+            ticker_row.company_name
+            if ticker_row and ticker_row.company_name
+            else (company.name if company and company.name else (symbol.name if symbol else None))
+        ),
+        "industry_label": industry_value,
+        "last_price": daily_bar.close,
+        "prev_close": (
+            (daily_bar.close / (1.0 + daily_bar.pct_change))
+            if daily_bar.pct_change is not None and (1.0 + daily_bar.pct_change) != 0
+            else None
+        ),
+        "pct_change": (daily_bar.pct_change * 100.0) if daily_bar.pct_change is not None else None,
+        "volume": daily_bar.volume,
+        "asof_date": daily_bar.date.isoformat(),
+        "provider": "polygon_grouped_daily_bars",
+        "is_outlier": bool(daily_bar.pct_change is not None and abs(daily_bar.pct_change) > 0.80),
     }
 
 
@@ -51,10 +70,12 @@ def _apply_mover_quality_filters(
         return stmt
 
     return stmt.where(
-        Snapshot.last_price.is_not(None),
-        Snapshot.last_price >= min_last_price,
-        Snapshot.day_volume.is_not(None),
-        Snapshot.day_volume >= min_day_volume,
+        DailyBar.close.is_not(None),
+        DailyBar.close >= min_last_price,
+        or_(
+            DailyBar.volume.is_(None),
+            DailyBar.volume >= min_day_volume,
+        ),
     )
 
 
@@ -63,10 +84,38 @@ def _apply_industry_filter(stmt, industry: str | None):
         return stmt, "All"
 
     normalized = industry.strip()
-    if normalized.lower() == "unlabeled":
-        return stmt.where(Symbol.industry_label.is_(None)), "Unlabeled"
+    industry_expr = _mover_industry_expression()
 
-    return stmt.where(func.lower(Symbol.industry_label) == normalized.lower()), normalized
+    if normalized.lower() == "unlabeled":
+        return stmt.where(industry_expr.is_(None)), "Unlabeled"
+
+    return stmt.where(func.lower(industry_expr) == normalized.lower()), normalized
+
+
+def _build_movers_base_stmt(
+    *,
+    asof_date: date,
+    apply_filters: bool,
+    min_last_price: float,
+    min_day_volume: int,
+):
+    stmt = (
+        select(DailyBar, Ticker, Symbol, Company)
+        .outerjoin(Ticker, Ticker.ticker == DailyBar.ticker)
+        .outerjoin(Symbol, Symbol.ticker == DailyBar.ticker)
+        .outerjoin(Company, Company.symbol == DailyBar.ticker)
+        .where(
+            DailyBar.date == asof_date,
+            DailyBar.pct_change.is_not(None),
+            func.abs(DailyBar.pct_change) <= 0.80,
+        )
+    )
+    return _apply_mover_quality_filters(
+        stmt,
+        apply_filters=apply_filters,
+        min_last_price=min_last_price,
+        min_day_volume=min_day_volume,
+    )
 
 
 def get_latest_movers(
@@ -77,38 +126,55 @@ def get_latest_movers(
     apply_filters: bool,
     min_last_price: float,
     min_day_volume: int,
-) -> tuple[datetime | None, str, list[dict[str, object]], list[dict[str, object]]]:
-    asof_ts = get_latest_asof_ts(session)
-    if asof_ts is None:
-        return None, "All", [], []
+) -> tuple[date | None, str, list[dict[str, object]], list[dict[str, object]], int, int, str]:
+    asof_date = get_latest_asof_date(session)
+    if asof_date is None:
+        return None, "All", [], [], 0, 0, "polygon_grouped_daily_bars"
 
-    base_stmt = (
-        select(Snapshot, Symbol)
-        .join(Symbol, Symbol.id == Snapshot.symbol_id)
-        .where(Snapshot.asof_ts == asof_ts, Snapshot.pct_change.is_not(None))
-    )
-    base_stmt = _apply_mover_quality_filters(
-        base_stmt,
+    base_stmt = _build_movers_base_stmt(
+        asof_date=asof_date,
         apply_filters=apply_filters,
         min_last_price=min_last_price,
         min_day_volume=min_day_volume,
     )
+
+    total_symbols_considered = int(
+        session.scalar(select(func.count()).select_from(base_stmt.subquery())) or 0
+    )
+
+    outliers_excluded_count = int(
+        session.scalar(
+            select(func.count())
+            .select_from(DailyBar)
+            .where(DailyBar.date == asof_date, DailyBar.pct_change.is_not(None), func.abs(DailyBar.pct_change) > 0.80)
+        )
+        or 0
+    )
+
     base_stmt, industry_value = _apply_industry_filter(base_stmt, industry)
 
-    gainers_rows = session.execute(
-        base_stmt.order_by(desc(Snapshot.pct_change)).limit(limit)
-    ).all()
-    losers_rows = session.execute(base_stmt.order_by(asc(Snapshot.pct_change)).limit(limit)).all()
+    gainers_rows = session.execute(base_stmt.order_by(desc(DailyBar.pct_change)).limit(limit)).all()
+    losers_rows = session.execute(base_stmt.order_by(asc(DailyBar.pct_change)).limit(limit)).all()
 
     gainers = [
-        _serialize_snapshot_row(snapshot, symbol, rank=i)
-        for i, (snapshot, symbol) in enumerate(gainers_rows, start=1)
+        _serialize_mover_row(daily_bar, ticker_row, symbol, company, rank=i)
+        for i, (daily_bar, ticker_row, symbol, company) in enumerate(gainers_rows, start=1)
     ]
     losers = [
-        _serialize_snapshot_row(snapshot, symbol, rank=i)
-        for i, (snapshot, symbol) in enumerate(losers_rows, start=1)
+        _serialize_mover_row(daily_bar, ticker_row, symbol, company, rank=i)
+        for i, (daily_bar, ticker_row, symbol, company) in enumerate(losers_rows, start=1)
     ]
-    return asof_ts, industry_value, gainers, losers
+
+    provider = "polygon_grouped_daily_bars"
+    return (
+        asof_date,
+        industry_value,
+        gainers,
+        losers,
+        total_symbols_considered,
+        outliers_excluded_count,
+        provider,
+    )
 
 
 def get_latest_snapshots(
@@ -119,49 +185,62 @@ def get_latest_snapshots(
     apply_filters: bool,
     min_last_price: float,
     min_day_volume: int,
-) -> tuple[datetime | None, list[dict[str, object]]]:
-    asof_ts = get_latest_asof_ts(session)
-    if asof_ts is None:
-        return None, []
+) -> tuple[date | None, list[dict[str, object]], str, int]:
+    asof_date = get_latest_asof_date(session)
+    if asof_date is None:
+        return None, [], "polygon_grouped_daily_bars", 0
 
-    order_column = desc(Snapshot.pct_change) if sort == "pct_change_desc" else asc(Snapshot.pct_change)
+    order_column = desc(DailyBar.pct_change) if sort == "pct_change_desc" else asc(DailyBar.pct_change)
 
-    stmt = (
-        select(Snapshot, Symbol)
-        .join(Symbol, Symbol.id == Snapshot.symbol_id)
-        .where(Snapshot.asof_ts == asof_ts)
-        .order_by(order_column)
-        .limit(limit)
-    )
-
-    stmt = _apply_mover_quality_filters(
-        stmt,
+    stmt = _build_movers_base_stmt(
+        asof_date=asof_date,
         apply_filters=apply_filters,
         min_last_price=min_last_price,
         min_day_volume=min_day_volume,
     )
 
-    rows = session.execute(stmt).all()
+    total_symbols_considered = int(
+        session.scalar(select(func.count()).select_from(stmt.subquery())) or 0
+    )
+
+    rows = session.execute(stmt.order_by(order_column).limit(limit)).all()
     snapshots = [
-        _serialize_snapshot_row(snapshot, symbol, rank=i)
-        for i, (snapshot, symbol) in enumerate(rows, start=1)
+        _serialize_mover_row(daily_bar, ticker_row, symbol, company, rank=i)
+        for i, (daily_bar, ticker_row, symbol, company) in enumerate(rows, start=1)
     ]
-    return asof_ts, snapshots
+
+    provider = "polygon_grouped_daily_bars"
+    return asof_date, snapshots, provider or "polygon_grouped_daily_bars", total_symbols_considered
 
 
 @api_bp.get("/industries")
 def industries() -> object:
     session = get_session()
 
-    labels = session.execute(
-        select(distinct(Symbol.industry_label))
-        .where(Symbol.industry_label.is_not(None), Symbol.industry_label != "")
-        .order_by(Symbol.industry_label.asc())
-    ).scalars().all()
+    labels_set: set[str] = set()
+    for column in (Company.industry, Symbol.industry_label, Ticker.sic_description):
+        values = session.execute(
+            select(distinct(column)).where(column.is_not(None), column != "")
+        ).scalars().all()
+        labels_set.update(str(value).strip() for value in values if value and str(value).strip())
 
-    unlabeled_count = session.scalar(
-        select(func.count(Symbol.id)).where(Symbol.industry_label.is_(None))
-    )
+    labels = sorted(labels_set, key=lambda value: value.lower())
+
+    asof_date = get_latest_asof_date(session)
+    unlabeled_count = 0
+    if asof_date is not None:
+        industry_expr = _mover_industry_expression()
+        unlabeled_count = int(
+            session.scalar(
+                select(func.count())
+                .select_from(DailyBar)
+                .outerjoin(Ticker, Ticker.ticker == DailyBar.ticker)
+                .outerjoin(Symbol, Symbol.ticker == DailyBar.ticker)
+                .outerjoin(Company, Company.symbol == DailyBar.ticker)
+                .where(DailyBar.date == asof_date, industry_expr.is_(None))
+            )
+            or 0
+        )
 
     response_labels = ["All", *labels]
     if unlabeled_count and unlabeled_count > 0:
@@ -170,18 +249,58 @@ def industries() -> object:
     return jsonify({"industries": response_labels})
 
 
+@api_bp.get("/status")
+def api_status() -> object:
+    session = get_session()
+    asof_date = session.scalar(select(func.max(DailyBar.date)))
+    has_data = asof_date is not None
+
+    date_value = None
+    snapshot_count = 0
+    provider = "polygon"
+    if asof_date is not None:
+        date_value = asof_date.isoformat()
+        snapshot_count = int(
+            session.scalar(select(func.count()).where(DailyBar.date == asof_date)) or 0
+        )
+        provider = "polygon_grouped_daily_bars"
+
+    return jsonify(
+        {
+            "status": "ok",
+            "has_data": has_data,
+            "asof_date": date_value,
+            "asof_ts": f"{date_value}T00:00:00+00:00" if date_value else None,
+            "snapshot_count": snapshot_count,
+            "provider": provider,
+        }
+    )
+
+
 @api_bp.get("/movers/latest")
 def movers_latest() -> tuple[object, int] | object:
     session = get_session()
 
-    limit = int(current_app.config.get("MOVERS_LIMIT", 10))
+    try:
+        limit = int(request.args.get("limit", str(current_app.config.get("MOVERS_LIMIT", 10))))
+    except ValueError:
+        return jsonify({"error": "limit must be an integer"}), 400
+
     limit = max(1, min(limit, 100))
     industry = request.args.get("industry")
     apply_filters = bool(current_app.config.get("MOVER_FILTER_ENABLED", True))
     min_last_price = float(current_app.config.get("MIN_LAST_PRICE", 1.0))
     min_day_volume = int(current_app.config.get("MIN_DAY_VOLUME", 100000))
 
-    asof_ts, industry_value, gainers, losers = get_latest_movers(
+    (
+        asof_date,
+        industry_value,
+        gainers,
+        losers,
+        total_symbols_considered,
+        outliers_excluded_count,
+        provider,
+    ) = get_latest_movers(
         session,
         limit=limit,
         industry=industry,
@@ -189,14 +308,17 @@ def movers_latest() -> tuple[object, int] | object:
         min_last_price=min_last_price,
         min_day_volume=min_day_volume,
     )
-    if asof_ts is None:
-        return jsonify({"error": "No snapshots available"}), 404
+    if asof_date is None:
+        return jsonify({"error": "No daily bars available"}), 404
 
-    asof_utc = _as_utc_datetime(asof_ts)
     return jsonify(
         {
-            "asof_ts": asof_utc.isoformat(),
+            "asof_date": asof_date.isoformat(),
+            "asof_ts": f"{asof_date.isoformat()}T00:00:00+00:00",
             "industry": industry_value,
+            "provider": provider,
+            "total_symbols_considered": total_symbols_considered,
+            "outliers_excluded_count": outliers_excluded_count,
             "gainers": gainers,
             "losers": losers,
         }
@@ -221,7 +343,7 @@ def snapshots_latest() -> tuple[object, int] | object:
     min_last_price = float(current_app.config.get("MIN_LAST_PRICE", 1.0))
     min_day_volume = int(current_app.config.get("MIN_DAY_VOLUME", 100000))
 
-    asof_ts, snapshots = get_latest_snapshots(
+    asof_date, snapshots, provider, total_symbols_considered = get_latest_snapshots(
         session,
         limit=limit,
         sort=sort,
@@ -229,17 +351,23 @@ def snapshots_latest() -> tuple[object, int] | object:
         min_last_price=min_last_price,
         min_day_volume=min_day_volume,
     )
-    if asof_ts is None:
-        return jsonify({"error": "No snapshots available"}), 404
+    if asof_date is None:
+        return jsonify({"error": "No daily bars available"}), 404
 
-    asof_utc = _as_utc_datetime(asof_ts)
     return jsonify(
         {
-            "asof_ts": asof_utc.isoformat(),
+            "asof_date": asof_date.isoformat(),
+            "asof_ts": f"{asof_date.isoformat()}T00:00:00+00:00",
+            "provider": provider,
+            "total_symbols_considered": total_symbols_considered,
             "count": len(snapshots),
             "snapshots": snapshots,
         }
     )
+
+
+def _escape_like(value: str) -> str:
+    return value.replace("\\", "\\\\").replace("%", "\\%").replace("_", "\\_")
 
 
 @api_bp.get("/symbols/search")
@@ -249,12 +377,13 @@ def symbols_search() -> object:
     if not query:
         return jsonify({"query": query, "results": []})
 
+    escaped = _escape_like(query)
     stmt = (
         select(Symbol)
         .where(
             or_(
-                Symbol.ticker.ilike(f"%{query}%"),
-                Symbol.name.ilike(f"%{query}%"),
+                Symbol.ticker.ilike(f"%{escaped}%", escape="\\"),
+                Symbol.name.ilike(f"%{escaped}%", escape="\\"),
             )
         )
         .order_by(Symbol.ticker.asc())

@@ -1,0 +1,185 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "400-257 ADELAIDE STREET W",
+      "street2": null,
+      "zipCode": "M5H 1X9"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "400-257 ADELAIDE STREET W",
+      "street2": null,
+      "zipCode": "M5H 1X9"
+    }
+  },
+  "category": "",
+  "cik": "0001684505",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-06-23T13:32:22.000Z",
+        "2024-05-07T15:01:46.000Z",
+        "2023-02-22T15:46:16.000Z",
+        "2022-05-20T17:03:32.000Z",
+        "2016-11-22T14:27:59.000Z",
+        "2016-11-22T14:25:14.000Z"
+      ],
+      "accessionNumber": [
+        "0001684505-25-000001",
+        "0001684505-24-000001",
+        "0001684505-23-000003",
+        "0001684505-22-000001",
+        "0001365686-16-000004",
+        "0001365686-16-000003"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-549581",
+        "021-512591",
+        "021-474035",
+        "021-446511",
+        "021-274989",
+        "021-274988"
+      ],
+      "filingDate": [
+        "2025-06-23",
+        "2024-05-07",
+        "2023-02-22",
+        "2022-05-20",
+        "2016-11-22",
+        "2016-11-22"
+      ],
+      "filmNumber": [
+        "251064407",
+        "24921340",
+        "23652922",
+        "22948609",
+        "162012824",
+        "162012807"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b,4a5",
+        "06b,4a5"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        12175,
+        9971,
+        10650,
+        11873,
+        9737,
+        9501
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2016-11-22T00:00:00.000Z",
+      "name": "Patriot One Technologies Inc.",
+      "to": "2022-05-20T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Xtract One Technologies Inc.",
+  "ownerOrg": "",
+  "phone": "604-808-4686",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "XTRAF"
+  ],
+  "website": ""
+}

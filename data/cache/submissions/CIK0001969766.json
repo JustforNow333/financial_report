@@ -1,0 +1,209 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VICTORIA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "420-730 VIEW STREET",
+      "street2": null,
+      "zipCode": "V8W 3Y7"
+    },
+    "mailing": {
+      "city": "VICTORIA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "420-730 VIEW STREET",
+      "street2": null,
+      "zipCode": "V8W 3Y7"
+    }
+  },
+  "category": "",
+  "cik": "0001969766",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-10T15:00:02.000Z",
+        "2024-10-04T16:37:08.000Z",
+        "2024-08-09T16:31:22.000Z",
+        "2024-05-29T17:25:51.000Z",
+        "2024-01-19T16:10:04.000Z",
+        "2023-12-12T16:45:12.000Z",
+        "2023-10-20T16:41:22.000Z",
+        "2023-06-30T17:38:05.000Z"
+      ],
+      "accessionNumber": [
+        "9999999997-25-003477",
+        "0001493152-24-039534",
+        "0001493152-24-031003",
+        "0001493152-24-021827",
+        "0001493152-24-003062",
+        "0001493152-23-044567",
+        "0001493152-23-037860",
+        "0001493152-23-023196"
+      ],
+      "act": [
+        "",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "ORDER",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "",
+        "333-279801",
+        "333-279801",
+        "333-279801",
+        "377-06766",
+        "377-06766",
+        "377-06766",
+        "377-06766"
+      ],
+      "filingDate": [
+        "2025-09-10",
+        "2024-10-04",
+        "2024-08-09",
+        "2024-05-29",
+        "2024-01-19",
+        "2023-12-12",
+        "2023-10-20",
+        "2023-07-03"
+      ],
+      "filmNumber": [
+        "",
+        "241355350",
+        "241193309",
+        "24999761",
+        "24545673",
+        "231481756",
+        "231337521",
+        "231062937"
+      ],
+      "form": [
+        "SEC STAFF ACTION",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "filename1.pdf",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        3956,
+        13023292,
+        13025690,
+        54444609,
+        3734282,
+        3664792,
+        3717029,
+        3663709
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Asep Medical Holdings Inc.",
+  "ownerOrg": "03 Life Sciences",
+  "phone": "1-778-600-0509",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "SEPSF"
+  ],
+  "website": ""
+}

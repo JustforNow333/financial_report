@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "YOKOHAMA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "M0",
+      "stateOrCountryDescription": "Japan",
+      "street1": "2-10-1, SHIN-YOKOHAMA, KOHOKU-KU",
+      "street2": null,
+      "zipCode": "222-8552"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAP WEBB & TYLER LLP",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0001822989",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-11T15:16:54.000Z",
+        "2025-11-07T22:25:25.000Z",
+        "2021-11-02T20:07:24.000Z",
+        "2021-06-04T20:17:46.000Z",
+        "2020-08-28T20:23:46.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-26-000042",
+        "0001193805-25-001548",
+        "0001104659-21-132993",
+        "0001193805-21-000804",
+        "0001193805-20-001088"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-293371",
+        "333-291398",
+        "333-260679",
+        "333-256801",
+        "333-248477"
+      ],
+      "filingDate": [
+        "2026-02-11",
+        "2025-11-07",
+        "2021-11-02",
+        "2021-06-04",
+        "2020-08-28"
+      ],
+      "filmNumber": [
+        "26618860",
+        "251463700",
+        "211371302",
+        "21996683",
+        "201148163"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        "F-6EF",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "laserf6ef.htm",
+        "e664950_f6ef-lasertec.htm",
+        "tm2131524d4_f6ef1.htm",
+        "e620682_f6ef-lasertec.htm",
+        "e619894_f6ef-lasertec.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        108991,
+        112230,
+        138326,
+        136433,
+        114242
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Lasertec Corporation/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-336-2301",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "LSRCF"
+  ],
+  "website": ""
+}

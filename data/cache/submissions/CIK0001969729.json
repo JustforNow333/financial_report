@@ -1,0 +1,155 @@
+{
+  "addresses": {
+    "business": {
+      "city": "COPENHAGEN",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "G7",
+      "stateOrCountryDescription": "Denmark",
+      "street1": "HOVEDGARDEN 584, HEDEHUSENE",
+      "street2": null,
+      "zipCode": "DK-2640"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0001969729",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-30T15:09:21.000Z",
+        "2025-04-30T15:08:02.000Z",
+        "2023-03-20T16:57:04.000Z",
+        "2023-03-17T19:36:10.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000586",
+        "0001193805-25-000584",
+        "0001193805-23-000355",
+        "0001193805-23-000353"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-270692",
+        "333-270645",
+        "333-270692",
+        "333-270645"
+      ],
+      "filingDate": [
+        "2025-04-30",
+        "2025-04-30",
+        "2023-03-17",
+        "2023-03-17"
+      ],
+      "filmNumber": [
+        "25892062",
+        "25892053",
+        "23745547",
+        "23742254"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e664449_f6pos-rockwool.htm",
+        "e664448_f6pos-rockwool.htm",
+        "e618377_f6ef-rockwool.htm",
+        "e618376_f6ef-rockwool.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        105725,
+        105687,
+        109646,
+        109586
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Rockwool A/S/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-2456",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "G7",
+  "stateOfIncorporationDescription": "Denmark",
+  "tickers": [
+    "RCWLY",
+    "RCWBY",
+    "RKWAD",
+    "RKWBF"
+  ],
+  "website": ""
+}

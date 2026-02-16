@@ -1,0 +1,215 @@
+{
+  "addresses": {
+    "business": {
+      "city": "GRAND JUNCTION",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "CO",
+      "stateOrCountryDescription": "CO",
+      "street1": "760 HORIZON DRIVE, SUITE 200",
+      "street2": null,
+      "zipCode": "81506"
+    },
+    "mailing": {
+      "city": "GRAND JUNCTION",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "CO",
+      "stateOrCountryDescription": "CO",
+      "street1": "760 HORIZON DRIVE, SUITE 200",
+      "street2": null,
+      "zipCode": "81506"
+    }
+  },
+  "category": "",
+  "cik": "0001493130",
+  "description": "",
+  "ein": "826035362",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-21T11:38:00.000Z",
+        "2024-11-13T18:38:23.000Z",
+        "2024-08-08T12:49:01.000Z",
+        "2023-08-03T16:41:37.000Z",
+        "2022-02-04T18:11:54.000Z",
+        "2011-07-13T15:25:28.000Z",
+        "2010-11-30T16:05:04.000Z",
+        "2010-06-02T11:07:01.000Z"
+      ],
+      "accessionNumber": [
+        "0001493130-25-000001",
+        "0001493130-24-000002",
+        "0001493130-24-000001",
+        "0001567619-23-006744",
+        "0001567619-22-002554",
+        "0001493130-11-000001",
+        "0001493130-10-000002",
+        "0001493130-10-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-546799",
+        "021-529355",
+        "021-520942",
+        "021-488712",
+        "021-432440",
+        "021-162816",
+        "021-151169",
+        "021-142829"
+      ],
+      "filingDate": [
+        "2025-05-21",
+        "2024-11-14",
+        "2024-08-08",
+        "2023-08-03",
+        "2022-02-07",
+        "2011-07-13",
+        "2010-11-30",
+        "2010-06-02"
+      ],
+      "filmNumber": [
+        "25972100",
+        "241456160",
+        "241187186",
+        "231140831",
+        "22594976",
+        "11965794",
+        "101222052",
+        "10871761"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06",
+        "06",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10328,
+        11463,
+        11279,
+        10647,
+        9286,
+        11491,
+        11946,
+        11946
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2010-06-02T00:00:00.000Z",
+      "name": "DOXA ENERGY LTD",
+      "to": "2011-07-13T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PROSTAR HOLDINGS INC. /BC",
+  "ownerOrg": "",
+  "phone": "970-242-4024",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "MAPPF"
+  ],
+  "website": ""
+}

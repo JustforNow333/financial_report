@@ -1,0 +1,130 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HONG KONG SAR",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "ROOM 2304, 23/F, SAXON TOWER,",
+      "street2": "NO. 7 CHEUNG SHUN STREET, LAI CHI KOK",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "HONG KONG SAR",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "ROOM 2304, 23/F, SAXON TOWER,",
+      "street2": "NO. 7 CHEUNG SHUN STREET, LAI CHI KOK",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002062397",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-29T18:54:05.000Z",
+        "2025-09-26T11:00:18.000Z",
+        "2025-04-11T17:44:18.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-25-029305",
+        "0001493152-25-015051",
+        "0001641172-25-003767"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292453",
+        "377-07884",
+        "377-07884"
+      ],
+      "filingDate": [
+        "2025-12-29",
+        "2025-09-26",
+        "2025-04-11"
+      ],
+      "filmNumber": [
+        "251607905",
+        "251345399",
+        "25830992"
+      ],
+      "form": [
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-1",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10220383,
+        10391596,
+        4024836
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Riverstone Ltd",
+  "ownerOrg": "04 Manufacturing",
+  "phone": "852 5429 4672",
+  "sic": "2300",
+  "sicDescription": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "tickers": [],
+  "website": ""
+}

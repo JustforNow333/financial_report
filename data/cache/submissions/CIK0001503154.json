@@ -1,0 +1,179 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001503154",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-20T08:52:41.000Z",
+        "2017-09-29T10:58:31.000Z",
+        "2012-01-11T15:14:33.000Z",
+        "2011-12-20T15:35:37.000Z",
+        "2011-03-31T10:05:56.000Z",
+        "2010-10-08T11:31:09.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000327",
+        "0001193805-17-002640",
+        "0001193805-12-000031",
+        "0001193805-11-002392",
+        "0001201935-11-000030",
+        "0001019155-10-000373"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "424B3",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-285938",
+        "333-178968",
+        "333-178968",
+        "333-178632",
+        "333-169829",
+        "333-169829"
+      ],
+      "filingDate": [
+        "2025-03-19",
+        "2017-09-29",
+        "2012-01-11",
+        "2011-12-20",
+        "2011-03-31",
+        "2010-10-08"
+      ],
+      "filmNumber": [
+        "25754637",
+        "171109644",
+        "12522038",
+        "111271992",
+        "11724113",
+        "101115355"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "424B3",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6EF"
+      ],
+      "primaryDocument": [
+        "e664291_f6ef-chemring.htm",
+        "e616751_f6pos-cgp.htm",
+        "e609209_f6ef-chemring.htm",
+        "e609170_f6ef-chemring.htm",
+        "memo424b3chemringgroup.txt",
+        "chemringf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        143045,
+        125632,
+        194126,
+        237734,
+        32487,
+        80050
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Chemring Group PLC/ADR",
+  "ownerOrg": "",
+  "phone": "212-238-3010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "CMGMF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,115 @@
+{
+  "addresses": {
+    "business": {
+      "city": "RIO DE JANEIRO",
+      "country": "Brazil",
+      "countryCode": "D5",
+      "foreignStateTerritory": "RJ - CEP",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "PRAIA DE BOTAFOGO 186 16O ANDAR BOTAFOGO",
+      "street2": null,
+      "zipCode": "22250-180"
+    },
+    "mailing": {
+      "city": "RIO DE JANEIRO",
+      "country": "Brazil",
+      "countryCode": "D5",
+      "foreignStateTerritory": "RJ - CEP",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "PRAIA DE BOTAFOGO 186 16O ANDAR BOTAFOGO",
+      "street2": null,
+      "zipCode": "22250-180"
+    }
+  },
+  "category": "",
+  "cik": "0002095292",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-28T05:15:29.000Z",
+        "2025-11-17T18:12:42.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-25-003411",
+        "0001104659-25-113093"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-291584",
+        "333-291584"
+      ],
+      "filingDate": [
+        "2025-11-26",
+        "2025-11-17"
+      ],
+      "filmNumber": [
+        "251532241",
+        "251490336"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "tm2531075d1_f6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        1867,
+        614307
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Brava Energia S.A.",
+  "ownerOrg": "International Corp Fin",
+  "phone": "55 21 34755555",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "tickers": [],
+  "website": ""
+}

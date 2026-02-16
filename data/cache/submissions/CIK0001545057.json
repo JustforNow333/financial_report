@@ -1,0 +1,247 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001545057",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-12T10:33:45.000Z",
+        "2025-05-07T09:54:52.000Z",
+        "2025-05-06T16:34:47.000Z",
+        "2025-05-05T16:43:18.000Z",
+        "2025-05-05T16:42:18.000Z",
+        "2021-08-24T12:53:17.000Z",
+        "2017-09-29T12:13:17.000Z",
+        "2014-12-23T11:21:34.000Z",
+        "2013-05-15T17:12:57.000Z",
+        "2012-03-19T16:42:19.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-047118",
+        "0001193805-25-000617",
+        "0001193805-25-000615",
+        "0001019155-25-000155",
+        "0001019155-25-000154",
+        "0001193805-21-001218",
+        "0001193805-17-002788",
+        "0001193805-14-002704",
+        "0001193805-13-000966",
+        "0001019155-12-000176"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "424B3",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-201227",
+        "333-188632",
+        "333-259033",
+        "333-180206",
+        "333-180206",
+        "333-259033",
+        "333-201227",
+        "333-201227",
+        "333-188632",
+        "333-180206"
+      ],
+      "filingDate": [
+        "2025-05-12",
+        "2025-05-07",
+        "2025-05-06",
+        "2025-05-05",
+        "2025-05-05",
+        "2021-08-24",
+        "2017-09-29",
+        "2014-12-23",
+        "2013-05-15",
+        "2012-03-19"
+      ],
+      "filmNumber": [
+        "25933253",
+        "25919681",
+        "25917832",
+        "25913637",
+        "25913620",
+        "211200867",
+        "171110126",
+        "141305445",
+        "13848446",
+        "12700987"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "424B3",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "",
+        "",
+        "F-6 POS",
+        "F-6 POS",
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "tm2514677d1_f6pos.htm",
+        "e664481_f6pos-ptxlsmart.htm",
+        "e664463_424b3-ptxl.htm",
+        "ptf6pos.htm",
+        "ptf6pos.htm",
+        "e620896_f6ef-ptxl.htm",
+        "e616944_f6pos-pxat.htm",
+        "e613198_f6ef-ptxl.htm",
+        "e610920_f6ef-ptxl.htm",
+        "axitaf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        113786,
+        106514,
+        94636,
+        99883,
+        99883,
+        135835,
+        125679,
+        254882,
+        267019,
+        79493
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2012-03-19T00:00:00.000Z",
+      "name": "PT XL Axiata Tbk/ADR",
+      "to": "2025-05-05T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "PT XLSMART Telecom Sejahtera Tbk/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3128",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "PTXKY",
+    "PTXAF"
+  ],
+  "website": ""
+}

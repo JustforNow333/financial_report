@@ -21,7 +21,11 @@ def _make_session() -> Session:
 def _settings() -> Settings:
     return Settings(
         database_url="sqlite+pysqlite:///:memory:",
+        market_data_provider="polygon",
         market_provider="polygon",
+        fmp_api_key=None,
+        fmp_base_url="https://financialmodelingprep.com",
+        eod_ingest_hour_et=18,
         polygon_api_key=None,
         polygon_base_url="https://api.polygon.io",
         request_timeout_seconds=10,
@@ -31,9 +35,9 @@ def _settings() -> Settings:
         movers_limit=10,
         ingest_interval_minutes=5,
         industry_llm_enabled=False,
-        openai_api_key=None,
-        openai_base_url="https://api.openai.com/v1",
-        openai_model="gpt-4o-mini",
+        gemini_api_key=None,
+        gemini_base_url="https://generativelanguage.googleapis.com/v1beta",
+        gemini_model="gemini-3-flash",
     )
 
 
@@ -87,7 +91,7 @@ def test_label_industries_idempotent_without_force() -> None:
     refreshed_unlabeled = session.get(Symbol, unlabeled.id)
     assert refreshed_unlabeled is not None
     assert refreshed_unlabeled.industry_label == "Semiconductors"
-    assert refreshed_unlabeled.industry_source == "ai"
+    assert refreshed_unlabeled.industry_source == "heuristic"
     assert refreshed_unlabeled.industry_updated_at is not None
 
     second_summary = label_industries(

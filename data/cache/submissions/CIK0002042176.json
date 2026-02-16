@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DALLAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "2515 MCKINNEY AVE",
+      "street2": "SUITE 1000",
+      "zipCode": "75201"
+    },
+    "mailing": {
+      "city": "DALLAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "2515 MCKINNEY AVE",
+      "street2": "SUITE 1000",
+      "zipCode": "75201"
+    }
+  },
+  "category": "",
+  "cik": "0002042176",
+  "description": "",
+  "ein": "991775118",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-03T15:02:35.000Z",
+        "2025-06-20T14:31:34.000Z",
+        "2025-06-05T16:42:38.000Z",
+        "2025-05-06T21:30:07.000Z",
+        "2025-03-20T06:17:35.000Z",
+        "2024-12-31T17:09:01.000Z",
+        "2024-11-05T18:55:18.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-25-061431",
+        "0001213900-25-056073",
+        "0001213900-25-051605",
+        "0001213900-25-040355",
+        "0001213900-25-025266",
+        "0001213900-24-114102",
+        "0001213900-24-094689"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-285935",
+        "333-285935",
+        "333-285935",
+        "333-285935",
+        "333-285935",
+        "377-07538",
+        "377-07538"
+      ],
+      "filingDate": [
+        "2025-07-03",
+        "2025-06-20",
+        "2025-06-05",
+        "2025-05-07",
+        "2025-03-20",
+        "2024-12-31",
+        "2024-11-06"
+      ],
+      "filmNumber": [
+        "251105227",
+        "251060894",
+        "251027726",
+        "25919000",
+        "25754391",
+        "241593697",
+        "241428856"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "AMENDMENT NO. 3 TO FORM S-1",
+        "AMENDMENT NO. 2 TO FORM S-1",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0218945-13.htm",
+        "ea0218945-10.htm",
+        "ea0218945-08.htm",
+        "ea0218945-06.htm",
+        "ea0218945-04.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9042470,
+        8696836,
+        8855498,
+        8033649,
+        7926298,
+        7251100,
+        2812295
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "SPECTRAL IP, INC.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "972-499-4934",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [
+    "SMIP"
+  ],
+  "website": ""
+}

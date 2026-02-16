@@ -1,0 +1,245 @@
+{
+  "addresses": {
+    "business": {
+      "city": "KELOWNA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "750-1620 DICKSON AVENUE",
+      "street2": null,
+      "zipCode": "V1Y 9Y2"
+    },
+    "mailing": {
+      "city": "KELOWNA",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "750-1620 DICKSON AVENUE",
+      "street2": null,
+      "zipCode": "V1Y 9Y2"
+    }
+  },
+  "category": "",
+  "cik": "0001703118",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-12T21:37:09.000Z",
+        "2025-12-12T21:01:00.000Z",
+        "2022-01-05T19:38:51.000Z",
+        "2021-10-13T20:06:08.000Z",
+        "2021-06-29T14:37:06.000Z",
+        "2020-08-21T21:45:25.000Z",
+        "2018-10-12T17:52:40.000Z",
+        "2017-05-03T23:00:00.000Z",
+        "2017-04-12T00:38:42.000Z",
+        "2017-04-11T22:07:20.000Z"
+      ],
+      "accessionNumber": [
+        "0001199835-25-000422",
+        "0001199835-25-000418",
+        "0001703118-22-000001",
+        "0000930413-21-001769",
+        "0001772806-21-000004",
+        "0001703118-20-000001",
+        "0001591408-18-000032",
+        "0001703118-17-000003",
+        "0001703118-17-000002",
+        "0001703118-17-000001"
+      ],
+      "act": [
+        "33",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-X",
+        "40FR12B",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "001-43012",
+        "001-43012",
+        "021-427989",
+        "021-416799",
+        "021-404529",
+        "021-373877",
+        "021-323429",
+        "021-286012",
+        "021-284552",
+        "021-284552"
+      ],
+      "filingDate": [
+        "2025-12-12",
+        "2025-12-12",
+        "2022-01-05",
+        "2021-10-13",
+        "2021-06-29",
+        "2020-08-24",
+        "2018-10-12",
+        "2017-05-04",
+        "2017-04-12",
+        "2017-04-12"
+      ],
+      "filmNumber": [
+        "251568663",
+        "251567970",
+        "22510660",
+        "211321298",
+        "211056270",
+        "201124287",
+        "181119959",
+        "17811165",
+        "17756887",
+        "17756767"
+      ],
+      "form": [
+        "F-X",
+        "40FR12B",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "F3 URANIUM CORP. FORM F-X",
+        "F3 URANIUM CORP. FORM 40FR12B",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "f3uranium-fx.htm",
+        "f3uranium-40fr12b.htm",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        20305,
+        21546670,
+        9987,
+        8906,
+        9083,
+        11734,
+        14588,
+        12547,
+        12565,
+        12470
+      ]
+    }
+  },
+  "fiscalYearEnd": "0630",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2017-04-12T04:00:00.000Z",
+      "name": "Fission 3.0 Corp.",
+      "to": "2022-01-05T05:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "F3 Uranium Corp.",
+  "ownerOrg": "",
+  "phone": "1-250-868-8140",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "FUUFF"
+  ],
+  "website": ""
+}

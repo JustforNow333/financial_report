@@ -1,0 +1,130 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CAMBRIDGE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "MA",
+      "stateOrCountryDescription": "MA",
+      "street1": "45 PROSPECT STREET",
+      "street2": null,
+      "zipCode": "02139"
+    },
+    "mailing": {
+      "city": "CAMBRIDGE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "MA",
+      "stateOrCountryDescription": "MA",
+      "street1": "45 PROSPECT STREET",
+      "street2": null,
+      "zipCode": "02139"
+    }
+  },
+  "category": "",
+  "cik": "0002084032",
+  "description": "",
+  "ein": "874698872",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T20:40:29.000Z",
+        "2025-12-29T21:50:28.000Z",
+        "2025-09-12T21:28:59.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-010732",
+        "0001213900-25-126099",
+        "0001213900-25-087303"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-293121",
+        "377-08457",
+        "377-08457"
+      ],
+      "filingDate": [
+        "2026-02-02",
+        "2025-12-29",
+        "2025-09-12"
+      ],
+      "filmNumber": [
+        "26587564",
+        "251609810",
+        "251312504"
+      ],
+      "form": [
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0256863-04.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        5664948,
+        4352081,
+        3299634
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Salspera, Inc.",
+  "ownerOrg": "03 Life Sciences",
+  "phone": "652-402-5587",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [],
+  "website": ""
+}

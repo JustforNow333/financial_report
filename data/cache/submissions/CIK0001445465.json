@@ -1,0 +1,245 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001445465",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-07-16T18:22:26.000Z",
+        "2019-11-23T02:48:27.000Z",
+        "2017-09-29T12:16:41.000Z",
+        "2015-12-10T16:17:10.000Z",
+        "2013-06-24T15:34:55.000Z",
+        "2013-06-21T18:02:19.000Z",
+        "2013-06-18T12:45:58.000Z",
+        "2008-11-06T14:00:36.000Z",
+        "2008-10-28T15:27:41.000Z",
+        "2008-10-14T18:05:10.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-000924",
+        "0001193805-19-001845",
+        "0001193805-17-002796",
+        "0001193805-15-002069",
+        "0001201935-13-000029",
+        "0001193805-13-001171",
+        "0001193805-13-001140",
+        "0001144204-08-061512",
+        "0001193805-08-002542",
+        "0001201935-08-000155"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "424B3",
+        "424B3",
+        "424B3",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-280843",
+        "333-235220",
+        "333-155130",
+        "333-208446",
+        "333-154266",
+        "333-154788",
+        "333-155130",
+        "333-155130",
+        "333-154788",
+        "333-154266"
+      ],
+      "filingDate": [
+        "2024-07-16",
+        "2019-11-25",
+        "2017-09-29",
+        "2015-12-10",
+        "2013-06-24",
+        "2013-06-24",
+        "2013-06-18",
+        "2008-11-06",
+        "2008-10-28",
+        "2008-10-15"
+      ],
+      "filmNumber": [
+        "241120623",
+        "191243563",
+        "171110159",
+        "151281043",
+        "13929589",
+        "13928180",
+        "13918816",
+        "081166463",
+        "081144715",
+        "081123539"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "424B3",
+        "424B3",
+        "424B3",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6EF",
+        "FORM F-6"
+      ],
+      "primaryDocument": [
+        "e663782_f6ef-kering.htm",
+        "e618919_f6ef-kering.htm",
+        "e616836_f6pos-kering.htm",
+        "e614363_f6ef-kering.htm",
+        "memo424b3ppr.txt",
+        "e611043_424b3-kering.htm",
+        "e611030_424b3-ppr.htm",
+        "v130873_f-6ef.htm",
+        "e604452_f6ef-pprsa.txt",
+        "pprunsponsoredformf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        110885,
+        131883,
+        125661,
+        209716,
+        32565,
+        103137,
+        68937,
+        162454,
+        54479,
+        78202
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2008-10-15T00:00:00.000Z",
+      "name": "PPR SA",
+      "to": "2013-06-24T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Kering",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-238-3010",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "PPRUF"
+  ],
+  "website": ""
+}

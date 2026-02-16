@@ -1,0 +1,211 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY, 32ND FLOOR",
+      "street2": null,
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001489079",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-12-17T17:31:10.000Z",
+        "2024-12-17T13:52:58.000Z",
+        "2022-03-14T11:25:55.000Z",
+        "2022-03-11T17:23:57.000Z",
+        "2017-09-29T12:06:13.000Z",
+        "2012-09-25T09:42:39.000Z",
+        "2012-05-09T17:24:04.000Z",
+        "2010-04-13T12:49:08.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-001482",
+        "0001019155-24-000341",
+        "0001019155-22-000051",
+        "0001193805-22-000477",
+        "0001193805-17-002765",
+        "0001193805-12-001607",
+        "0001193805-12-000882",
+        "0001019155-10-000120"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-181286",
+        "333-166031",
+        "333-166031",
+        "333-181286",
+        "333-184080",
+        "333-184080",
+        "333-181286",
+        "333-166031"
+      ],
+      "filingDate": [
+        "2024-12-18",
+        "2024-12-17",
+        "2022-03-14",
+        "2022-03-11",
+        "2017-09-29",
+        "2012-09-25",
+        "2012-05-09",
+        "2010-04-13"
+      ],
+      "filmNumber": [
+        "241556882",
+        "241554815",
+        "22735614",
+        "22734149",
+        "171110068",
+        "121107814",
+        "12826819",
+        "10746638"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6 POS",
+        "F-6 POS",
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6EF"
+      ],
+      "primaryDocument": [
+        "e664089_f6pos-ari.htm",
+        "adarof6pos.htm",
+        "ptadrof6pos.htm",
+        "e621445_f6pos-paei.htm",
+        "e616928_f6pos-paet.htm",
+        "e610094_f6ef-ptaet.htm",
+        "e609686_f6ef-pt.htm",
+        "unsponsoredformf6foradaroene.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        105631,
+        95763,
+        94290,
+        104536,
+        125664,
+        157627,
+        232476,
+        79618
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Adaro Energy PT/ADR/",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212 238-3010",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "ADOOY",
+    "PADEF"
+  ],
+  "website": ""
+}

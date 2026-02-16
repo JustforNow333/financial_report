@@ -1,0 +1,145 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "66 HUDSON BOULEVARD",
+      "street2": null,
+      "zipCode": "10001"
+    },
+    "mailing": {
+      "city": "WILMINGTON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "DE",
+      "stateOrCountryDescription": "DE",
+      "street1": "CSC DELAWARE TRUST COMPANY",
+      "street2": "251 LITTLE FALLS DRIVE",
+      "zipCode": "19808-1674"
+    }
+  },
+  "category": "",
+  "cik": "0002065655",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-02T21:38:40.000Z",
+        "2025-09-23T18:21:08.000Z",
+        "2025-08-15T20:22:54.000Z",
+        "2025-06-23T16:31:44.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-009255",
+        "0001104659-25-092448",
+        "0001104659-25-079262",
+        "0001104659-25-061587"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-293132",
+        "377-08133",
+        "377-08133",
+        "377-08133"
+      ],
+      "filingDate": [
+        "2026-02-02",
+        "2025-09-23",
+        "2025-08-15",
+        "2025-06-23"
+      ],
+      "filmNumber": [
+        "26588489",
+        "251332975",
+        "251224950",
+        "251063945"
+      ],
+      "form": [
+        "S-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM S-1",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2512337d6_s1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        874387,
+        667931,
+        655990,
+        574358
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "HSBC Physical Gold Trust",
+  "ownerOrg": "09 Crypto Assets",
+  "phone": "(212) 525-5000",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [],
+  "website": ""
+}

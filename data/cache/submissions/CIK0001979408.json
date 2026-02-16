@@ -1,0 +1,125 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "181 BAY STREET, SUITE 4260",
+      "street2": null,
+      "zipCode": "M5J 2V1"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "181 BAY STREET, SUITE 4260",
+      "street2": null,
+      "zipCode": "M5J 2V1"
+    }
+  },
+  "category": "",
+  "cik": "0001979408",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-12-09T15:37:25.000Z",
+        "2023-05-30T15:20:03.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-24-020251",
+        "0001062993-23-012421"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-531511",
+        "021-482876"
+      ],
+      "filingDate": [
+        "2024-12-09",
+        "2023-05-30"
+      ],
+      "filmNumber": [
+        "241534947",
+        "23975658"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        14250,
+        12642
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2023-05-30T00:00:00.000Z",
+      "name": "Moneta Gold Inc.",
+      "to": "2023-05-30T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "STLLR Gold Inc.",
+  "ownerOrg": "",
+  "phone": "416-254-0704",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "tickers": [
+    "STLRF"
+  ],
+  "website": ""
+}

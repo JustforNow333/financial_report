@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "JPMORGAN ADR DEPT 383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "JPMORGAN ADR DEPT 383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    }
+  },
+  "category": "",
+  "cik": "0002065485",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-23T19:45:55.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000544"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286695"
+      ],
+      "filingDate": [
+        "2025-04-23"
+      ],
+      "filmNumber": [
+        "25861244"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e664430_f6ef-jxam.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        145129
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "JX Advanced Metals Corporation/ADR",
+  "ownerOrg": "",
+  "phone": "302-552-0866",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "JXAMY"
+  ],
+  "website": ""
+}

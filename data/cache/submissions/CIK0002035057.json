@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "BAD RAGAZ",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "V8",
+      "stateOrCountryDescription": "Switzerland",
+      "street1": "INFICON HOLDING AG",
+      "street2": "HINTERGASSE 15B",
+      "zipCode": "7310"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0002035057",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-23T16:41:00.000Z",
+        "2024-08-27T10:02:14.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000546",
+        "0001193805-24-001068"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-281790",
+        "333-281790"
+      ],
+      "filingDate": [
+        "2025-04-23",
+        "2024-08-27"
+      ],
+      "filmNumber": [
+        "25862147",
+        "241243986"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "e664431_f6pos-inficon.htm",
+        "e663857_f6ef-inficonholding.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        105770,
+        141028
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Inficon Holding AG/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "tickers": [
+    "IFHLY",
+    "IFCNF"
+  ],
+  "website": ""
+}

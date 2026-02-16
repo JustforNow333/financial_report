@@ -1,0 +1,140 @@
+{
+  "addresses": {
+    "business": {
+      "city": "LONDON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "65 GRESHAM STREET",
+      "street2": "6TH FLOOR",
+      "zipCode": "EC2V 7NQ"
+    },
+    "mailing": {
+      "city": "LONDON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "65 GRESHAM STREET",
+      "street2": "6TH FLOOR",
+      "zipCode": "EC2V 7NQ"
+    }
+  },
+  "category": "",
+  "cik": "0001839886",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-02-28T11:32:16.000Z",
+        "2022-08-24T09:37:14.000Z",
+        "2021-01-11T14:20:20.000Z"
+      ],
+      "accessionNumber": [
+        "0001839886-25-000001",
+        "0001839886-22-000002",
+        "0001839886-21-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-539535",
+        "021-385843",
+        "021-385843"
+      ],
+      "filingDate": [
+        "2025-02-28",
+        "2022-08-24",
+        "2021-01-11"
+      ],
+      "filmNumber": [
+        "25685142",
+        "221189274",
+        "21520445"
+      ],
+      "form": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        13125,
+        13080,
+        9456
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2021-01-11T00:00:00.000Z",
+      "name": "Meridian Mining S.E.",
+      "to": "2021-01-11T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Meridian Mining UK Societas",
+  "ownerOrg": "",
+  "phone": "778-715-6410",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "tickers": [
+    "MRRDF"
+  ],
+  "website": ""
+}

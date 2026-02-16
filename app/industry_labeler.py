@@ -26,6 +26,7 @@ class SymbolForLabeling:
 class IndustryPrediction:
     label: str | None
     confidence: float
+    source: str = "heuristic"
 
 
 def _clamp_confidence(confidence: float | int | None, default: float) -> float:
@@ -68,7 +69,7 @@ class IndustryLabeler:
         results: dict[int, IndustryPrediction] = {}
         llm_results: dict[int, IndustryPrediction] = {}
 
-        if self.settings.industry_llm_enabled and self.settings.openai_api_key:
+        if self.settings.industry_llm_enabled and self.settings.gemini_api_key:
             llm_results = self._label_batch_with_llm(symbols)
 
         for symbol in symbols:
@@ -105,25 +106,28 @@ class IndustryLabeler:
 
         try:
             response = requests.post(
-                f"{self.settings.openai_base_url}/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {self.settings.openai_api_key}",
-                    "Content-Type": "application/json",
-                },
+                f"{self.settings.gemini_base_url}/models/{self.settings.gemini_model}:generateContent",
+                params={"key": self.settings.gemini_api_key},
+                headers={"Content-Type": "application/json"},
                 json={
-                    "model": self.settings.openai_model,
-                    "temperature": 0,
-                    "response_format": {"type": "json_object"},
-                    "messages": [
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": user_prompt},
+                    "contents": [
+                        {"role": "user", "parts": [{"text": f"{system_prompt}\n\n{user_prompt}"}]}
                     ],
+                    "generationConfig": {
+                        "temperature": 0,
+                        "responseMimeType": "application/json",
+                    },
                 },
                 timeout=self.settings.request_timeout_seconds,
             )
             response.raise_for_status()
             payload = response.json()
-            content = payload["choices"][0]["message"]["content"]
+            content = (
+                payload.get("candidates", [{}])[0]
+                .get("content", {})
+                .get("parts", [{}])[0]
+                .get("text", "")
+            )
             parsed = _parse_json_object(content)
             if not isinstance(parsed, dict):
                 return {}
@@ -149,7 +153,7 @@ class IndustryLabeler:
                     label = _CANONICAL_LABELS.get(candidate.lower())
 
                 confidence = _clamp_confidence(row.get("confidence"), default=0.30)
-                predictions[symbol_id] = IndustryPrediction(label=label, confidence=confidence)
+                predictions[symbol_id] = IndustryPrediction(label=label, confidence=confidence, source="ai")
 
             return predictions
         except Exception:

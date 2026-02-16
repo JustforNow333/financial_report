@@ -1,0 +1,175 @@
+{
+  "addresses": {
+    "business": {
+      "city": "MIAMI BEACH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "6538 COLLINS AVE",
+      "street2": "SUITE 344",
+      "zipCode": "33141"
+    },
+    "mailing": {
+      "city": "MIAMI BEACH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "6538 COLLINS AVE",
+      "street2": "SUITE 344",
+      "zipCode": "33141"
+    }
+  },
+  "category": "",
+  "cik": "0002054459",
+  "description": "",
+  "ein": "333027686",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-27T02:54:52.000Z",
+        "2025-10-23T22:58:35.000Z",
+        "2025-09-03T21:24:28.000Z",
+        "2025-07-30T21:16:05.000Z",
+        "2025-06-23T10:33:11.000Z",
+        "2025-04-25T21:06:54.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-007890",
+        "0001213900-25-101812",
+        "0001213900-25-084154",
+        "0001213900-25-069379",
+        "0001213900-25-056399",
+        "0001213900-25-035649"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292970",
+        "377-07945",
+        "377-07945",
+        "377-07945",
+        "377-07945",
+        "377-07945"
+      ],
+      "filingDate": [
+        "2026-01-27",
+        "2025-10-24",
+        "2025-09-03",
+        "2025-07-30",
+        "2025-06-23",
+        "2025-04-25"
+      ],
+      "filmNumber": [
+        "26561923",
+        "251413995",
+        "251291110",
+        "251168159",
+        "251062911",
+        "25875134"
+      ],
+      "form": [
+        "S-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0269419-s1_swolhold.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        3017106,
+        1421578,
+        1371652,
+        1237835,
+        42703435,
+        1056952
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "SWOL Holdings Inc.",
+  "ownerOrg": "04 Manufacturing",
+  "phone": "786.389.9771",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "tickers": [],
+  "website": ""
+}

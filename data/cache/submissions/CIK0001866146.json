@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1008-550 BURRARD STREET",
+      "street2": null,
+      "zipCode": "V6C 2B5"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1008-550 BURRARD STREET",
+      "street2": null,
+      "zipCode": "V6C 2B5"
+    }
+  },
+  "category": "",
+  "cik": "0001866146",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-06T16:55:17.000Z",
+        "2023-10-16T20:35:36.000Z",
+        "2023-03-17T07:44:04.000Z",
+        "2021-06-09T13:52:55.000Z",
+        "2021-06-08T10:31:36.000Z"
+      ],
+      "accessionNumber": [
+        "0001866146-25-000003",
+        "0001866146-23-000004",
+        "0001866146-23-000003",
+        "0001866146-21-000002",
+        "0001866146-21-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-559937",
+        "021-494893",
+        "021-476151",
+        "021-402060",
+        "021-402060"
+      ],
+      "filingDate": [
+        "2025-10-06",
+        "2023-10-17",
+        "2023-03-17",
+        "2021-06-09",
+        "2021-06-08"
+      ],
+      "filmNumber": [
+        "251377404",
+        "231328291",
+        "23740697",
+        "211004718",
+        "211001450"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9461,
+        10280,
+        10222,
+        12691,
+        12571
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Interra Copper Corp.",
+  "ownerOrg": "",
+  "phone": "778-773-4560",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "IMIMF"
+  ],
+  "website": ""
+}

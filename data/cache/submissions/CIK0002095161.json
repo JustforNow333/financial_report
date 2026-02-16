@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "590 MADISON AVENUE",
+      "street2": null,
+      "zipCode": "10022"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "590 MADISON AVENUE",
+      "street2": null,
+      "zipCode": "10022"
+    }
+  },
+  "category": "",
+  "cik": "0002095161",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-12T14:22:11.000Z",
+        "2026-02-10T22:09:42.000Z",
+        "2026-02-10T16:28:09.000Z",
+        "2026-02-02T05:15:08.000Z",
+        "2026-01-28T16:17:52.000Z",
+        "2026-01-24T00:03:15.000Z",
+        "2025-11-18T19:28:43.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-015252",
+        "0001354457-26-000161",
+        "0001213900-26-014044",
+        "9999999995-26-000383",
+        "0001213900-26-008635",
+        "0001213900-26-007383",
+        "0001213900-25-111965"
+      ],
+      "act": [
+        "33",
+        "34",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B4",
+        "CERT",
+        "8-A12B",
+        "EFFECT",
+        "XBRL",
+        "XBRL",
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-291613",
+        "001-43115",
+        "001-43115",
+        "333-291613",
+        "333-291613",
+        "333-291613",
+        "333-291613"
+      ],
+      "filingDate": [
+        "2026-02-12",
+        "2026-02-10",
+        "2026-02-10",
+        "2026-01-30",
+        "2026-01-28",
+        "2026-01-26",
+        "2025-11-18"
+      ],
+      "filmNumber": [
+        "26623758",
+        "26617162",
+        "26614366",
+        "26585482",
+        "26570019",
+        "26558136",
+        "251493916"
+      ],
+      "form": [
+        "424B4",
+        "CERT",
+        "8-A12B",
+        "EFFECT",
+        "S-1/A",
+        "S-1/A",
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ",,",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "PROSPECTUS",
+        "",
+        "FOR REGISTRATION OF CERTAIN CLASSES",
+        "",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "ea0266112-07.htm",
+        "DBCA_8A_Cert_2095161.pdf",
+        "ea0275990-8a12b_dboral1.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "ea0266112-04.htm",
+        "ea0266112-02.htm",
+        "ea0266112-01.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        4273375,
+        597111,
+        16380,
+        1711,
+        7384783,
+        9946926,
+        7187836
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "D. Boral Acquisition I Corp.",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "3322667344",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "tickers": [
+    "DBCA"
+  ],
+  "website": ""
+}

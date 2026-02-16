@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "STUTTGART",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "2M",
+      "stateOrCountryDescription": "Germany",
+      "street1": "CORPORATE CENTRE",
+      "street2": "SCHELMENWASENSTR. 34",
+      "zipCode": "70567"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002023719",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-05-16T19:03:18.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-24-000667"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-279470"
+      ],
+      "filingDate": [
+        "2024-05-17"
+      ],
+      "filmNumber": [
+        "24957300"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e663628_f6ef-gft.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        110162
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "GFT Technologies SE/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "2M",
+  "stateOfIncorporationDescription": "Germany",
+  "tickers": [
+    "GFTTY"
+  ],
+  "website": ""
+}

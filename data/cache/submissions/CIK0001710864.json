@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TOKYO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "M0",
+      "stateOrCountryDescription": "Japan",
+      "street1": "IIDABASHI FIRST BLDG., 5-1 KORAKU",
+      "street2": "2-CHOME, BUNKYO-KU",
+      "zipCode": "1128583"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O PATTERSON BELKNAP C/O H. RASPE",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "zipCode": "10036"
+    }
+  },
+  "category": "",
+  "cik": "0001710864",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-24T16:11:11.000Z",
+        "2025-02-03T12:23:23.000Z",
+        "2022-03-28T17:44:21.000Z",
+        "2017-06-30T17:36:23.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-027222",
+        "0001019155-25-000029",
+        "0001193805-22-000539",
+        "0001193805-17-001236"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286051",
+        "333-284666",
+        "333-263916",
+        "333-219131"
+      ],
+      "filingDate": [
+        "2025-03-24",
+        "2025-02-03",
+        "2022-03-29",
+        "2017-07-03"
+      ],
+      "filmNumber": [
+        "25764300",
+        "25581463",
+        "22776612",
+        "17943297"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "F-6EF",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm258657d5_f6ef.htm",
+        "misumif6ef.htm",
+        "e621493_f6ef-misumi.htm",
+        "e616354_f6ef-misumi.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        146875,
+        108960,
+        135928,
+        112599
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Misumi Group Inc./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-336-2301",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "MSUXF"
+  ],
+  "website": ""
+}

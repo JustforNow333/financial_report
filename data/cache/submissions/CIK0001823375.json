@@ -1,0 +1,140 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1890 - 1075 W. GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 3C9"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1890 - 1075 W. GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 3C9"
+    }
+  },
+  "category": "",
+  "cik": "0001823375",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-02-24T23:25:43.000Z",
+        "2022-06-02T17:44:54.000Z",
+        "2020-09-05T00:17:23.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-003376",
+        "0001062993-22-014085",
+        "0001062993-20-004363"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-539099",
+        "021-447873",
+        "021-374970"
+      ],
+      "filingDate": [
+        "2025-02-25",
+        "2022-06-02",
+        "2020-09-08"
+      ],
+      "filmNumber": [
+        "25658592",
+        "22990110",
+        "201162768"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10332,
+        10105,
+        9116
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2020-09-08T04:00:00.000Z",
+      "name": "TAAT Lifestyle & Wellness Ltd.",
+      "to": "2020-09-08T04:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "TAAT Global Alternatives Inc.",
+  "ownerOrg": "",
+  "phone": "604-687-2038",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "TOBAF"
+  ],
+  "website": ""
+}

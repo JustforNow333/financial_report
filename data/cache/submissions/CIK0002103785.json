@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "FELTON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "DE",
+      "stateOrCountryDescription": "DE",
+      "street1": "13 W MAIN STREET",
+      "street2": "PO BOX 953",
+      "zipCode": "19943"
+    },
+    "mailing": {
+      "city": "FELTON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "DE",
+      "stateOrCountryDescription": "DE",
+      "street1": "13 W MAIN STREET",
+      "street2": "PO BOX 953",
+      "zipCode": "19943"
+    }
+  },
+  "category": "",
+  "cik": "0002103785",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-16T02:51:14.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-004251"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-292767"
+      ],
+      "filingDate": [
+        "2026-01-16"
+      ],
+      "filmNumber": [
+        "26537540"
+      ],
+      "form": [
+        "S-4"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-4"
+      ],
+      "primaryDocument": [
+        "akom-20250930xs4.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        27495990
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "AKOM Inc.",
+  "ownerOrg": "",
+  "phone": "303-877-8314",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [],
+  "website": ""
+}

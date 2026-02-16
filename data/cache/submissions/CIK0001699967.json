@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": null,
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": null,
+      "street2": null,
+      "zipCode": null
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "60 WALL STREET",
+      "street2": null,
+      "zipCode": "10005"
+    }
+  },
+  "category": "",
+  "cik": "0001699967",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-01T12:10:08.000Z",
+        "2017-09-29T10:20:34.000Z",
+        "2017-04-04T11:56:04.000Z",
+        "2017-03-08T16:30:53.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000386",
+        "0001193805-17-002593",
+        "0001019155-17-000098",
+        "0001193805-17-000423"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286301",
+        "333-216536",
+        "333-217129",
+        "333-216536"
+      ],
+      "filingDate": [
+        "2025-03-26",
+        "2017-09-29",
+        "2017-04-04",
+        "2017-03-08"
+      ],
+      "filmNumber": [
+        "25797975",
+        "171109483",
+        "17736868",
+        "17675452"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "FORM F-6",
+        ""
+      ],
+      "primaryDocument": [
+        "e664322_f6ef-meitu.htm",
+        "e616704_f6pos-meitu.htm",
+        "meituf6.htm",
+        "e615890_f6ef-meitu.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        144290,
+        125484,
+        101138,
+        113251
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Meitu Inc./ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-250-5923",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "MEIUF"
+  ],
+  "website": ""
+}

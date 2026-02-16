@@ -1,0 +1,125 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": "ONTARIO",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "141 ADELAIDE ST W",
+      "street2": "SUITE 520",
+      "zipCode": "M5H 3L5"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": "ONTARIO",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "141 ADELAIDE ST W",
+      "street2": "SUITE 520",
+      "zipCode": "M5H 3L5"
+    }
+  },
+  "category": "",
+  "cik": "0002055938",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-23T18:43:57.000Z",
+        "2025-02-12T14:45:32.000Z"
+      ],
+      "accessionNumber": [
+        "0002055938-25-000004",
+        "0002055938-25-000001"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-544369",
+        "021-538103"
+      ],
+      "filingDate": [
+        "2025-04-24",
+        "2025-02-12"
+      ],
+      "filmNumber": [
+        "25863011",
+        "25614281"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        12745,
+        13217
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2025-02-12T00:00:00.000Z",
+      "name": "Green Light Metals Inc.",
+      "to": "2025-02-12T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "GreenLight Metals Inc.",
+  "ownerOrg": "",
+  "phone": "416-786-4867",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "GRLMF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,179 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SINGAPORE",
+      "country": "Singapore",
+      "countryCode": "U0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "28 GENTING LANE, #05-07",
+      "street2": "PLATINUM 28",
+      "zipCode": "349585"
+    },
+    "mailing": {
+      "city": "SINGAPORE",
+      "country": "Singapore",
+      "countryCode": "U0",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "28 GENTING LANE, #05-07",
+      "street2": "PLATINUM 28",
+      "zipCode": "349585"
+    }
+  },
+  "category": "",
+  "cik": "0002080803",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-10T15:44:16.000Z",
+        "2026-01-10T03:13:06.000Z",
+        "2025-12-10T16:53:26.000Z",
+        "2025-10-09T14:11:32.000Z",
+        "2025-09-17T12:32:14.000Z",
+        "2025-08-12T18:44:44.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-014029",
+        "0001213900-26-003101",
+        "0001213900-25-119964",
+        "0001213900-25-097609",
+        "0001213900-25-088370",
+        "0001213900-25-074872"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292044",
+        "333-292044",
+        "333-292044",
+        "377-08320",
+        "377-08320",
+        "377-08320"
+      ],
+      "filingDate": [
+        "2026-02-10",
+        "2026-01-12",
+        "2025-12-10",
+        "2025-10-09",
+        "2025-09-17",
+        "2025-08-12"
+      ],
+      "filmNumber": [
+        "26614046",
+        "26524490",
+        "251561314",
+        "251383822",
+        "251318834",
+        "251206098"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "AMENDMENT NO. 2 TO FORM F-1",
+        "AMENDMENT NO. 1 TO FORM F-1",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0274068-f1a2_evvolutions.htm",
+        "ea0272369-f1a1_evvolutions.htm",
+        "ea0267588-f1_evvolutions.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        3239858,
+        2860250,
+        6037032,
+        6659579,
+        6661642,
+        6652823
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Evvolutions LeadTech Inc",
+  "ownerOrg": "06 Technology",
+  "phone": "65-6258-4914",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "EVVO"
+  ],
+  "website": ""
+}

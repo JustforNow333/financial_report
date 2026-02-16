@@ -1,0 +1,240 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1500, 1055 WEST GEORGIA ST.",
+      "street2": null,
+      "zipCode": "V6E 4N7"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 1500, 1055 WEST GEORGIA ST.",
+      "street2": null,
+      "zipCode": "V6E 4N7"
+    }
+  },
+  "category": "",
+  "cik": "0001711141",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-12T22:22:58.000Z",
+        "2026-02-11T20:05:21.000Z",
+        "2025-12-23T21:56:08.000Z",
+        "2025-11-07T20:10:52.000Z",
+        "2025-08-27T00:21:26.000Z",
+        "2021-05-11T20:08:50.000Z",
+        "2019-09-16T23:32:41.000Z",
+        "2019-09-10T18:14:14.000Z",
+        "2017-07-21T19:53:40.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-006477",
+        "0001493152-26-006184",
+        "0001493152-25-029075",
+        "0001493152-25-021228",
+        "0001641172-25-025591",
+        "0001183740-21-000098",
+        "0001183740-19-000207",
+        "0001183740-19-000201",
+        "0001183740-17-000120"
+      ],
+      "act": [
+        "34",
+        "NE",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "10-12G",
+        "RW",
+        "XBRL",
+        "XBRL",
+        "XBRL",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "000-56824",
+        "333-289872",
+        "333-289872",
+        "333-289872",
+        "333-289872",
+        "021-398973",
+        "021-348974",
+        "021-348421",
+        "021-291297"
+      ],
+      "filingDate": [
+        "2026-02-12",
+        "2026-02-11",
+        "2025-12-23",
+        "2025-11-07",
+        "2025-08-26",
+        "2021-05-11",
+        "2019-09-17",
+        "2019-09-10",
+        "2017-07-21"
+      ],
+      "filmNumber": [
+        "26627705",
+        "26620192",
+        "251601463",
+        "251462239",
+        "251259356",
+        "21911343",
+        "191095790",
+        "191084899",
+        "17976583"
+      ],
+      "form": [
+        "10-12G",
+        "RW",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "10-12G",
+        "RW",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "form10-12g.htm",
+        "formrw.htm",
+        "forms-1a.htm",
+        "forms-1a.htm",
+        "forms-1.htm",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2787317,
+        12341,
+        20225033,
+        67709573,
+        66564301,
+        10490,
+        9436,
+        9408,
+        7716
+      ]
+    }
+  },
+  "fiscalYearEnd": "0731",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2021-05-11T04:00:00.000Z",
+      "name": "Icanic Brands Co Inc.",
+      "to": "2021-05-11T04:00:00.000Z"
+    },
+    {
+      "from": "2019-09-10T04:00:00.000Z",
+      "name": "INTEGRATED CANNABIS COMPANY, INC.",
+      "to": "2019-09-17T04:00:00.000Z"
+    },
+    {
+      "from": "2017-07-21T04:00:00.000Z",
+      "name": "CNRP MINING INC.",
+      "to": "2017-07-21T04:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Leef Brands Inc.",
+  "ownerOrg": "03 Life Sciences",
+  "phone": "4083079366",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "LEEEF"
+  ],
+  "website": ""
+}

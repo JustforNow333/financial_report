@@ -1,0 +1,136 @@
+{
+  "addresses": {
+    "business": {
+      "city": "AUGSBURG",
+      "country": "Germany",
+      "countryCode": "2M",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "GOGGINGER STR. 73",
+      "street2": null,
+      "zipCode": "86150"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002093907",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-25T18:36:10.000Z",
+        "2025-11-12T15:09:01.000Z",
+        "2025-10-27T20:39:41.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-001657",
+        "0001019155-25-000455",
+        "0001193805-25-001515"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-291774",
+        "333-291457",
+        "333-291102"
+      ],
+      "filingDate": [
+        "2025-11-25",
+        "2025-11-12",
+        "2025-10-27"
+      ],
+      "filmNumber": [
+        "251517462",
+        "251470163",
+        "251420380"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6EF",
+        ""
+      ],
+      "primaryDocument": [
+        "e665006_f6ef-renk.htm",
+        "renkf6ef.htm",
+        "e664933_f6ef-renk.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        144390,
+        108870,
+        110389
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "RENK Group AG/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "2M",
+  "stateOfIncorporationDescription": "Germany",
+  "tickers": [
+    "RKGRY",
+    "RNKGF"
+  ],
+  "website": ""
+}

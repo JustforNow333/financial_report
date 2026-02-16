@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DIEPPE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A3",
+      "stateOrCountryDescription": "New Brunswick, Canada",
+      "street1": "105 ENGLEHART STREET, SUITE 700",
+      "street2": null,
+      "zipCode": "E1A 8K2"
+    },
+    "mailing": {
+      "city": "DIEPPE",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A3",
+      "stateOrCountryDescription": "New Brunswick, Canada",
+      "street1": "105 ENGLEHART STREET, SUITE 700",
+      "street2": null,
+      "zipCode": "E1A 8K2"
+    }
+  },
+  "category": "",
+  "cik": "0001734427",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-12T14:12:21.000Z",
+        "2025-04-08T15:28:00.000Z",
+        "2023-09-14T17:31:16.000Z",
+        "2023-09-14T17:29:30.000Z",
+        "2021-05-19T16:30:56.000Z",
+        "2020-05-15T17:15:27.000Z",
+        "2018-03-16T14:50:36.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-017309",
+        "0001062993-25-007215",
+        "0001062993-23-018030",
+        "0001062993-23-018029",
+        "0001062993-21-004862",
+        "0001734427-20-000003",
+        "0001140361-18-013842"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-566673",
+        "021-543214",
+        "021-492165",
+        "021-492163",
+        "021-399950",
+        "021-367125",
+        "021-307936"
+      ],
+      "filingDate": [
+        "2025-12-12",
+        "2025-04-08",
+        "2023-09-15",
+        "2023-09-14",
+        "2021-05-19",
+        "2020-05-15",
+        "2018-03-16"
+      ],
+      "filmNumber": [
+        "251567555",
+        "25821678",
+        "231256024",
+        "231255998",
+        "21940685",
+        "20886762",
+        "18695335"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10271,
+        10339,
+        10433,
+        10434,
+        10378,
+        10340,
+        10387
+      ]
+    }
+  },
+  "fiscalYearEnd": "1130",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Colibri Resource Corp",
+  "ownerOrg": "",
+  "phone": "(506) 383-4274",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "CRUCF"
+  ],
+  "website": ""
+}

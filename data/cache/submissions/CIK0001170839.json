@@ -1,0 +1,160 @@
+{
+  "addresses": {
+    "business": {
+      "city": null,
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": null,
+      "street2": null,
+      "zipCode": null
+    },
+    "mailing": {
+      "city": "ADDISON",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "15851 DALLAS PARKWAY",
+      "street2": "STE 410",
+      "zipCode": "75001"
+    }
+  },
+  "category": "",
+  "cik": "0001170839",
+  "description": "",
+  "ein": "752941243",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-02T19:00:30.000Z",
+        "2003-03-13T19:32:07.000Z",
+        "2002-11-08T20:31:20.000Z",
+        "2002-10-25T22:18:28.000Z",
+        "2002-05-15T22:17:17.000Z"
+      ],
+      "accessionNumber": [
+        "0001829126-25-009558",
+        "0001019687-03-000493",
+        "0001019687-02-002072",
+        "0001019687-02-001977",
+        "0001019687-02-000976"
+      ],
+      "act": [
+        "34",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "XBRL",
+        "RW",
+        "SB-2/A",
+        "SB-2/A",
+        "SB-2"
+      ],
+      "fileNumber": [
+        "000-56800",
+        "333-88374",
+        "333-88374",
+        "333-88374",
+        "333-88374"
+      ],
+      "filingDate": [
+        "2025-12-01",
+        "2003-03-13",
+        "2002-11-08",
+        "2002-10-28",
+        "2002-05-15"
+      ],
+      "filmNumber": [
+        "251542579",
+        "03602224",
+        "02814190",
+        "02799145",
+        "02654057"
+      ],
+      "form": [
+        "10-12G",
+        "RW",
+        "SB-2/A",
+        "SB-2/A",
+        "SB-2"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "10-12G",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "humitech_10-12g.htm",
+        "humitech_sb2rw-031203.txt",
+        "humitech_sb2a2-rtags.txt",
+        "humitech_sb2a1-102502.txt",
+        "humitech_sb2-051502.txt"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2141182,
+        2888,
+        315528,
+        315191,
+        482167
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "HUMITECH INTERNATIONAL GROUP INC",
+  "ownerOrg": "07 Trade & Services",
+  "phone": null,
+  "sic": "5099",
+  "sicDescription": "Wholesale-Durable Goods, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "tickers": [],
+  "website": ""
+}

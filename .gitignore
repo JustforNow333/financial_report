@@ -74,3 +74,6 @@ Thumbs.db
 
 # Local verification outputs
 tmp/
+
+# Local agent metadata
+.claude/

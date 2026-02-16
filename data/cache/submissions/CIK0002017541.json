@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "PLANTATION",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "1000 S PINE ISLAND RD STE 210",
+      "street2": null,
+      "zipCode": "33324"
+    },
+    "mailing": {
+      "city": "PLANTATION",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "1000 S PINE ISLAND RD STE 210",
+      "street2": null,
+      "zipCode": "33324"
+    }
+  },
+  "category": "",
+  "cik": "0002017541",
+  "description": "",
+  "ein": "920274909",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-10T01:14:13.000Z",
+        "2025-07-16T21:26:50.000Z",
+        "2025-04-17T18:41:50.000Z",
+        "2025-03-28T21:14:24.000Z",
+        "2025-03-24T21:28:45.000Z",
+        "2025-01-24T22:10:47.000Z",
+        "2024-11-14T21:28:48.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-005842",
+        "0001641172-25-019925",
+        "0001641172-25-005196",
+        "0001641172-25-001287",
+        "0001641172-25-000381",
+        "0001493152-25-003624",
+        "0001493152-24-045928"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-286068",
+        "333-286068",
+        "333-286068",
+        "333-286068",
+        "333-286068",
+        "377-07556",
+        "377-07556"
+      ],
+      "filingDate": [
+        "2026-02-10",
+        "2025-07-16",
+        "2025-04-17",
+        "2025-03-28",
+        "2025-03-24",
+        "2025-01-24",
+        "2024-11-14"
+      ],
+      "filmNumber": [
+        "26613089",
+        "251128169",
+        "25846613",
+        "25787700",
+        "25765191",
+        "25555033",
+        "241463044"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1/A",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "forms-1a.htm",
+        "forms-1a.htm",
+        "forms-1a.htm",
+        "forms-1a.htm",
+        "forms-1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2161134,
+        1454462,
+        8422454,
+        8490521,
+        2032608,
+        44609674,
+        44546783
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Gameverse Interactive Corp",
+  "ownerOrg": "06 Technology",
+  "phone": "5613537613",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "tickers": [
+    "GVSE"
+  ],
+  "website": ""
+}

@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SYDNEY",
+      "country": "Australia",
+      "countryCode": "C3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "LEVEL 37, GROSVENOR PLACE",
+      "street2": "225 GEORGE STREET",
+      "zipCode": "2700"
+    },
+    "mailing": {
+      "city": "SYDNEY",
+      "country": "Australia",
+      "countryCode": "C3",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "LEVEL 37, GROSVENOR PLACE",
+      "street2": "225 GEORGE STREET",
+      "zipCode": "2700"
+    }
+  },
+  "category": "",
+  "cik": "0002065932",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-13T00:15:13.000Z",
+        "2025-04-30T06:01:11.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-25-001501",
+        "0000950127-25-000074"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-286838",
+        "333-286838"
+      ],
+      "filingDate": [
+        "2025-05-12",
+        "2025-04-30"
+      ],
+      "filmNumber": [
+        "25936923",
+        "25890626"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "f-6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        1762,
+        423137
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Freelancer Ltd",
+  "ownerOrg": "International Corp Fin",
+  "phone": "61 (02) 8599 2700",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "tickers": [
+    "FRLCY",
+    "FLNCF"
+  ],
+  "website": ""
+}

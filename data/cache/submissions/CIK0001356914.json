@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "SALEM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "MA",
+      "stateOrCountryDescription": "MA",
+      "street1": "120 WASHINGTON ST.",
+      "street2": null,
+      "zipCode": "01970"
+    },
+    "mailing": {
+      "city": "SALEM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "MA",
+      "stateOrCountryDescription": "MA",
+      "street1": "120 WASHINGTON ST.",
+      "street2": null,
+      "zipCode": "01970"
+    }
+  },
+  "category": "",
+  "cik": "0001356914",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-03T21:27:17.000Z",
+        "2025-08-04T14:19:06.000Z",
+        "2025-02-07T19:34:40.000Z",
+        "2024-07-23T20:00:55.000Z",
+        "2008-02-22T17:56:15.000Z",
+        "2006-08-03T14:10:56.000Z",
+        "2006-03-23T20:01:49.000Z"
+      ],
+      "accessionNumber": [
+        "0001356914-26-000002",
+        "0001139020-25-000243",
+        "0001393905-25-000046",
+        "0001393905-24-000265",
+        "9999999997-08-007063",
+        "9999999997-06-033096",
+        "9999999997-06-010501"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "34",
+        "34",
+        "34"
+      ],
+      "core_type": [
+        "1-A/A",
+        "1-A/A",
+        "1-A/A",
+        "1-A",
+        "REGDEX",
+        "REGDEX",
+        "REGDEX"
+      ],
+      "fileNumber": [
+        "024-12470",
+        "024-12470",
+        "024-12470",
+        "024-12470",
+        "021-87509",
+        "021-87509",
+        "021-87509"
+      ],
+      "filingDate": [
+        "2026-02-03",
+        "2025-08-04",
+        "2025-02-07",
+        "2024-07-23",
+        "2008-02-19",
+        "2006-07-25",
+        "2006-03-10"
+      ],
+      "filmNumber": [
+        "26593433",
+        "251178557",
+        "25601069",
+        "241134456",
+        "08040182",
+        "06042696",
+        "06027435"
+      ],
+      "form": [
+        "1-A/A",
+        "1-A/A",
+        "1-A/A",
+        "1-A",
+        "REGDEX",
+        "REGDEX",
+        "REGDEX"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "04",
+        "04",
+        "46"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT"
+      ],
+      "primaryDocument": [
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "9999999997-08-007063.paper",
+        "9999999997-06-033096.paper",
+        "9999999997-06-010501.paper"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        1145653,
+        936543,
+        853917,
+        3625364,
+        1586,
+        1586,
+        1586
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "ECOPLUS INC",
+  "ownerOrg": "08 Industrial Applications and Services",
+  "phone": "855-955-3275",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "tickers": [
+    "ECPL"
+  ],
+  "website": ""
+}

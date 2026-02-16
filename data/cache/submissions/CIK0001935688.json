@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "#250 - 997 SEYMOUR STREET",
+      "street2": null,
+      "zipCode": "V6B 3M1"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "#250 - 997 SEYMOUR STREET",
+      "street2": null,
+      "zipCode": "V6B 3M1"
+    }
+  },
+  "category": "",
+  "cik": "0001935688",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-07-25T18:53:45.000Z",
+        "2024-05-07T19:33:53.000Z",
+        "2023-11-16T20:43:14.000Z",
+        "2022-07-11T23:10:41.000Z"
+      ],
+      "accessionNumber": [
+        "0001935688-24-000003",
+        "0001935688-24-000002",
+        "0001935688-23-000002",
+        "0001935688-22-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-519769",
+        "021-512598",
+        "021-497469",
+        "021-451896"
+      ],
+      "filingDate": [
+        "2024-07-25",
+        "2024-05-07",
+        "2023-11-16",
+        "2022-07-12"
+      ],
+      "filmNumber": [
+        "241141491",
+        "24921466",
+        "231414444",
+        "221077983"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b,4a5"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        9217,
+        9217,
+        9185,
+        9402
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Legible Inc.",
+  "ownerOrg": "",
+  "phone": "672-514-2665",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "tickers": [
+    "LEBGF"
+  ],
+  "website": ""
+}

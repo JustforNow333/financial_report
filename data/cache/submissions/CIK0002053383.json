@@ -1,0 +1,136 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "zipCode": "10179"
+    }
+  },
+  "category": "",
+  "cik": "0002053383",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-11T16:22:55.000Z",
+        "2026-01-28T19:18:07.000Z",
+        "2025-01-24T20:04:11.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-26-000048",
+        "0001193805-26-000081",
+        "0001193805-25-000089"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-293374",
+        "333-284470",
+        "333-284470"
+      ],
+      "filingDate": [
+        "2026-02-11",
+        "2026-01-28",
+        "2025-01-24"
+      ],
+      "filmNumber": [
+        "26619153",
+        "26571545",
+        "25553745"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "kholdingsf6ef.htm",
+        "e665125_f6pos-kioxia.htm",
+        "e664160_f6ef-kioxia.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        109114,
+        134387,
+        144767
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Kioxia Holdings Corporation/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "302-552-0866",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "tickers": [
+    "KXIAY",
+    "KXHCF"
+  ],
+  "website": ""
+}

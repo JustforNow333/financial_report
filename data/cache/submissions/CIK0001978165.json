@@ -1,0 +1,235 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 2380 - 1055 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6E 2E9"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "SUITE 2380 - 1055 WEST HASTINGS STREET",
+      "street2": null,
+      "zipCode": "V6E 2E9"
+    }
+  },
+  "category": "",
+  "cik": "0001978165",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-05-02T15:09:07.000Z",
+        "2024-04-16T18:28:33.000Z",
+        "2024-03-22T15:08:03.000Z",
+        "2023-11-07T17:27:39.000Z",
+        "2023-08-10T17:09:15.000Z",
+        "2023-08-03T16:26:25.000Z",
+        "2023-07-26T17:28:32.000Z",
+        "2023-07-26T17:16:43.000Z",
+        "2023-05-30T18:28:07.000Z"
+      ],
+      "accessionNumber": [
+        "0001978165-25-000002",
+        "0001085037-24-000009",
+        "0001085037-24-000007",
+        "0001085037-23-000120",
+        "0001085037-23-000089",
+        "0001085037-23-000083",
+        "0001085037-23-000080",
+        "0001085037-23-000079",
+        "0001085037-23-000068"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-545118",
+        "021-510793",
+        "021-508391",
+        "021-496741",
+        "021-489407",
+        "021-488704",
+        "021-487997",
+        "021-487997",
+        "021-482926"
+      ],
+      "filingDate": [
+        "2025-05-02",
+        "2024-04-17",
+        "2024-03-22",
+        "2023-11-07",
+        "2023-08-10",
+        "2023-08-03",
+        "2023-07-26",
+        "2023-07-26",
+        "2023-05-31"
+      ],
+      "filmNumber": [
+        "25907863",
+        "24848980",
+        "24774829",
+        "231385201",
+        "231160580",
+        "231140489",
+        "231114658",
+        "231114537",
+        "23978294"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        8758,
+        13769,
+        13767,
+        10578,
+        8568,
+        7798,
+        7892,
+        7794,
+        7682
+      ]
+    }
+  },
+  "fiscalYearEnd": "0430",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2023-11-07T00:00:00.000Z",
+      "name": "LITHOS ENERGY LTD.",
+      "to": "2023-11-07T00:00:00.000Z"
+    },
+    {
+      "from": "2023-05-31T00:00:00.000Z",
+      "name": "ALCHEMIST MINING Inc",
+      "to": "2023-08-10T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "LITHOS GROUP LTD.",
+  "ownerOrg": "",
+  "phone": "604-908-1679",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "LITSF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DALLAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "8400 WESTCHESTER DRIVE SUITE 212",
+      "street2": null,
+      "zipCode": "75225"
+    },
+    "mailing": {
+      "city": "DALLAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "8400 WESTCHESTER DRIVE SUITE 212",
+      "street2": null,
+      "zipCode": "75225"
+    }
+  },
+  "category": "",
+  "cik": "0002104177",
+  "description": "",
+  "ein": "981899777",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-20T22:09:29.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-005733"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "fileNumber": [
+        "333-292835"
+      ],
+      "filingDate": [
+        "2026-01-20"
+      ],
+      "filmNumber": [
+        "26543770"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "ea0272676-01.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        8579879
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Long Table Growth Corp.",
+  "ownerOrg": "",
+  "phone": "9176553234",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

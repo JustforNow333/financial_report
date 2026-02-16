@@ -1,0 +1,106 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ROAD TOWN",
+      "country": "Virgin Islands, British",
+      "countryCode": "D8",
+      "foreignStateTerritory": "TORTOLA",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "KINGSTON CHAMBERS",
+      "street2": "PO BOX 173",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "DEUTSCHE BANK TRUST COMPANY AMERICAS",
+      "street2": "1 COLUMBUS CIRCLE",
+      "zipCode": "10019"
+    }
+  },
+  "category": "",
+  "cik": "0002094201",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-10-31T10:35:07.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-104754"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-291184"
+      ],
+      "filingDate": [
+        "2025-10-31"
+      ],
+      "filmNumber": [
+        "251438602"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "tm2528432d4_f6ef.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        142049
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "DPC DASH LTD/ADR",
+  "ownerOrg": "",
+  "phone": "340-774-8588",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "tickers": [
+    "DPDSY",
+    "DPCDF"
+  ],
+  "website": ""
+}

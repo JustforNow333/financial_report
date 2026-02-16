@@ -1,0 +1,160 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0001939479",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-02T17:16:46.000Z",
+        "2024-01-02T11:50:23.000Z",
+        "2022-08-23T00:15:33.000Z",
+        "2022-08-11T11:48:37.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000471",
+        "0001019155-24-000002",
+        "9999999995-22-002463",
+        "0001019155-22-000167"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B3",
+        "424B3",
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-266767",
+        "333-266767",
+        "333-266767",
+        "333-266767"
+      ],
+      "filingDate": [
+        "2025-12-02",
+        "2024-01-02",
+        "2022-08-22",
+        "2022-08-11"
+      ],
+      "filmNumber": [
+        "251544103",
+        "24501106",
+        "221185008",
+        "221154490"
+      ],
+      "form": [
+        "424B3",
+        "424B3",
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "F-6,,2022-08-22 09:00:00",
+        ""
+      ],
+      "primaryDocDescription": [
+        "424B3",
+        "424B3",
+        "",
+        "F-6"
+      ],
+      "primaryDocument": [
+        "uspace424.htm",
+        "uspace424b3.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "honhkongf6.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        100601,
+        90553,
+        1682,
+        333169
+      ]
+    }
+  },
+  "fiscalYearEnd": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2024-01-02T00:00:00.000Z",
+      "name": "USPACE Technology Group Limited/ADR",
+      "to": "2024-01-02T00:00:00.000Z"
+    },
+    {
+      "from": "2022-08-11T00:00:00.000Z",
+      "name": "Hong Kong Aerospace Technology Group Limited/ADR",
+      "to": "2022-08-22T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "China Strategic Technology Group Limited/ADR",
+  "ownerOrg": "06 Technology",
+  "phone": "2122383128",
+  "sic": "3510",
+  "sicDescription": "Engines & Turbines",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "tickers": [
+    "USPCY"
+  ],
+  "website": ""
+}

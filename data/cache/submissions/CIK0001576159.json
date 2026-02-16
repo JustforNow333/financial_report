@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 90, 200 GRANVILLE STREET",
+      "street2": null,
+      "zipCode": "V6C 1S4"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "SUITE 90, 200 GRANVILLE STREET",
+      "street2": null,
+      "zipCode": "V6C 1S4"
+    }
+  },
+  "category": "",
+  "cik": "0001576159",
+  "description": "",
+  "ein": "980424071",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-08-08T20:19:29.000Z",
+        "2014-05-08T18:59:59.000Z",
+        "2013-05-07T18:41:26.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-014003",
+        "0001576159-14-000001",
+        "0001576159-13-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-554232",
+        "021-196124",
+        "021-196124"
+      ],
+      "filingDate": [
+        "2025-08-11",
+        "2014-05-09",
+        "2013-05-08"
+      ],
+      "filmNumber": [
+        "251199847",
+        "14826599",
+        "13821694"
+      ],
+      "form": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10831,
+        11660,
+        10242
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "BuildDirect.com Technologies Inc.",
+  "ownerOrg": "",
+  "phone": "604-662-8100",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "BDCTF"
+  ],
+  "website": ""
+}

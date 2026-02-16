@@ -1,0 +1,209 @@
+{
+  "addresses": {
+    "business": {
+      "city": "ST. JOHN'S",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A4",
+      "stateOrCountryDescription": "Newfoundland, Canada",
+      "street1": "120 TORBAY ROAD, SUITE W220",
+      "street2": null,
+      "zipCode": "A1A 2G8"
+    },
+    "mailing": {
+      "city": "ST. JOHN'S",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A4",
+      "stateOrCountryDescription": "Newfoundland, Canada",
+      "street1": "120 TORBAY ROAD, SUITE W220",
+      "street2": null,
+      "zipCode": "A1A 2G8"
+    }
+  },
+  "category": "",
+  "cik": "0001476573",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-08-21T13:32:51.000Z",
+        "2023-04-25T13:56:53.000Z",
+        "2021-12-30T08:12:08.000Z",
+        "2021-03-09T14:06:02.000Z",
+        "2019-04-26T16:37:19.000Z",
+        "2012-04-03T12:05:27.000Z",
+        "2010-06-15T13:03:12.000Z",
+        "2009-11-12T14:23:27.000Z"
+      ],
+      "accessionNumber": [
+        "0000912282-24-000582",
+        "0001567619-23-005759",
+        "0001476573-21-000003",
+        "0001476573-21-000002",
+        "0001476573-19-000003",
+        "0001534122-12-000018",
+        "0001284834-10-000039",
+        "0000912282-09-001637"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-522098",
+        "021-479893",
+        "021-427251",
+        "021-391628",
+        "021-338272",
+        "021-176074",
+        "021-143523",
+        "021-136051"
+      ],
+      "filingDate": [
+        "2024-08-21",
+        "2023-04-25",
+        "2021-12-30",
+        "2021-03-09",
+        "2019-04-26",
+        "2012-04-03",
+        "2010-06-15",
+        "2009-11-12"
+      ],
+      "filmNumber": [
+        "241228327",
+        "23843834",
+        "211530634",
+        "21725192",
+        "19772228",
+        "12736127",
+        "10896893",
+        "091176362"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06",
+        "06",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        14122,
+        15733,
+        16270,
+        14402,
+        16340,
+        16227,
+        15484,
+        11637
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Aurion Resources Ltd.",
+  "ownerOrg": "",
+  "phone": "709-699-8300",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "AIRRF"
+  ],
+  "website": ""
+}

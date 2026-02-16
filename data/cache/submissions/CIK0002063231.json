@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "BANGKOK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "W1",
+      "stateOrCountryDescription": "Thailand",
+      "street1": "22 SOI SOMKID PLOENCHIT ROAD LUMPINI",
+      "street2": "PATHUMWAN,",
+      "zipCode": "10330"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "zipCode": "10013"
+    }
+  },
+  "category": "",
+  "cik": "0002063231",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-26T16:37:29.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000382"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286124"
+      ],
+      "filingDate": [
+        "2025-03-26"
+      ],
+      "filmNumber": [
+        "25773806"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "e664329_f6ef-centralretail.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        111399
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Central Retail Corp Public Co Limited/ADR",
+  "ownerOrg": "",
+  "phone": "212-816-6638",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "W1",
+  "stateOfIncorporationDescription": "Thailand",
+  "tickers": [
+    "CLRLY"
+  ],
+  "website": ""
+}

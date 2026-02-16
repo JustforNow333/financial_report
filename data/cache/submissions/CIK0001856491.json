@@ -1,0 +1,160 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CHENGDU",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "B5-19,BUILDING,HIGH-TECH INCUBATION PARK",
+      "street2": "NO. 1480 NORTH SECTION OF TIANFU AVENUE",
+      "zipCode": "610041"
+    },
+    "mailing": {
+      "city": "CHENGDU",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "F4",
+      "stateOrCountryDescription": "China",
+      "street1": "B5-19,BUILDING,HIGH-TECH INCUBATION PARK",
+      "street2": "NO. 1480 NORTH SECTION OF TIANFU AVENUE",
+      "zipCode": "610041"
+    }
+  },
+  "category": "",
+  "cik": "0001856491",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-28T18:14:50.000Z",
+        "2024-04-12T01:52:35.000Z",
+        "2023-05-09T10:01:55.000Z",
+        "2022-05-24T11:07:47.000Z",
+        "2021-04-28T18:28:25.000Z"
+      ],
+      "accessionNumber": [
+        "0001856491-25-000001",
+        "0001856491-24-000005",
+        "0001104659-23-057396",
+        "0001104659-22-064094",
+        "0001104659-21-056432"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D/A",
+        "D",
+        "D/A",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-510412",
+        "021-510412",
+        "021-397534",
+        "021-397534",
+        "021-397534"
+      ],
+      "filingDate": [
+        "2025-04-28",
+        "2024-04-12",
+        "2023-05-09",
+        "2022-05-24",
+        "2021-04-28"
+      ],
+      "filmNumber": [
+        "25879088",
+        "24839850",
+        "23899756",
+        "22953977",
+        "21863429"
+      ],
+      "form": [
+        "D/A",
+        "D",
+        "D/A",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        7982,
+        7877,
+        7683,
+        7837,
+        9861
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Clover Biopharmaceuticals, Ltd.",
+  "ownerOrg": "",
+  "phone": "0086-28-8533-6966",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [],
+  "website": ""
+}

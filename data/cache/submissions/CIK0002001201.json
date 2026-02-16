@@ -1,0 +1,140 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": "BRITISH COLUMBIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "3200 - 733 SEYMOUR STREET",
+      "street2": null,
+      "zipCode": "V6B 0S6"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": "BRITISH COLUMBIA",
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "3200 - 733 SEYMOUR STREET",
+      "street2": null,
+      "zipCode": "V6B 0S6"
+    }
+  },
+  "category": "",
+  "cik": "0002001201",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-14T18:12:02.000Z",
+        "2024-01-23T18:19:28.000Z",
+        "2024-01-02T19:35:07.000Z"
+      ],
+      "accessionNumber": [
+        "0002001201-25-000003",
+        "0000912282-24-000059",
+        "0000912282-24-000004"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-564079",
+        "021-501296",
+        "021-501296"
+      ],
+      "filingDate": [
+        "2025-11-14",
+        "2024-01-23",
+        "2024-01-02"
+      ],
+      "filmNumber": [
+        "251483895",
+        "24551818",
+        "24501942"
+      ],
+      "form": [
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        13835,
+        9763,
+        9670
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2024-01-02T05:00:00.000Z",
+      "name": "Atacama Copper Corp",
+      "to": "2024-01-23T05:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Fuerte Metals Corp",
+  "ownerOrg": "",
+  "phone": "604-646-1890",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "FUEMF"
+  ],
+  "website": ""
+}

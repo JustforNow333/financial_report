@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HAIKOU",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": "HAINAN PROVINCE",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "1133, 1ST FLOOR, ZONE D2, FUXING CITY",
+      "street2": "NO. 32 BINHAI AVENUE, LONGHUA DISTRICT",
+      "zipCode": "00000"
+    },
+    "mailing": {
+      "city": "HAIKOU",
+      "country": "China",
+      "countryCode": "F4",
+      "foreignStateTerritory": "HAINAN PROVINCE",
+      "isForeignLocation": 1,
+      "stateOrCountry": "",
+      "stateOrCountryDescription": "",
+      "street1": "1133, 1ST FLOOR, ZONE D2, FUXING CITY",
+      "street2": "NO. 32 BINHAI AVENUE, LONGHUA DISTRICT",
+      "zipCode": "00000"
+    }
+  },
+  "category": "",
+  "cik": "0002071350",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-07-31T11:11:19.000Z"
+      ],
+      "accessionNumber": [
+        "0001477932-25-005355"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-1"
+      ],
+      "fileNumber": [
+        "333-289115"
+      ],
+      "filingDate": [
+        "2025-07-31"
+      ],
+      "filmNumber": [
+        "251170216"
+      ],
+      "form": [
+        "F-1"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM F-1"
+      ],
+      "primaryDocument": [
+        "cwi_f1.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        3064961
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "CHARMING WOW INC",
+  "ownerOrg": "",
+  "phone": "086 898 88726183",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "tickers": [
+    "YMXK"
+  ],
+  "website": ""
+}

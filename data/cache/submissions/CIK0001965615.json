@@ -1,0 +1,134 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DOWLING",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "45 OAK STREET, BOX 103",
+      "street2": null,
+      "zipCode": "P0M 1R0"
+    },
+    "mailing": {
+      "city": "DOWLING",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "45 OAK STREET, BOX 103",
+      "street2": null,
+      "zipCode": "P0M 1R0"
+    }
+  },
+  "category": "",
+  "cik": "0001965615",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-20T13:16:42.000Z",
+        "2024-11-19T17:13:56.000Z",
+        "2023-02-13T12:31:17.000Z"
+      ],
+      "accessionNumber": [
+        "0000912282-25-000311",
+        "0000912282-24-000819",
+        "0001567619-23-002466"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-541558",
+        "021-529897",
+        "021-473298"
+      ],
+      "filingDate": [
+        "2025-03-20",
+        "2024-11-19",
+        "2023-02-13"
+      ],
+      "filmNumber": [
+        "25755607",
+        "241477263",
+        "23616186"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        14279,
+        13641,
+        10536
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "MAGNA MINING INC.",
+  "ownerOrg": "",
+  "phone": "(705) 665-0262",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "MGMNF"
+  ],
+  "website": ""
+}

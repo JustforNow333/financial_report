@@ -1,0 +1,145 @@
+{
+  "addresses": {
+    "business": {
+      "city": "MEMPHIS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "TN",
+      "stateOrCountryDescription": "TN",
+      "street1": "8525 TOURNAMENT DRIVE",
+      "street2": null,
+      "zipCode": "38125"
+    },
+    "mailing": {
+      "city": "MEMPHIS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "TN",
+      "stateOrCountryDescription": "TN",
+      "street1": "8525 TOURNAMENT DRIVE",
+      "street2": null,
+      "zipCode": "38125"
+    }
+  },
+  "category": "",
+  "cik": "0002082247",
+  "description": "",
+  "ein": "393560171",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-16T13:02:30.000Z",
+        "2025-11-14T21:06:34.000Z",
+        "2025-10-14T15:10:18.000Z",
+        "2025-08-29T17:25:41.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-26-004329",
+        "0001104659-25-112498",
+        "0001104659-25-099124",
+        "0001104659-25-085477"
+      ],
+      "act": [
+        "34",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "10-12B",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "001-43059",
+        "377-08392",
+        "377-08392",
+        "377-08392"
+      ],
+      "filingDate": [
+        "2026-01-16",
+        "2025-11-14",
+        "2025-10-14",
+        "2025-08-29"
+      ],
+      "filmNumber": [
+        "26537677",
+        "251485923",
+        "251390463",
+        "251279358"
+      ],
+      "form": [
+        "10-12B",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "10-12B",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm2520565-6_1012b.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        8207049,
+        3889833,
+        2824258,
+        2801178
+      ]
+    }
+  },
+  "fiscalYearEnd": "0531",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "FedEx Freight Holding Company, Inc.",
+  "ownerOrg": "01 Energy & Transportation",
+  "phone": "901-818-7167",
+  "sic": "4513",
+  "sicDescription": "Air Courier Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "tickers": [],
+  "website": ""
+}

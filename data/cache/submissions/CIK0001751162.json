@@ -1,0 +1,194 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVE",
+      "street2": "FLOOR 11",
+      "zipCode": "10017"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "383 MADISON AVE",
+      "street2": "FLOOR 11",
+      "zipCode": "10017"
+    }
+  },
+  "category": "",
+  "cik": "0001751162",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-02-25T12:17:30.000Z",
+        "2025-02-24T13:14:39.000Z",
+        "2025-02-13T16:49:23.000Z",
+        "2019-11-23T01:51:32.000Z",
+        "2019-11-08T12:46:54.000Z",
+        "2018-11-05T09:05:30.000Z",
+        "2018-08-24T17:28:06.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-016848",
+        "0001193805-25-000223",
+        "0001193805-25-000187",
+        "0001193805-19-001729",
+        "0001104659-19-061534",
+        "0001193805-18-001294",
+        "0001193805-18-001092"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-234590",
+        "333-228160",
+        "333-235171",
+        "333-235171",
+        "333-234590",
+        "333-228160",
+        "333-227020"
+      ],
+      "filingDate": [
+        "2025-02-25",
+        "2025-02-24",
+        "2025-02-13",
+        "2019-11-22",
+        "2019-11-08",
+        "2018-11-05",
+        "2018-08-24"
+      ],
+      "filmNumber": [
+        "25660468",
+        "25655786",
+        "25621140",
+        "191243514",
+        "191203258",
+        "181158941",
+        "181037751"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "",
+        "",
+        "",
+        "F-6EF",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tm257483d1_f6pos.htm",
+        "e664223_f6pos-ctcl.htm",
+        "e664199_f6pos-chinatower.htm",
+        "e618874_f6ef-ctcl.htm",
+        "tm1922256-2_f6ef.htm",
+        "e618028_f6ef-ctcl.htm",
+        "e618240_f6ef-ct.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        131561,
+        105519,
+        132650,
+        131963,
+        146536,
+        113092,
+        112139
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "China Tower Corp Limited/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "3025520319",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "tickers": [
+    "CHWRF"
+  ],
+  "website": ""
+}

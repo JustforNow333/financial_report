@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1177 WEST HASTINGS STREET, SUITE 1630",
+      "street2": null,
+      "zipCode": "V6E 2K3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "1177 WEST HASTINGS STREET, SUITE 1630",
+      "street2": null,
+      "zipCode": "V6E 2K3"
+    }
+  },
+  "category": "",
+  "cik": "0001968617",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-05-29T16:00:32.000Z",
+        "2024-01-02T18:27:41.000Z",
+        "2023-11-01T18:27:16.000Z",
+        "2023-05-17T16:54:00.000Z",
+        "2023-03-08T17:23:55.000Z"
+      ],
+      "accessionNumber": [
+        "0001183740-24-000049",
+        "0001183740-24-000002",
+        "0001183740-23-000120",
+        "0001183740-23-000067",
+        "0001183740-23-000041"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D/A",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "fileNumber": [
+        "021-514538",
+        "021-496303",
+        "021-496303",
+        "021-475287",
+        "021-475287"
+      ],
+      "filingDate": [
+        "2024-05-29",
+        "2024-01-03",
+        "2023-11-02",
+        "2023-05-17",
+        "2023-03-08"
+      ],
+      "filmNumber": [
+        "24998213",
+        "24503839",
+        "231369478",
+        "23932513",
+        "23717241"
+      ],
+      "form": [
+        "D",
+        "D/A",
+        "D",
+        "D/A",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        16088,
+        14193,
+        12782,
+        12701,
+        12534
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Coppernico Metals Inc.",
+  "ownerOrg": "",
+  "phone": "7787290600",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "CPPMF"
+  ],
+  "website": ""
+}

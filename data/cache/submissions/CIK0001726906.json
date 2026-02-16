@@ -1,0 +1,149 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "717, 1030 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 2Y3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "717, 1030 WEST GEORGIA STREET",
+      "street2": null,
+      "zipCode": "V6E 2Y3"
+    }
+  },
+  "category": "",
+  "cik": "0001726906",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-11-07T17:10:34.000Z",
+        "2023-05-25T13:24:43.000Z",
+        "2018-01-11T18:37:49.000Z",
+        "2018-01-09T14:18:44.000Z"
+      ],
+      "accessionNumber": [
+        "0001726906-24-000001",
+        "0001726906-23-000003",
+        "0001726906-18-000002",
+        "0001726906-18-000001"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-528927",
+        "021-482619",
+        "021-303070",
+        "021-302756"
+      ],
+      "filingDate": [
+        "2024-11-07",
+        "2023-05-25",
+        "2018-01-12",
+        "2018-01-09"
+      ],
+      "filmNumber": [
+        "241437018",
+        "23958910",
+        "18524440",
+        "18518721"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        11022,
+        9875,
+        11589,
+        11726
+      ]
+    }
+  },
+  "fiscalYearEnd": "0430",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Kutcho Copper Corp.",
+  "ownerOrg": "",
+  "phone": "(604) 628-5623",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "KCCFF"
+  ],
+  "website": ""
+}

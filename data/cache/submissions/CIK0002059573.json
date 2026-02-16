@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "BIRMINGHAM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "2960 TRIDENT COURT SOLIHULL PARKWAY",
+      "street2": "BIRMINGHAM BUSINESS PARK",
+      "zipCode": "B37 7YN"
+    },
+    "mailing": {
+      "city": "BIRMINGHAM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "2960 TRIDENT COURT SOLIHULL PARKWAY",
+      "street2": "BIRMINGHAM BUSINESS PARK",
+      "zipCode": "B37 7YN"
+    }
+  },
+  "category": "",
+  "cik": "0002059573",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-11T06:01:52.000Z"
+      ],
+      "accessionNumber": [
+        "0001104659-25-022333"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-540351"
+      ],
+      "filingDate": [
+        "2025-03-11"
+      ],
+      "filmNumber": [
+        "25725701"
+      ],
+      "form": [
+        "D"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        "06b"
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        13058
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Pinewood Technologies Group plc",
+  "ownerOrg": "",
+  "phone": "00441216976600",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "tickers": [
+    "PINWF"
+  ],
+  "website": ""
+}

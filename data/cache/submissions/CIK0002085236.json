@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "FRANKFURT AM MAIN",
+      "country": "Germany",
+      "countryCode": "2M",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "GUERICKESTRASSE 7",
+      "street2": null,
+      "zipCode": "60488"
+    },
+    "mailing": {
+      "city": "FRANKFURT AM MAIN",
+      "country": "Germany",
+      "countryCode": "2M",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "GUERICKESTRASSE 7",
+      "street2": null,
+      "zipCode": "60488"
+    }
+  },
+  "category": "",
+  "cik": "0002085236",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-09-19T00:15:19.000Z",
+        "2025-09-09T11:19:18.000Z"
+      ],
+      "accessionNumber": [
+        "9999999995-25-003007",
+        "0000950127-25-000108"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-290124",
+        "333-290124"
+      ],
+      "filingDate": [
+        "2025-09-18",
+        "2025-09-09"
+      ],
+      "filmNumber": [
+        "251324847",
+        "251302240"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        ",,",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "REGISTRATION STATEMENT"
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "f-6.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        1729,
+        474083
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "AUMOVIO SE",
+  "ownerOrg": "International Corp Fin",
+  "phone": "49 69 76034390",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "2M",
+  "stateOfIncorporationDescription": "Germany",
+  "tickers": [
+    "AMVOY",
+    "AMVIF"
+  ],
+  "website": ""
+}

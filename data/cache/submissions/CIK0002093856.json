@@ -1,0 +1,136 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1450 789 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 1H2"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": "British Columbia, Canada",
+      "countryCode": "A1",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "1450 789 WEST PENDER STREET",
+      "street2": null,
+      "zipCode": "V6C 1H2"
+    }
+  },
+  "category": "",
+  "cik": "0002093856",
+  "description": "",
+  "ein": "741775688",
+  "entityType": "other",
+  "exchanges": [
+    null,
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-12-16T02:41:21.000Z",
+        "2025-11-12T20:49:00.000Z",
+        "2025-11-10T22:12:54.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-25-017349",
+        "0001062993-25-016669",
+        "0001062993-25-016605"
+      ],
+      "act": [
+        "34",
+        "33",
+        "34"
+      ],
+      "core_type": [
+        "40FR12B/A",
+        "F-X",
+        "40FR12B"
+      ],
+      "fileNumber": [
+        "001-42949",
+        "001-42949",
+        "001-42949"
+      ],
+      "filingDate": [
+        "2025-12-16",
+        "2025-11-12",
+        "2025-11-10"
+      ],
+      "filmNumber": [
+        "251573197",
+        "251472265",
+        "251467362"
+      ],
+      "form": [
+        "40FR12B/A",
+        "F-X",
+        "40FR12B"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM 40FR12B/A",
+        "FORM F-X",
+        "FORM 40FR12B"
+      ],
+      "primaryDocument": [
+        "form40fr12ba.htm",
+        "formfx.htm",
+        "form40fr12b.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        3317396,
+        14152,
+        10544122
+      ]
+    }
+  },
+  "fiscalYearEnd": "0731",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": "5299002BFQYW25WD9A95",
+  "name": "APEX CRITICAL METALS CORP.",
+  "ownerOrg": "01 Energy & Transportation",
+  "phone": "604-681-1568",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "APXC",
+    "APXCF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "CAMBERWELL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "C3",
+      "stateOrCountryDescription": "Australia",
+      "street1": "SUITE 201, 697 BURKE ROAD",
+      "street2": null,
+      "zipCode": "3124"
+    },
+    "mailing": {
+      "city": "CAMBERWELL",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "C3",
+      "stateOrCountryDescription": "Australia",
+      "street1": "SUITE 201, 697 BURKE ROAD",
+      "street2": null,
+      "zipCode": "3124"
+    }
+  },
+  "category": "",
+  "cik": "0002012855",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-06-05T14:04:45.000Z"
+      ],
+      "accessionNumber": [
+        "0000898432-24-000462"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-515176"
+      ],
+      "filingDate": [
+        "2024-06-05"
+      ],
+      "filmNumber": [
+        "241021111"
+      ],
+      "form": [
+        "D"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        "06c"
+      ],
+      "primaryDocDescription": [
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        9413
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Island Pharmaceuticals Ltd",
+  "ownerOrg": "",
+  "phone": "61390920475",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "tickers": [],
+  "website": ""
+}

@@ -1,0 +1,239 @@
+{
+  "addresses": {
+    "business": {
+      "city": "HARBOUR CITY, TSIM SHA TSUI",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "SUITE 3902-03, 39/F",
+      "street2": "TOWER 6, THE GATEWAY",
+      "zipCode": "0000"
+    },
+    "mailing": {
+      "city": "HARBOUR CITY, TSIM SHA TSUI",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "K3",
+      "stateOrCountryDescription": "Hong Kong",
+      "street1": "SUITE 3902-03, 39/F",
+      "street2": "TOWER 6, THE GATEWAY",
+      "zipCode": "0000"
+    }
+  },
+  "category": "",
+  "cik": "0002000208",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-06T11:41:22.000Z",
+        "2026-01-02T05:15:12.000Z",
+        "2025-12-05T21:24:31.000Z",
+        "2025-10-08T18:54:23.000Z",
+        "2025-09-03T17:54:52.000Z",
+        "2025-05-19T18:24:21.000Z",
+        "2025-05-06T16:29:28.000Z",
+        "2025-04-17T20:00:30.000Z",
+        "2025-03-28T10:10:52.000Z",
+        "2024-12-06T21:34:49.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-26-000503",
+        "9999999995-26-000007",
+        "0001493152-25-026376",
+        "0001493152-25-017407",
+        "0001641172-25-026342",
+        "0001641172-25-011431",
+        "0001641172-25-008789",
+        "0001641172-25-005218",
+        "0001641172-25-001024",
+        "0001493152-24-049094"
+      ],
+      "act": [
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "FWP",
+        "EFFECT",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-290005",
+        "333-290005",
+        "333-290005",
+        "333-290005",
+        "333-290005",
+        "377-07596",
+        "377-07596",
+        "377-07596",
+        "377-07596",
+        "377-07596"
+      ],
+      "filingDate": [
+        "2026-01-06",
+        "2025-12-31",
+        "2025-12-05",
+        "2025-10-08",
+        "2025-09-03",
+        "2025-05-19",
+        "2025-05-06",
+        "2025-04-17",
+        "2025-03-28",
+        "2024-12-06"
+      ],
+      "filmNumber": [
+        "26509361",
+        "26500008",
+        "251553258",
+        "251382118",
+        "251288740",
+        "25963154",
+        "25916277",
+        "25847157",
+        "25781308",
+        "241532810"
+      ],
+      "form": [
+        "FWP",
+        "EFFECT",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "FWP",
+        "",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "formfwp.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        2944337,
+        1802,
+        8527481,
+        93355325,
+        5688086,
+        6600223,
+        6598767,
+        6600328,
+        6578347,
+        4324411
+      ]
+    }
+  },
+  "fiscalYearEnd": "0331",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Kepler Group Ltd",
+  "ownerOrg": "02 Finance",
+  "phone": "(852) 2155 2889",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "K3",
+  "stateOfIncorporationDescription": "Hong Kong",
+  "tickers": [
+    "KPL"
+  ],
+  "website": ""
+}

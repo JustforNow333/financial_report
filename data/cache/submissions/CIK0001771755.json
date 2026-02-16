@@ -1,0 +1,260 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "MNP TOWER",
+      "street2": "900 - 1021 WEST HASTINGS STREET",
+      "zipCode": "V6E 0C3"
+    },
+    "mailing": {
+      "city": "VANCOUVER",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A1",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "street1": "MNP TOWER",
+      "street2": "900 - 1021 WEST HASTINGS STREET",
+      "zipCode": "V6E 0C3"
+    }
+  },
+  "category": "",
+  "cik": "0001771755",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2024-10-09T19:51:28.000Z",
+        "2023-12-13T15:54:07.000Z",
+        "2023-11-20T15:43:10.000Z",
+        "2023-10-11T13:39:03.000Z",
+        "2023-08-01T06:04:23.000Z",
+        "2023-06-12T14:59:38.000Z",
+        "2023-02-23T18:07:38.000Z",
+        "2022-09-16T16:22:50.000Z",
+        "2020-06-02T15:01:59.000Z",
+        "2020-02-03T19:52:33.000Z",
+        "2019-04-03T12:02:39.000Z"
+      ],
+      "accessionNumber": [
+        "0001493152-24-040639",
+        "0001493152-23-044693",
+        "0001493152-23-042068",
+        "0001493152-23-036889",
+        "0001493152-23-026146",
+        "0001493152-23-020888",
+        "0001493152-23-005906",
+        "0001493152-22-026080",
+        "0001771755-20-000001",
+        "0001534122-20-000003",
+        "0001534122-19-000013"
+      ],
+      "act": [
+        "NE",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "RW",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "333-267471",
+        "333-267471",
+        "333-267471",
+        "333-267471",
+        "333-267471",
+        "333-267471",
+        "333-267471",
+        "333-267471",
+        "021-368135",
+        "021-359667",
+        "021-336334"
+      ],
+      "filingDate": [
+        "2024-10-10",
+        "2023-12-13",
+        "2023-11-20",
+        "2023-10-11",
+        "2023-08-01",
+        "2023-06-12",
+        "2023-02-24",
+        "2022-09-16",
+        "2020-06-02",
+        "2020-02-04",
+        "2019-04-03"
+      ],
+      "filmNumber": [
+        "241363605",
+        "231483905",
+        "231422621",
+        "231320180",
+        "231129464",
+        "231007798",
+        "23661459",
+        "221248309",
+        "20936709",
+        "20570283",
+        "19728016"
+      ],
+      "form": [
+        "RW",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "formrw.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        10711,
+        2554537,
+        9558289,
+        3161360,
+        2523134,
+        2326637,
+        14715344,
+        5751005,
+        8563,
+        8569,
+        8312
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2019-04-03T00:00:00.000Z",
+      "name": "GlobeX Data Ltd.",
+      "to": "2020-06-02T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Sekur Private Data Ltd.",
+  "ownerOrg": "06 Technology",
+  "phone": "6045585134",
+  "sic": "4822",
+  "sicDescription": "Telegraph & Other Message Communications",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "tickers": [
+    "SWISF"
+  ],
+  "website": ""
+}

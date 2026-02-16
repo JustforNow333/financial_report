@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "RICKMANSWORTH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "59 / 61 HIGH STREET",
+      "street2": null,
+      "zipCode": "WD3 1RH"
+    },
+    "mailing": {
+      "city": "RICKMANSWORTH",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "59 / 61 HIGH STREET",
+      "street2": null,
+      "zipCode": "WD3 1RH"
+    }
+  },
+  "category": "",
+  "cik": "0001329213",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-04-11T13:07:49.000Z",
+        "2016-01-12T11:14:40.000Z",
+        "2008-06-05T10:13:44.000Z",
+        "2007-05-22T10:59:51.000Z",
+        "2005-06-06T10:51:02.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000136",
+        "0001329213-16-000003",
+        "9999999997-08-027150",
+        "9999999997-07-024718",
+        "9999999997-05-026325"
+      ],
+      "act": [
+        "33",
+        "33",
+        "34",
+        "34",
+        "34"
+      ],
+      "core_type": [
+        "F-6EF",
+        "D",
+        "REGDEX",
+        "REGDEX",
+        "REGDEX"
+      ],
+      "fileNumber": [
+        "333-286477",
+        "021-254937",
+        "021-77731",
+        "021-77731",
+        "021-77731"
+      ],
+      "filingDate": [
+        "2025-04-11",
+        "2016-01-12",
+        "2008-06-02",
+        "2007-05-10",
+        "2005-06-01"
+      ],
+      "filmNumber": [
+        "25830857",
+        "161338001",
+        "08047598",
+        "07054346",
+        "05056054"
+      ],
+      "form": [
+        "F-6EF",
+        "D",
+        "REGDEX",
+        "REGDEX",
+        "REGDEX"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "06b",
+        "06",
+        "06",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "F-6 EF",
+        "",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT",
+        "AUTO-GENERATED PAPER DOCUMENT"
+      ],
+      "primaryDocument": [
+        "seniorplcf6.htm",
+        "xslFormDX01/primary_doc.xml",
+        "9999999997-08-027150.paper",
+        "9999999997-07-024718.paper",
+        "9999999997-05-026325.paper"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        106434,
+        11119,
+        1533,
+        1533,
+        1533
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "SENIOR PLC",
+  "ownerOrg": "",
+  "phone": "44 (0)1923 775547",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "tickers": [
+    "SNIRF"
+  ],
+  "website": ""
+}

@@ -1,0 +1,164 @@
+{
+  "addresses": {
+    "business": {
+      "city": "UNIVERSITY PARK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "8031 COOPER CREEK BLVD.",
+      "street2": "SUITE 103",
+      "zipCode": "34201"
+    },
+    "mailing": {
+      "city": "UNIVERSITY PARK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "8031 COOPER CREEK BLVD.",
+      "street2": "SUITE 103",
+      "zipCode": "34201"
+    }
+  },
+  "category": "",
+  "cik": "0002079272",
+  "description": "",
+  "ein": "205274304",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-12T21:56:12.000Z",
+        "2026-02-05T02:35:12.000Z",
+        "2026-01-09T22:28:08.000Z",
+        "2025-10-17T21:07:22.000Z",
+        "2025-07-31T21:23:32.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-015814",
+        "0001213900-26-012492",
+        "0001213900-26-003037",
+        "0001213900-25-100021",
+        "0001213900-25-070092"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292664",
+        "333-292664",
+        "333-292664",
+        "377-08278",
+        "377-08278"
+      ],
+      "filingDate": [
+        "2026-02-13",
+        "2026-02-05",
+        "2026-01-09",
+        "2025-10-17",
+        "2025-07-31"
+      ],
+      "filmNumber": [
+        "26628636",
+        "26600183",
+        "26524081",
+        "251401480",
+        "251172809"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0248668-09.htm",
+        "ea0248668-07.htm",
+        "ea0248668-05.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        16425054,
+        45308502,
+        22496934,
+        15753137,
+        13297494
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Lakewood-Amedex Biotherapeutics Inc.",
+  "ownerOrg": "03 Life Sciences",
+  "phone": "9412252515",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "tickers": [
+    "LABT"
+  ],
+  "website": ""
+}

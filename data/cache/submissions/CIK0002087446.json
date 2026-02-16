@@ -1,0 +1,224 @@
+{
+  "addresses": {
+    "business": {
+      "city": "DALLAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "4215 W. LOVERS LANE, SUITE 200",
+      "street2": null,
+      "zipCode": "75209"
+    },
+    "mailing": {
+      "city": "DALLAS",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "TX",
+      "stateOrCountryDescription": "TX",
+      "street1": "4215 W. LOVERS LANE, SUITE 200",
+      "street2": null,
+      "zipCode": "75209"
+    }
+  },
+  "category": "",
+  "cik": "0002087446",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    null
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-02-12T22:53:31.000Z",
+        "2026-02-12T05:15:10.000Z",
+        "2026-02-11T23:14:15.000Z",
+        "2026-02-11T21:44:05.000Z",
+        "2026-02-11T21:35:45.000Z",
+        "2026-01-29T19:28:47.000Z",
+        "2026-01-15T22:28:03.000Z",
+        "2025-12-18T01:55:38.000Z",
+        "2025-09-24T21:13:47.000Z"
+      ],
+      "accessionNumber": [
+        "0001213900-26-015712",
+        "9999999995-26-000527",
+        "0001213900-26-015063",
+        "0001354457-26-000170",
+        "0001213900-26-014940",
+        "0001213900-26-009397",
+        "0001213900-26-004766",
+        "0001213900-25-123024",
+        "0001213900-25-091196"
+      ],
+      "act": [
+        "33",
+        "33",
+        "",
+        "34",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "424B4",
+        "EFFECT",
+        "3",
+        "CERT",
+        "8-A12B",
+        "XBRL",
+        "XBRL",
+        "XBRL",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-292217",
+        "333-292217",
+        "",
+        "001-43123",
+        "001-43123",
+        "333-292217",
+        "333-292217",
+        "333-292217",
+        "377-08500"
+      ],
+      "filingDate": [
+        "2026-02-13",
+        "2026-02-11",
+        "2026-02-11",
+        "2026-02-11",
+        "2026-02-11",
+        "2026-01-29",
+        "2026-01-15",
+        "2025-12-18",
+        "2025-09-24"
+      ],
+      "filmNumber": [
+        "26627944",
+        "26623091",
+        "",
+        "26621534",
+        "26621349",
+        "26577063",
+        "26537108",
+        "251581062",
+        "251339490"
+      ],
+      "form": [
+        "424B4",
+        "EFFECT",
+        "3",
+        "CERT",
+        "8-A12B",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "items": [
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "PROSPECTUS",
+        "",
+        "",
+        "",
+        "FOR REGISTRATION OF CERTAIN CLASSES",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        ""
+      ],
+      "primaryDocument": [
+        "ea0258380-06.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "xslF345X02/ownership.xml",
+        "2087446_8A_Cert_PAAC.pdf",
+        "ea0276616-8a12b_proem1.htm",
+        "ea0258380-05.htm",
+        "ea0258380-03.htm",
+        "ea0258380-02.htm",
+        "filename1.htm"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "2026-02-11",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        4082002,
+        1727,
+        4152,
+        125801,
+        22501,
+        9053832,
+        8184378,
+        10062473,
+        4115373
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 1,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Proem Acquisition Corp. I",
+  "ownerOrg": "05 Real Estate & Construction",
+  "phone": "917-617-3327",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "tickers": [
+    "PAAC"
+  ],
+  "website": ""
+}

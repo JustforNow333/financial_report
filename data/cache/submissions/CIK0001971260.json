@@ -1,0 +1,125 @@
+{
+  "addresses": {
+    "business": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "409 - 22 LEADER LANE",
+      "street2": null,
+      "zipCode": "M5E0B2"
+    },
+    "mailing": {
+      "city": "TORONTO",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "A6",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "street1": "409 - 22 LEADER LANE",
+      "street2": null,
+      "zipCode": "M5E0B2"
+    }
+  },
+  "category": "",
+  "cik": "0001971260",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-03-05T20:10:31.000Z",
+        "2023-03-30T15:56:23.000Z"
+      ],
+      "accessionNumber": [
+        "0001971260-25-000002",
+        "0001062993-23-008092"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-540003",
+        "021-477500"
+      ],
+      "filingDate": [
+        "2025-03-06",
+        "2023-03-30"
+      ],
+      "filmNumber": [
+        "25713233",
+        "23780517"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        8487,
+        7781
+      ]
+    }
+  },
+  "fiscalYearEnd": "0630",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2023-03-30T00:00:00.000Z",
+      "name": "Web3 Ventures Inc.",
+      "to": "2023-03-30T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Cloud3 Ventures Inc.",
+  "ownerOrg": "",
+  "phone": "1-866-395-6989",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [
+    "CLDVF"
+  ],
+  "website": ""
+}

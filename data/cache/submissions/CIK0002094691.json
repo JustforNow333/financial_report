@@ -1,0 +1,104 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "zipCode": "10271"
+    }
+  },
+  "category": "",
+  "cik": "0002094691",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-18T17:28:58.000Z"
+      ],
+      "accessionNumber": [
+        "0001019155-25-000461"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-291633"
+      ],
+      "filingDate": [
+        "2025-11-18"
+      ],
+      "filmNumber": [
+        "251496032"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "isXBRL": [
+        0
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "ottof6ef.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        108842
+      ]
+    }
+  },
+  "fiscalYearEnd": "1225",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Ottobock SE & Co. KGaA/ADR",
+  "ownerOrg": "",
+  "phone": "212-238-3221",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "2M",
+  "stateOfIncorporationDescription": "Germany",
+  "tickers": [
+    "OBCKF"
+  ],
+  "website": ""
+}

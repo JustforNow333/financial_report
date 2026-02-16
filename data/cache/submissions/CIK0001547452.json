@@ -1,0 +1,136 @@
+{
+  "addresses": {
+    "business": {
+      "city": "VAUGHAN",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "6-6221 HIGHWAY 7",
+      "street2": null,
+      "zipCode": "L4H 0K8"
+    },
+    "mailing": {
+      "city": "VAUGHAN",
+      "country": "Ontario, Canada",
+      "countryCode": "A6",
+      "foreignStateTerritory": null,
+      "isForeignLocation": 1,
+      "stateOrCountry": null,
+      "stateOrCountryDescription": null,
+      "street1": "6-6221 HIGHWAY 7",
+      "street2": null,
+      "zipCode": "L4H 0K8"
+    }
+  },
+  "category": "",
+  "cik": "0001547452",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2026-01-02T15:16:22.000Z",
+        "2013-03-19T17:26:22.000Z",
+        "2012-04-19T13:35:16.000Z"
+      ],
+      "accessionNumber": [
+        "0001062993-26-000011",
+        "0001176256-13-000170",
+        "0001176256-12-000273"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-568763",
+        "021-193581",
+        "021-176961"
+      ],
+      "filingDate": [
+        "2026-01-02",
+        "2013-03-19",
+        "2012-04-19"
+      ],
+      "filmNumber": [
+        "26502068",
+        "13702774",
+        "12768000"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D"
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "items": [
+        "06b",
+        "06",
+        "06"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "size": [
+        13065,
+        9801,
+        8991
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [
+    {
+      "from": "2012-04-19T00:00:00.000Z",
+      "name": "Asher Resources Corp",
+      "to": "2013-03-19T00:00:00.000Z"
+    }
+  ],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Volatus Aerospace Inc.",
+  "ownerOrg": "",
+  "phone": "647-476-2662",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "tickers": [],
+  "website": ""
+}

@@ -1,0 +1,100 @@
+{
+  "addresses": {
+    "business": {
+      "city": "MIAMI",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "590 W FLAGLER ST UNIT 1030",
+      "street2": null,
+      "zipCode": "33130"
+    },
+    "mailing": {
+      "city": "MIAMI",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "FL",
+      "stateOrCountryDescription": "FL",
+      "street1": "590 W FLAGLER ST UNIT 1030",
+      "street2": null,
+      "zipCode": "33130"
+    }
+  },
+  "category": "",
+  "cik": "0002085372",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-11-17T21:20:50.000Z"
+      ],
+      "accessionNumber": [
+        "0001477932-25-008401"
+      ],
+      "act": [
+        "33"
+      ],
+      "core_type": [
+        "F-1"
+      ],
+      "fileNumber": [
+        "333-291589"
+      ],
+      "filingDate": [
+        "2025-11-17"
+      ],
+      "filmNumber": [
+        "251491313"
+      ],
+      "form": [
+        "F-1"
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "isXBRL": [
+        1
+      ],
+      "items": [
+        ""
+      ],
+      "primaryDocDescription": [
+        "FORM F-1"
+      ],
+      "primaryDocument": [
+        "jian_f1.htm"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "size": [
+        2078250
+      ]
+    }
+  },
+  "fiscalYearEnd": "1231",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "Jiansu (Shanghai) Information Technology Co., Ltd",
+  "ownerOrg": "",
+  "phone": "086 021 86314582",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "tickers": [],
+  "website": ""
+}

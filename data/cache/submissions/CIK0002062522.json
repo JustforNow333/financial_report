@@ -1,0 +1,121 @@
+{
+  "addresses": {
+    "business": {
+      "city": "NOTTINGHAM",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": null,
+      "stateOrCountry": "X0",
+      "stateOrCountryDescription": "United Kingdom",
+      "street1": "WILLOW ROAD",
+      "street2": "LENTON",
+      "zipCode": "NG7 2WS"
+    },
+    "mailing": {
+      "city": "NEW YORK",
+      "country": null,
+      "countryCode": null,
+      "foreignStateTerritory": null,
+      "isForeignLocation": 0,
+      "stateOrCountry": "NY",
+      "stateOrCountryDescription": "NY",
+      "street1": "C/O ALLAN GRAUBERD, ESQ., MOSES & SINGER",
+      "street2": "405 LEXINGTON AVE., 13TH FLOOR",
+      "zipCode": "10174"
+    }
+  },
+  "category": "",
+  "cik": "0002062522",
+  "description": "",
+  "ein": "000000000",
+  "entityType": "other",
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "filings": {
+    "files": [],
+    "recent": {
+      "acceptanceDateTime": [
+        "2025-06-25T15:17:57.000Z",
+        "2025-03-25T10:41:37.000Z"
+      ],
+      "accessionNumber": [
+        "0001193805-25-000931",
+        "0001104659-25-027610"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-288311",
+        "333-286075"
+      ],
+      "filingDate": [
+        "2025-06-25",
+        "2025-03-25"
+      ],
+      "filmNumber": [
+        "251073336",
+        "25766301"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6EF"
+      ],
+      "primaryDocument": [
+        "e664652_f6ef-gwg.htm",
+        "tm258657d6_f6ef.htm"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "size": [
+        110454,
+        135163
+      ]
+    }
+  },
+  "fiscalYearEnd": "0607",
+  "flags": "",
+  "formerNames": [],
+  "insiderTransactionForIssuerExists": 0,
+  "insiderTransactionForOwnerExists": 0,
+  "investorWebsite": "",
+  "lei": null,
+  "name": "GAMES WORKSHOP GROUP PLC/ADR",
+  "ownerOrg": "International Corp Fin",
+  "phone": "212-554-7883",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "tickers": [
+    "GWKSY",
+    "GMWKF"
+  ],
+  "website": ""
+}
