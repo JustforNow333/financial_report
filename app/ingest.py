@@ -384,7 +384,6 @@ def _upsert_daily_snapshot_rows(
 
 def _parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Ingest US EOD grouped bars from Polygon")
-    parser.add_argument("--once", action="store_true", help="Run ingestion once and exit")
     parser.add_argument("--asof-date", type=str, default=None, help="Override ingest date (YYYY-MM-DD)")
     return parser.parse_args()
 
@@ -400,10 +399,6 @@ def main() -> None:
     init_engine(database_url)
 
     as_of_date = date.fromisoformat(args.asof_date) if args.asof_date else None
-
-    if args.once:
-        ingest_us_eod_snapshot(as_of_date=as_of_date)
-        return
 
     ingest_us_eod_snapshot(as_of_date=as_of_date)
 

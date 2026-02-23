@@ -118,6 +118,14 @@ def _build_movers_base_stmt(
     )
 
 
+def _mover_filter_settings() -> tuple[bool, float, int]:
+    return (
+        bool(current_app.config.get("MOVER_FILTER_ENABLED", True)),
+        float(current_app.config.get("MIN_LAST_PRICE", 1.0)),
+        int(current_app.config.get("MIN_DAY_VOLUME", 100000)),
+    )
+
+
 def get_latest_movers(
     session: Session,
     *,
@@ -210,7 +218,7 @@ def get_latest_snapshots(
     ]
 
     provider = "polygon_grouped_daily_bars"
-    return asof_date, snapshots, provider or "polygon_grouped_daily_bars", total_symbols_considered
+    return asof_date, snapshots, provider, total_symbols_considered
 
 
 @api_bp.get("/industries")
@@ -243,7 +251,7 @@ def industries() -> object:
         )
 
     response_labels = ["All", *labels]
-    if unlabeled_count and unlabeled_count > 0:
+    if unlabeled_count > 0:
         response_labels.append("Unlabeled")
 
     return jsonify({"industries": response_labels})
@@ -252,7 +260,7 @@ def industries() -> object:
 @api_bp.get("/status")
 def api_status() -> object:
     session = get_session()
-    asof_date = session.scalar(select(func.max(DailyBar.date)))
+    asof_date = get_latest_asof_date(session)
     has_data = asof_date is not None
 
     date_value = None
@@ -288,9 +296,7 @@ def movers_latest() -> tuple[object, int] | object:
 
     limit = max(1, min(limit, 100))
     industry = request.args.get("industry")
-    apply_filters = bool(current_app.config.get("MOVER_FILTER_ENABLED", True))
-    min_last_price = float(current_app.config.get("MIN_LAST_PRICE", 1.0))
-    min_day_volume = int(current_app.config.get("MIN_DAY_VOLUME", 100000))
+    apply_filters, min_last_price, min_day_volume = _mover_filter_settings()
 
     (
         asof_date,
@@ -339,9 +345,7 @@ def snapshots_latest() -> tuple[object, int] | object:
     if sort not in {"pct_change_desc", "pct_change_asc"}:
         return jsonify({"error": "sort must be pct_change_desc or pct_change_asc"}), 400
 
-    apply_filters = bool(current_app.config.get("MOVER_FILTER_ENABLED", True))
-    min_last_price = float(current_app.config.get("MIN_LAST_PRICE", 1.0))
-    min_day_volume = int(current_app.config.get("MIN_DAY_VOLUME", 100000))
+    apply_filters, min_last_price, min_day_volume = _mover_filter_settings()
 
     asof_date, snapshots, provider, total_symbols_considered = get_latest_snapshots(
         session,
