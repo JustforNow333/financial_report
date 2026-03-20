@@ -92,14 +92,16 @@ Important keys:
 - Primary EOD ingest is `scripts/ingest_us_eod_snapshot.py` writing to `daily_bars`.
 - Use exactly two Polygon calls per normal run: grouped bars for as-of date and previous trading day.
 - Previous trading day must be resolved offline via local NYSE market calendar (no API holiday/session calls).
+- Primary ingest must fail closed on empty as-of Polygon results; do not delete existing `daily_bars` for that date when the upstream payload is empty.
 - Keep mover queries sourced from `daily_bars`, excluding outliers (`abs(pct_change) > 0.80`) by default.
-- Industry labels resolved via: `Company.industry` > `Symbol.industry_label` > `Ticker.sic_description`.
+- Industry labels resolved via: `Company.industry` > `Symbol.industry_label` > `Ticker.sic_description`, with blank strings normalized to unlabeled at query time.
 - Keep ingest request budget within free tier limits (2 normal calls/run, 5 req/min safe).
 
 ## Validation Checklist
 
 Before submitting changes:
 1. Run tests: `./.venv/bin/pytest -q` (Linux/macOS) or `python -m pytest -q` (Windows)
+   If you are in WSL against a Windows venv, use `venv/Scripts/python.exe -m pytest -q`.
 2. If schema changed, run `./.venv/bin/alembic upgrade head`
 3. Validate ingest path: `python scripts/ingest_us_eod_snapshot.py` and `GET /api/status`
 4. If frontend changed, run `cd frontend && npm run build` (or at least `npm run dev` smoke test)

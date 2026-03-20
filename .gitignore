@@ -42,8 +42,12 @@ logs/
 # Env and secrets
 .env
 .env.*
+**/.env
+**/.env.*
 !.env.example
+!**/.env.example
 !.env.local.example
+!**/.env.local.example
 
 # Node / Next.js
 node_modules/

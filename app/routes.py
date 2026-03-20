@@ -16,8 +16,23 @@ def get_latest_asof_date(session: Session) -> date | None:
     return session.scalar(select(func.max(DailyBar.date)))
 
 
+def _clean_optional_text(value: object | None) -> str | None:
+    if value is None:
+        return None
+    text = str(value).strip()
+    return text or None
+
+
+def _normalized_industry_column(column):
+    return func.nullif(func.trim(column), "")
+
+
 def _mover_industry_expression():
-    return func.coalesce(Company.industry, Symbol.industry_label, Ticker.sic_description)
+    return func.coalesce(
+        _normalized_industry_column(Company.industry),
+        _normalized_industry_column(Symbol.industry_label),
+        _normalized_industry_column(Ticker.sic_description),
+    )
 
 
 def _serialize_mover_row(
@@ -29,21 +44,21 @@ def _serialize_mover_row(
     rank: int,
 ) -> dict[str, object]:
     industry_value = None
-    if company is not None and company.industry:
-        industry_value = company.industry
-    elif symbol is not None and symbol.industry_label:
-        industry_value = symbol.industry_label
-    elif ticker_row is not None:
-        industry_value = ticker_row.sic_description
+    if company is not None:
+        industry_value = _clean_optional_text(company.industry)
+    if industry_value is None and symbol is not None:
+        industry_value = _clean_optional_text(symbol.industry_label)
+    if industry_value is None and ticker_row is not None:
+        industry_value = _clean_optional_text(ticker_row.sic_description)
+
+    ticker_company_name = _clean_optional_text(ticker_row.company_name) if ticker_row else None
+    company_name = _clean_optional_text(company.name) if company else None
+    symbol_name = _clean_optional_text(symbol.name) if symbol else None
 
     return {
         "rank": rank,
         "ticker": daily_bar.ticker,
-        "name": (
-            ticker_row.company_name
-            if ticker_row and ticker_row.company_name
-            else (company.name if company and company.name else (symbol.name if symbol else None))
-        ),
+        "name": ticker_company_name or company_name or symbol_name,
         "industry_label": industry_value,
         "last_price": daily_bar.close,
         "prev_close": (
@@ -146,10 +161,6 @@ def get_latest_movers(
         min_day_volume=min_day_volume,
     )
 
-    total_symbols_considered = int(
-        session.scalar(select(func.count()).select_from(base_stmt.subquery())) or 0
-    )
-
     outliers_excluded_count = int(
         session.scalar(
             select(func.count())
@@ -160,6 +171,10 @@ def get_latest_movers(
     )
 
     base_stmt, industry_value = _apply_industry_filter(base_stmt, industry)
+
+    total_symbols_considered = int(
+        session.scalar(select(func.count()).select_from(base_stmt.subquery())) or 0
+    )
 
     gainers_rows = session.execute(base_stmt.order_by(desc(DailyBar.pct_change)).limit(limit)).all()
     losers_rows = session.execute(base_stmt.order_by(asc(DailyBar.pct_change)).limit(limit)).all()

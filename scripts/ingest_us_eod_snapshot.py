@@ -109,6 +109,11 @@ def _extract_results(response: object) -> list[object]:
     if response is None:
         return []
     if isinstance(response, dict):
+        status = str(response.get("status", "")).strip().upper()
+        error = response.get("error")
+        if status == "ERROR" or error:
+            detail = str(error or response.get("message") or "Unknown Polygon API error").strip()
+            raise RuntimeError(f"Polygon grouped daily bars request failed: {detail}")
         rows = response.get("results")
         return rows if isinstance(rows, list) else []
     if hasattr(response, "json"):
@@ -117,6 +122,11 @@ def _extract_results(response: object) -> list[object]:
         except Exception:
             return []
         if isinstance(payload, dict):
+            status = str(payload.get("status", "")).strip().upper()
+            error = payload.get("error")
+            if status == "ERROR" or error:
+                detail = str(error or payload.get("message") or "Unknown Polygon API error").strip()
+                raise RuntimeError(f"Polygon grouped daily bars request failed: {detail}")
             rows = payload.get("results")
             return rows if isinstance(rows, list) else []
     return []
@@ -237,6 +247,12 @@ def ingest_us_eod_snapshot(as_of_date: date | None = None) -> dict[str, object]:
 
     today_rows = _extract_results(today_resp)
     prev_rows = _extract_results(prev_resp)
+
+    if not today_rows:
+        raise RuntimeError(
+            "Polygon grouped daily bars returned no rows for as_of_date="
+            f"{as_of.isoformat()}. No data was written."
+        )
 
     prev_close_map = _build_prev_close_map(prev_rows)
 
