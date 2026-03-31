@@ -21,3 +21,40 @@ export type MoversResponse = {
 export type IndustriesResponse = {
   industries: string[];
 };
+
+export type InternationalSnapshotRow = {
+  ticker: string;
+  name: string | null;
+  exchange: string;
+  country: string;
+  currency: string;
+  local_price: number | null;
+  usd_price: number | null;
+  prev_close: number | null;
+  pct_growth: number | null;
+  market_cap: number | null;
+  as_of_date: string;
+  provider: string;
+  price_timestamp_utc: string | null;
+  fx_timestamp_utc: string | null;
+  market_status: string | null;
+};
+
+export type InternationalSnapshotsResponse = {
+  asof_date: string;
+  provider: string;
+  count: number;
+  total_available: number;
+  country: string | null;
+  exchange: string | null;
+  snapshots: InternationalSnapshotRow[];
+};
+
+export type InternationalMoversResponse = {
+  asof_date: string;
+  provider: string;
+  country: string | null;
+  exchange: string | null;
+  gainers: InternationalSnapshotRow[];
+  losers: InternationalSnapshotRow[];
+};

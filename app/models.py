@@ -181,3 +181,33 @@ class DailyBar(Base):
         nullable=False,
         default=lambda: datetime.now(timezone.utc),
     )
+
+
+class InternationalSnapshot(Base):
+    __tablename__ = "international_snapshots"
+    __table_args__ = (
+        Index("ix_international_snapshots_asof_date", "as_of_date"),
+        Index("ix_international_snapshots_country", "country"),
+        Index("ix_international_snapshots_exchange", "exchange"),
+    )
+
+    provider_symbol: Mapped[str] = mapped_column(String(32), primary_key=True)
+    as_of_date: Mapped[date] = mapped_column(Date, primary_key=True)
+    company_name: Mapped[str] = mapped_column(String(256), nullable=False)
+    exchange: Mapped[str] = mapped_column(String(64), nullable=False)
+    country: Mapped[str] = mapped_column(String(64), nullable=False)
+    local_currency: Mapped[str] = mapped_column(String(16), nullable=False)
+    local_price: Mapped[float] = mapped_column(Float, nullable=False)
+    usd_price: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
+    previous_local_close: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
+    pct_growth: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
+    market_cap: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
+    provider: Mapped[str] = mapped_column(String(32), nullable=False)
+    price_timestamp_utc: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), nullable=True)
+    fx_timestamp_utc: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), nullable=True)
+    market_status: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(timezone.utc),
+    )

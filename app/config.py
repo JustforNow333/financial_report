@@ -35,6 +35,10 @@ class Settings:
     gemini_api_key: str | None
     gemini_base_url: str
     gemini_model: str
+    eodhd_api_key: str | None = None
+    eodhd_base_url: str = "https://eodhd.com"
+    international_universe_path: str = "data/international_companies.seed.json"
+    international_stale_after_days: int = 3
 
     @classmethod
     def from_env(cls) -> "Settings":
@@ -68,6 +72,13 @@ class Settings:
                 "https://generativelanguage.googleapis.com/v1beta",
             ).rstrip("/"),
             gemini_model=os.getenv("GEMINI_MODEL", "gemini-3-flash"),
+            eodhd_api_key=os.getenv("EODHD_API_KEY"),
+            eodhd_base_url=os.getenv("EODHD_BASE_URL", "https://eodhd.com").rstrip("/"),
+            international_universe_path=os.getenv(
+                "INTERNATIONAL_UNIVERSE_PATH",
+                "data/international_companies.seed.json",
+            ),
+            international_stale_after_days=int(os.getenv("INTERNATIONAL_STALE_AFTER_DAYS", "3")),
         )
 
     def as_flask_config(self) -> dict[str, object]:
@@ -80,4 +91,8 @@ class Settings:
             "MOVER_FILTER_ENABLED": self.mover_filter_enabled,
             "MIN_LAST_PRICE": self.min_last_price,
             "MIN_DAY_VOLUME": self.min_day_volume,
+            "EODHD_API_KEY": self.eodhd_api_key,
+            "EODHD_BASE_URL": self.eodhd_base_url,
+            "INTERNATIONAL_UNIVERSE_PATH": self.international_universe_path,
+            "INTERNATIONAL_STALE_AFTER_DAYS": self.international_stale_after_days,
         }

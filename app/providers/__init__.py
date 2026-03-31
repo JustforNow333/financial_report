@@ -3,6 +3,7 @@ from __future__ import annotations
 from app.config import Settings
 
 from .base import MarketDataProvider
+from .eodhd import EodhdInternationalProvider
 from .fmp import FmpEodBulkProvider
 from .polygon import PolygonSnapshotProvider
 

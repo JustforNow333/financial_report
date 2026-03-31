@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "description": "Curated major non-US companies for international latest-known USD-normalized snapshot. Symbols should be validated against EODHD exchange symbol lists before use.",
+  "countries": {
+    "Canada": {
+      "exchange": "TO",
+      "currency": "CAD",
+      "companies": [
+        { "symbol": "RY.TO", "name": "Royal Bank of Canada", "active": true },
+        { "symbol": "TD.TO", "name": "Toronto-Dominion Bank", "active": true },
+        { "symbol": "BN.TO", "name": "Brookfield Corporation", "active": true },
+        { "symbol": "ENB.TO", "name": "Enbridge", "active": true },
+        { "symbol": "CP.TO", "name": "Canadian Pacific Kansas City", "active": true },
+        { "symbol": "CNR.TO", "name": "Canadian National Railway", "active": true },
+        { "symbol": "BMO.TO", "name": "Bank of Montreal", "active": true },
+        { "symbol": "BNS.TO", "name": "Bank of Nova Scotia", "active": true },
+        { "symbol": "SU.TO", "name": "Suncor Energy", "active": true },
+        { "symbol": "SHOP.TO", "name": "Shopify", "active": true }
+      ]
+    },
+    "United Kingdom": {
+      "exchange": "LSE",
+      "currency": "GBP",
+      "companies": [
+        { "symbol": "SHEL.LSE", "name": "Shell", "active": true },
+        { "symbol": "AZN.LSE", "name": "AstraZeneca", "active": true },
+        { "symbol": "HSBA.LSE", "name": "HSBC Holdings", "active": true },
+        { "symbol": "ULVR.LSE", "name": "Unilever", "active": true },
+        { "symbol": "REL.LSE", "name": "RELX", "active": true },
+        { "symbol": "BP.LSE", "name": "BP", "active": true },
+        { "symbol": "RIO.LSE", "name": "Rio Tinto", "active": true },
+        { "symbol": "DGE.LSE", "name": "Diageo", "active": true },
+        { "symbol": "GLEN.LSE", "name": "Glencore", "active": true },
+        { "symbol": "LSEG.LSE", "name": "London Stock Exchange Group", "active": true }
+      ]
+    },
+    "Germany": {
+      "exchange": "XETRA",
+      "currency": "EUR",
+      "companies": [
+        { "symbol": "SAP.XETRA", "name": "SAP", "active": true },
+        { "symbol": "SIE.XETRA", "name": "Siemens", "active": true },
+        { "symbol": "ALV.XETRA", "name": "Allianz", "active": true },
+        { "symbol": "DTE.XETRA", "name": "Deutsche Telekom", "active": true },
+        { "symbol": "MBG.XETRA", "name": "Mercedes-Benz Group", "active": true },
+        { "symbol": "BMW.XETRA", "name": "BMW", "active": true },
+        { "symbol": "ENR.XETRA", "name": "Siemens Energy", "active": true },
+        { "symbol": "DB1.XETRA", "name": "Deutsche Boerse", "active": true },
+        { "symbol": "BAS.XETRA", "name": "BASF", "active": true },
+        { "symbol": "IFX.XETRA", "name": "Infineon Technologies", "active": true }
+      ]
+    },
+    "France": {
+      "exchange": "PA",
+      "currency": "EUR",
+      "companies": [
+        { "symbol": "MC.PA", "name": "LVMH", "active": true },
+        { "symbol": "TTE.PA", "name": "TotalEnergies", "active": true },
+        { "symbol": "SU.PA", "name": "Schneider Electric", "active": true },
+        { "symbol": "SAN.PA", "name": "Sanofi", "active": true },
+        { "symbol": "AI.PA", "name": "Air Liquide", "active": true },
+        { "symbol": "RMS.PA", "name": "Hermes", "active": true },
+        { "symbol": "BNP.PA", "name": "BNP Paribas", "active": true },
+        { "symbol": "EL.PA", "name": "EssilorLuxottica", "active": true },
+        { "symbol": "DG.PA", "name": "Vinci", "active": true },
+        { "symbol": "SAF.PA", "name": "Safran", "active": true }
+      ]
+    },
+    "Netherlands": {
+      "exchange": "AS",
+      "currency": "EUR",
+      "companies": [
+        { "symbol": "ASML.AS", "name": "ASML Holding", "active": true },
+        { "symbol": "SHELL.AS", "name": "Shell", "active": true },
+        { "symbol": "INGA.AS", "name": "ING Groep", "active": true },
+        { "symbol": "PRX.AS", "name": "Prosus", "active": true },
+        { "symbol": "ADYEN.AS", "name": "Adyen", "active": true },
+        { "symbol": "WKL.AS", "name": "Wolters Kluwer", "active": true },
+        { "symbol": "HEIA.AS", "name": "Heineken", "active": true },
+        { "symbol": "UMG.AS", "name": "Universal Music Group", "active": true },
+        { "symbol": "AD.AS", "name": "Ahold Delhaize", "active": true },
+        { "symbol": "DSFIR.AS", "name": "DSM-Firmenich", "active": true }
+      ]
+    },
+    "Switzerland": {
+      "exchange": "SW",
+      "currency": "CHF",
+      "companies": [
+        { "symbol": "NESN.SW", "name": "Nestle", "active": true },
+        { "symbol": "NOVN.SW", "name": "Novartis", "active": true },
+        { "symbol": "ROG.SW", "name": "Roche Holding", "active": true },
+        { "symbol": "UBSG.SW", "name": "UBS Group", "active": true },
+        { "symbol": "ABBN.SW", "name": "ABB", "active": true },
+        { "symbol": "ZURN.SW", "name": "Zurich Insurance Group", "active": true },
+        { "symbol": "CFR.SW", "name": "Compagnie Financiere Richemont", "active": true },
+        { "symbol": "SREN.SW", "name": "Swiss Re", "active": true },
+        { "symbol": "LONN.SW", "name": "Lonza Group", "active": true },
+        { "symbol": "HOLN.SW", "name": "Holcim", "active": true }
+      ]
+    },
+    "Japan": {
+      "exchange": "TSE",
+      "currency": "JPY",
+      "companies": [
+        { "symbol": "7203.TSE", "name": "Toyota Motor", "active": true },
+        { "symbol": "6758.TSE", "name": "Sony Group", "active": true },
+        { "symbol": "8306.TSE", "name": "Mitsubishi UFJ Financial Group", "active": true },
+        { "symbol": "6861.TSE", "name": "Keyence", "active": true },
+        { "symbol": "6501.TSE", "name": "Hitachi", "active": true },
+        { "symbol": "7974.TSE", "name": "Nintendo", "active": true },
+        { "symbol": "9984.TSE", "name": "SoftBank Group", "active": true },
+        { "symbol": "8035.TSE", "name": "Tokyo Electron", "active": true },
+        { "symbol": "4063.TSE", "name": "Shin-Etsu Chemical", "active": true },
+        { "symbol": "6098.TSE", "name": "Recruit Holdings", "active": true }
+      ]
+    },
+    "South Korea": {
+      "exchange": "KO",
+      "currency": "KRW",
+      "companies": [
+        { "symbol": "005930.KO", "name": "Samsung Electronics", "active": true },
+        { "symbol": "000660.KO", "name": "SK Hynix", "active": true },
+        { "symbol": "207940.KO", "name": "Samsung Biologics", "active": true },
+        { "symbol": "373220.KO", "name": "LG Energy Solution", "active": true },
+        { "symbol": "005380.KO", "name": "Hyundai Motor", "active": true },
+        { "symbol": "000270.KO", "name": "Kia", "active": true },
+        { "symbol": "035420.KO", "name": "NAVER", "active": true },
+        { "symbol": "068270.KO", "name": "Celltrion", "active": true },
+        { "symbol": "105560.KO", "name": "KB Financial Group", "active": true },
+        { "symbol": "005490.KO", "name": "POSCO Holdings", "active": true }
+      ]
+    },
+    "Taiwan": {
+      "exchange": "TW",
+      "currency": "TWD",
+      "companies": [
+        { "symbol": "2330.TW", "name": "Taiwan Semiconductor Manufacturing", "active": true },
+        { "symbol": "2454.TW", "name": "MediaTek", "active": true },
+        { "symbol": "2317.TW", "name": "Hon Hai Precision Industry", "active": true },
+        { "symbol": "2308.TW", "name": "Delta Electronics", "active": true },
+        { "symbol": "2382.TW", "name": "Quanta Computer", "active": true },
+        { "symbol": "2881.TW", "name": "Fubon Financial", "active": true },
+        { "symbol": "2882.TW", "name": "Cathay Financial Holding", "active": true },
+        { "symbol": "2891.TW", "name": "CTBC Financial Holding", "active": true },
+        { "symbol": "2886.TW", "name": "Mega Financial Holding", "active": true },
+        { "symbol": "2884.TW", "name": "E.Sun Financial Holding", "active": true }
+      ]
+    },
+    "Australia": {
+      "exchange": "AU",
+      "currency": "AUD",
+      "companies": [
+        { "symbol": "BHP.AU", "name": "BHP Group", "active": true },
+        { "symbol": "CBA.AU", "name": "Commonwealth Bank of Australia", "active": true },
+        { "symbol": "CSL.AU", "name": "CSL", "active": true },
+        { "symbol": "NAB.AU", "name": "National Australia Bank", "active": true },
+        { "symbol": "WBC.AU", "name": "Westpac Banking", "active": true },
+        { "symbol": "ANZ.AU", "name": "ANZ Group Holdings", "active": true },
+        { "symbol": "MQG.AU", "name": "Macquarie Group", "active": true },
+        { "symbol": "WES.AU", "name": "Wesfarmers", "active": true },
+        { "symbol": "WDS.AU", "name": "Woodside Energy Group", "active": true },
+        { "symbol": "GMG.AU", "name": "Goodman Group", "active": true }
+      ]
+    }
+  }
+}

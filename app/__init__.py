@@ -14,11 +14,14 @@ def create_app(settings: Settings | None = None) -> Flask:
     app.config.update(local_settings.as_flask_config())
     CORS(app, resources={r"/api/*": {"origins": "*"}})
 
+    remove_session()
     init_engine(local_settings.database_url)
 
     from .routes import api_bp
+    from .international_routes import international_api_bp
 
     app.register_blueprint(api_bp)
+    app.register_blueprint(international_api_bp)
 
     @app.get("/healthz")
     def healthz() -> dict[str, str]:

@@ -79,5 +79,11 @@ Thumbs.db
 # Local verification outputs
 tmp/
 
+# Generated reference data
+data/us_ticker_company_map.csv
+data/sec_company_ticker_industry.csv
+data/sec_company_ticker_industry.json
+data/cache/
+
 # Local agent metadata
 .claude/

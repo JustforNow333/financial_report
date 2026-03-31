@@ -17,6 +17,17 @@ export const formatMoney = (value: number | null): string => {
   return `$${value.toFixed(2)}`;
 };
 
+export const formatCurrencyValue = (value: number | null, currency: string): string => {
+  if (value === null || Number.isNaN(value)) {
+    return "-";
+  }
+  const normalizedCurrency = currency.trim().toUpperCase();
+  if (!normalizedCurrency) {
+    return value.toFixed(2);
+  }
+  return `${normalizedCurrency} ${value.toFixed(2)}`;
+};
+
 export const formatPct = (value: number | null): string => {
   if (value === null || Number.isNaN(value)) {
     return "-";
